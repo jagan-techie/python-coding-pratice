@@ -1,3 +1,81 @@
+### 📄 d:\Vs Code\python-coding-pratice\list\list1.py
+*Saved at: 7/15/2026, 9:25:28 AM*
+
+**[REMOVED]**
+```
+(from line ~11)
+    # Condition 1: Print if divisible by 5
+
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\list\list1.py
+*Saved at: 7/15/2026, 9:25:24 AM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    # Condition 3: Stop the loop if number > 500
+
+```
+**[ADDED]**
+```
+4     
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\list\list1.py
+*Saved at: 7/15/2026, 9:25:20 AM*
+
+**[REMOVED]**
+```
+(from line ~8)
+    # Condition 2: Skip the number if > 150
+
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\list\list1.py
+*Saved at: 7/15/2026, 9:25:16 AM*
+
+**[ADDED]**
+```
+1     numbers = [12, 75, 150, 180, 145, 525, 50]
+2     
+3     for item in numbers:
+4         # Condition 3: Stop the loop if number > 500
+5         if item > 500:
+6             break
+7         
+8         # Condition 2: Skip the number if > 150
+9         if item > 150:
+10            continue
+11        
+12        # Condition 1: Print if divisible by 5
+13        if item % 5 == 0:
+14            print(item)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\loops\for loop3.py
+*Saved at: 7/15/2026, 9:17:04 AM*
+
+**[REMOVED]**
+```
+(from line ~11)
+        print(item)push
+```
+**[ADDED]**
+```
+11            print(item)
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\loops\for loop3.py
 *Saved at: 7/14/2026, 11:55:43 PM*
 
