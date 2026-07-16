@@ -1,3 +1,26 @@
+### 📄 d:\Vs Code\python-coding-pratice\day 1\amstrong.py
+*Saved at: 7/16/2026, 11:12:59 PM*
+
+**[ADDED]**
+```
+1     n = int(input())
+2     
+3     temp = n
+4     sum = 0
+5     
+6     while temp > 0:
+7         digit = temp % 10
+8         sum += digit ** 3
+9         temp //= 10
+10    
+11    if sum == n:
+12        print("Armstrong")
+13    else:
+14        print("Not Armstrong")
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\day 1\palindrome.py
 *Saved at: 7/16/2026, 11:07:23 PM*
 
