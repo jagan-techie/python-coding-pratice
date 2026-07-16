@@ -1,3 +1,18 @@
+### 📄 d:\Vs Code\python-coding-pratice\day 1\palindrome.py
+*Saved at: 7/16/2026, 11:07:23 PM*
+
+**[ADDED]**
+```
+1     n = input()
+2     
+3     if n == n[::-1]:
+4         print("Palindrome")
+5     else:
+6         print("Not Palindrome")
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\day 1\prime_nonprime.py
 *Saved at: 7/16/2026, 11:00:38 PM*
 
