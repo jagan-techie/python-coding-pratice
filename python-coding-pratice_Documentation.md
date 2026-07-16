@@ -1,3 +1,24 @@
+### 📄 d:\Vs Code\python-coding-pratice\finbinocii_generator.py
+*Saved at: 7/16/2026, 8:10:25 AM*
+
+**[ADDED]**
+```
+1     def fibonacci_generator():
+2         a, b = 0, 1
+3         while True:
+4             yield a
+5             a, b = b, a + b
+6     
+7     # Infinite generator initialized
+8     fib = fibonacci_generator()
+9     
+10    # Print the first 10 Fibonacci numbers dynamically
+11    for _ in range(10):
+12        print(next(fib), end=" ")
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\additional1.py
 *Saved at: 7/16/2026, 8:08:07 AM*
 
