@@ -1,3 +1,83 @@
+### 📄 d:\Vs Code\python-coding-pratice\day 1\prime_nonprime.py
+*Saved at: 7/16/2026, 11:00:38 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+public class Prime {
+    public static void main(String[] args) {
+        int n = 13;
+        int count = 0;
+
+```
+**[ADDED]**
+```
+1     n = int(input())
+```
+**[REMOVED]**
+```
+(from line ~3)
+        for(int i=1;i<=n;i++){
+            if(n%i==0){
+                count++;
+            }
+        }
+
+```
+**[ADDED]**
+```
+3     count = 0
+```
+**[REMOVED]**
+```
+(from line ~5)
+        if(count==2)
+            System.out.println("Prime");
+        else
+            System.out.println("Not Prime");
+    }
+}
+```
+**[ADDED]**
+```
+5     for i in range(1, n + 1):
+6         if n % i == 0:
+7             count += 1
+8     
+9     if count == 2:
+10        print("Prime")
+11    else:
+12        print("Not Prime")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 1\prime_nonprime.py
+*Saved at: 7/16/2026, 10:59:41 PM*
+
+**[ADDED]**
+```
+1     public class Prime {
+2         public static void main(String[] args) {
+3             int n = 13;
+4             int count = 0;
+5     
+6             for(int i=1;i<=n;i++){
+7                 if(n%i==0){
+8                     count++;
+9                 }
+10            }
+11    
+12            if(count==2)
+13                System.out.println("Prime");
+14            else
+15                System.out.println("Not Prime");
+16        }
+17    }
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\finbinocii_generator.py
 *Saved at: 7/16/2026, 8:10:25 AM*
 
