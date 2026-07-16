@@ -1,3 +1,35 @@
+### 📄 d:\Vs Code\python-coding-pratice\additional.py
+*Saved at: 7/16/2026, 8:05:56 AM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    # Counter automatically adds values for matching keys
+
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\additional.py
+*Saved at: 7/16/2026, 8:05:52 AM*
+
+**[ADDED]**
+```
+1     from collections import Counter
+2     
+3     def merge_inventories(dict1, dict2):
+4         # Counter automatically adds values for matching keys
+5         return dict(Counter(dict1) + Counter(dict2))
+6     
+7     store_a = {'apples': 10, 'bananas': 5, 'oranges': 8}
+8     store_b = {'bananas': 12, 'oranges': 2, 'grapes': 15}
+9     
+10    combined = merge_inventories(store_a, store_b)
+11    print("Merged Inventory:", combined)
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\list\list1.py
 *Saved at: 7/15/2026, 9:25:28 AM*
 
