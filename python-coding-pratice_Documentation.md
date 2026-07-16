@@ -1,3 +1,28 @@
+### 📄 d:\Vs Code\python-coding-pratice\additional1.py
+*Saved at: 7/16/2026, 8:08:07 AM*
+
+**[ADDED]**
+```
+1     import time
+2     
+3     def timer_decorator(func):
+4         def wrapper(*args, **kwargs):
+5             start_time = time.time()
+6             result = func(*args, **kwargs)
+7             end_time = time.time()
+8             print(f"Function '{func.__name__}' took {end_time - start_time:.6f} seconds to run.")
+9             return result
+10        return wrapper
+11    
+12    @timer_decorator
+13    def heavy_calculation():
+14        return sum(i * i for i in range(1_000_000))
+15    
+16    heavy_calculation()
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\additional.py
 *Saved at: 7/16/2026, 8:05:56 AM*
 
