@@ -1,3 +1,423 @@
+### 📄 d:\Vs Code\python-coding-pratice\day 2\countdown_timer.py
+*Saved at: 7/18/2026, 4:31:38 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+print()
+
+```
+**[ADDED]**
+```
+5     print("...")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\countdown_timer.py
+*Saved at: 7/18/2026, 4:31:35 PM*
+
+**[ADDED]**
+```
+5     print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\countdown_timer.py
+*Saved at: 7/18/2026, 4:31:16 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    print(timer")
+
+```
+**[ADDED]**
+```
+3         print(timer)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\countdown_timer.py
+*Saved at: 7/18/2026, 4:31:12 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    print(timer}")
+
+```
+**[ADDED]**
+```
+3         print(timer")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\countdown_timer.py
+*Saved at: 7/18/2026, 4:31:10 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    print(f"t-minus {timer}")
+
+```
+**[ADDED]**
+```
+3         print(timer}")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\countdown_timer.py
+*Saved at: 7/18/2026, 4:30:49 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+print("Blast off! ")
+```
+**[ADDED]**
+```
+5     print("Blast off! 🚀")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\countdown_timer.py
+*Saved at: 7/18/2026, 4:30:34 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+print("Blast off")
+```
+**[ADDED]**
+```
+5     print("Blast off! ")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\countdown_timer.py
+*Saved at: 7/18/2026, 4:30:32 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+print("B")
+```
+**[ADDED]**
+```
+5     print("Blast off")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\countdown_timer.py
+*Saved at: 7/18/2026, 4:30:27 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+print()
+```
+**[ADDED]**
+```
+5     print("B")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\countdown_timer.py
+*Saved at: 7/18/2026, 4:30:24 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+print
+```
+**[ADDED]**
+```
+5     print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\countdown_timer.py
+*Saved at: 7/18/2026, 4:30:23 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+p
+```
+**[ADDED]**
+```
+5     print
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\countdown_timer.py
+*Saved at: 7/18/2026, 4:30:21 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    
+```
+**[ADDED]**
+```
+5     p
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\countdown_timer.py
+*Saved at: 7/18/2026, 4:30:20 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    timer -= 1
+```
+**[ADDED]**
+```
+4         timer -= 1
+5         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\countdown_timer.py
+*Saved at: 7/18/2026, 4:30:18 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    timer 
+```
+**[ADDED]**
+```
+4         timer -= 1
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\countdown_timer.py
+*Saved at: 7/18/2026, 4:30:16 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    print(f"t-minus {timer}")
+```
+**[ADDED]**
+```
+3         print(f"t-minus {timer}")
+4         timer 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\countdown_timer.py
+*Saved at: 7/18/2026, 4:30:10 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    print(f"t-minus")
+```
+**[ADDED]**
+```
+3         print(f"t-minus {timer}")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\countdown_timer.py
+*Saved at: 7/18/2026, 4:30:06 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    print(f"")
+```
+**[ADDED]**
+```
+3         print(f"t-minus")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\countdown_timer.py
+*Saved at: 7/18/2026, 4:30:01 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    print(f)
+```
+**[ADDED]**
+```
+3         print(f"")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\countdown_timer.py
+*Saved at: 7/18/2026, 4:29:59 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    print()
+```
+**[ADDED]**
+```
+3         print(f)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\countdown_timer.py
+*Saved at: 7/18/2026, 4:29:54 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    print
+```
+**[ADDED]**
+```
+3         print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\countdown_timer.py
+*Saved at: 7/18/2026, 4:29:53 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    
+```
+**[ADDED]**
+```
+3         print
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\countdown_timer.py
+*Saved at: 7/18/2026, 4:29:50 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+while timer > 0;
+
+```
+**[ADDED]**
+```
+2     while timer > 0:
+3         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\countdown_timer.py
+*Saved at: 7/18/2026, 4:29:48 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+while timer > 
+```
+**[ADDED]**
+```
+2     while timer > 0;
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\countdown_timer.py
+*Saved at: 7/18/2026, 4:29:45 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+while timer 
+```
+**[ADDED]**
+```
+2     while timer > 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\countdown_timer.py
+*Saved at: 7/18/2026, 4:29:44 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+timer = 5
+```
+**[ADDED]**
+```
+1     timer = 5
+2     while timer 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\countdown_timer.py
+*Saved at: 7/18/2026, 4:29:38 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+timer = 
+```
+**[ADDED]**
+```
+1     timer = 5
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\countdown_timer.py
+*Saved at: 7/18/2026, 4:29:37 PM*
+
+**[ADDED]**
+```
+1     timer = 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\decrementing.py
+*Saved at: 7/18/2026, 4:27:25 PM*
+
+**[ADDED]**
+```
+1     balance = 50
+2     
+3     while balance > 0:
+4         print(f"Current Balance: ${balance}")
+5         balance -= 10  # Subtracts 10 each iteration
+6     
+7     print("You are out of money!")
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\day 2\while_continue.py
 *Saved at: 7/18/2026, 4:26:03 PM*
 
