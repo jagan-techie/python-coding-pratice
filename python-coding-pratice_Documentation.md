@@ -1,3 +1,562 @@
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:20:42 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+while password!= "secret123"
+
+```
+**[ADDED]**
+```
+2     while password!= "secret123":
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:20:35 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+print("Acess granted")        
+```
+**[ADDED]**
+```
+6     print("Acess granted!")        
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:20:34 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+print("")        
+```
+**[ADDED]**
+```
+6     print("Acess granted")        
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:20:28 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+print        
+```
+**[ADDED]**
+```
+6     print("")        
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:20:26 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        
+```
+**[ADDED]**
+```
+6     print        
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:20:22 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+        print("Acess denied.try again.")
+```
+**[ADDED]**
+```
+5             print("Acess denied.try again.")
+6             
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:20:18 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+        print("Acess denied.try")
+```
+**[ADDED]**
+```
+5             print("Acess denied.try again.")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:20:15 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+        print("Acess denied")
+```
+**[ADDED]**
+```
+5             print("Acess denied.try")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:20:13 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+        print("Acess ")
+```
+**[ADDED]**
+```
+5             print("Acess denied")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:20:11 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+        print("")
+```
+**[ADDED]**
+```
+5             print("Acess ")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:20:07 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+        print
+```
+**[ADDED]**
+```
+5             print("")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:20:05 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+        
+```
+**[ADDED]**
+```
+5             print
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:20:03 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    if password != "secret123";
+```
+**[ADDED]**
+```
+4         if password != "secret123":
+5             
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:19:32 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    if password != "secret123"
+```
+**[ADDED]**
+```
+4         if password != "secret123";
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:19:30 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    if password != "secret"
+```
+**[ADDED]**
+```
+4         if password != "secret123"
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:19:27 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    if password != "sec"
+```
+**[ADDED]**
+```
+4         if password != "secret"
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:19:25 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    if password != 
+```
+**[ADDED]**
+```
+4         if password != "sec"
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:19:23 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    if password !
+```
+**[ADDED]**
+```
+4         if password != 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:19:22 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    if 
+```
+**[ADDED]**
+```
+4         if password !
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:19:18 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    password = input("Enter the password: ")
+```
+**[ADDED]**
+```
+3         password = input("Enter the password: ")
+4         if 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:19:15 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    password = input("Enter the password:")
+```
+**[ADDED]**
+```
+3         password = input("Enter the password: ")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:19:12 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    password = input("Enter the password")
+```
+**[ADDED]**
+```
+3         password = input("Enter the password:")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:19:11 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    password = input("Enter the ")
+```
+**[ADDED]**
+```
+3         password = input("Enter the password")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:19:08 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    password = input()
+```
+**[ADDED]**
+```
+3         password = input("Enter the ")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:18:56 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    password 
+```
+**[ADDED]**
+```
+3         password = input()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:18:52 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    password
+```
+**[ADDED]**
+```
+3         password 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:18:51 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    passw
+```
+**[ADDED]**
+```
+3         password
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:18:49 PM*
+
+**[ADDED]**
+```
+3         passw
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:18:44 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+while password!= "secret123"
+```
+**[ADDED]**
+```
+2     while password!= "secret123"
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:18:43 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+while password!= "secret12"
+```
+**[ADDED]**
+```
+2     while password!= "secret123"
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:18:42 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+while password!= "secret"
+```
+**[ADDED]**
+```
+2     while password!= "secret12"
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:18:40 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+while password!=
+```
+**[ADDED]**
+```
+2     while password!= "secret"
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:18:35 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+while password!
+```
+**[ADDED]**
+```
+2     while password!=
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:18:33 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+while 
+```
+**[ADDED]**
+```
+2     while password!
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:18:29 PM*
+
+**[ADDED]**
+```
+2     while 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:18:27 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+password = " "
+```
+**[ADDED]**
+```
+1     password = " "
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:18:25 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+password 
+```
+**[ADDED]**
+```
+1     password = " "
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
+*Saved at: 7/18/2026, 4:18:23 PM*
+
+**[ADDED]**
+```
+1     password 
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\day 2\whileloop(1-5).py
 *Saved at: 7/18/2026, 4:13:42 PM*
 
