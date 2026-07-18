@@ -1,3 +1,20 @@
+### 📄 d:\Vs Code\python-coding-pratice\day 2\while_break.py
+*Saved at: 7/18/2026, 4:23:26 PM*
+
+**[ADDED]**
+```
+1     while True:
+2         user_input = input("Type 'exit' to stop the program: ").lower()
+3         
+4         if user_input == "exit":
+5             print("Goodbye!")
+6             break  # Forces immediate exit from the loop
+7             
+8         print(f"You typed: {user_input}")
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\day 2\user_input_validation.py
 *Saved at: 7/18/2026, 4:20:42 PM*
 
