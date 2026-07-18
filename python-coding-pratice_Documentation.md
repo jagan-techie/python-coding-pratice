@@ -1,3 +1,334 @@
+### 📄 d:\Vs Code\python-coding-pratice\day 2\while_continue.py
+*Saved at: 7/18/2026, 4:26:03 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+while num < 5:
+
+```
+**[ADDED]**
+```
+2     while num < 10:
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\while_continue.py
+*Saved at: 7/18/2026, 4:25:49 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    print(f"value: ")
+```
+**[ADDED]**
+```
+6         print(f"value: {num}")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\while_continue.py
+*Saved at: 7/18/2026, 4:25:45 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    print(f"value")
+```
+**[ADDED]**
+```
+6         print(f"value: ")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\while_continue.py
+*Saved at: 7/18/2026, 4:25:42 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    print(f)
+```
+**[ADDED]**
+```
+6         print(f"value")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\while_continue.py
+*Saved at: 7/18/2026, 4:25:39 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    print()
+```
+**[ADDED]**
+```
+6         print(f)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\while_continue.py
+*Saved at: 7/18/2026, 4:25:38 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    print
+```
+**[ADDED]**
+```
+6         print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\while_continue.py
+*Saved at: 7/18/2026, 4:25:37 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    
+```
+**[ADDED]**
+```
+6         print
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\while_continue.py
+*Saved at: 7/18/2026, 4:25:35 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+        continue
+```
+**[ADDED]**
+```
+5             continue
+6         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\while_continue.py
+*Saved at: 7/18/2026, 4:25:32 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    if num == 3
+```
+**[ADDED]**
+```
+4         if num == 3:
+5             continue
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\while_continue.py
+*Saved at: 7/18/2026, 4:25:27 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    if num == 3 
+```
+**[ADDED]**
+```
+4         if num == 3
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\while_continue.py
+*Saved at: 7/18/2026, 4:25:23 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    if num == 
+```
+**[ADDED]**
+```
+4         if num == 3 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\while_continue.py
+*Saved at: 7/18/2026, 4:25:22 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    if num =
+```
+**[ADDED]**
+```
+4         if num == 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\while_continue.py
+*Saved at: 7/18/2026, 4:25:20 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    
+```
+**[ADDED]**
+```
+4         if num =
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\while_continue.py
+*Saved at: 7/18/2026, 4:25:16 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    num += 1
+```
+**[ADDED]**
+```
+3         num += 1
+4         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\while_continue.py
+*Saved at: 7/18/2026, 4:25:14 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    num +=
+```
+**[ADDED]**
+```
+3         num += 1
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\while_continue.py
+*Saved at: 7/18/2026, 4:25:13 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    num 
+```
+**[ADDED]**
+```
+3         num +=
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\while_continue.py
+*Saved at: 7/18/2026, 4:25:11 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    
+```
+**[ADDED]**
+```
+3         num 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\while_continue.py
+*Saved at: 7/18/2026, 4:25:09 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+while num < 5
+```
+**[ADDED]**
+```
+2     while num < 5:
+3         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\while_continue.py
+*Saved at: 7/18/2026, 4:25:08 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+while num < 
+```
+**[ADDED]**
+```
+2     while num < 5
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\while_continue.py
+*Saved at: 7/18/2026, 4:25:04 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+while num 
+```
+**[ADDED]**
+```
+2     while num < 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\while_continue.py
+*Saved at: 7/18/2026, 4:25:03 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+num = 0
+```
+**[ADDED]**
+```
+1     num = 0
+2     while num 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\while_continue.py
+*Saved at: 7/18/2026, 4:24:57 PM*
+
+**[ADDED]**
+```
+1     num = 0
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\day 2\while_break.py
 *Saved at: 7/18/2026, 4:23:26 PM*
 
