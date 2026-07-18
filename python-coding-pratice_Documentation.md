@@ -1,3 +1,220 @@
+### 📄 d:\Vs Code\python-coding-pratice\day 2\whileloop(1-5).py
+*Saved at: 7/18/2026, 4:13:42 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    count +
+```
+**[ADDED]**
+```
+4         count += 1
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\whileloop(1-5).py
+*Saved at: 7/18/2026, 4:13:39 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    count 
+```
+**[ADDED]**
+```
+4         count +
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\whileloop(1-5).py
+*Saved at: 7/18/2026, 4:13:37 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    count _
+```
+**[ADDED]**
+```
+4         count 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\whileloop(1-5).py
+*Saved at: 7/18/2026, 4:13:35 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    count 
+```
+**[ADDED]**
+```
+4         count _
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\whileloop(1-5).py
+*Saved at: 7/18/2026, 4:13:27 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    count--
+```
+**[ADDED]**
+```
+4         count 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\whileloop(1-5).py
+*Saved at: 7/18/2026, 4:13:01 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    count --
+```
+**[ADDED]**
+```
+4         count--
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\whileloop(1-5).py
+*Saved at: 7/18/2026, 4:12:59 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    count 
+```
+**[ADDED]**
+```
+4         count --
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\whileloop(1-5).py
+*Saved at: 7/18/2026, 4:12:57 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    
+```
+**[ADDED]**
+```
+4         count 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\whileloop(1-5).py
+*Saved at: 7/18/2026, 4:12:54 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    print(count)
+```
+**[ADDED]**
+```
+3         print(count)
+4         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\whileloop(1-5).py
+*Saved at: 7/18/2026, 4:12:53 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    print("")
+```
+**[ADDED]**
+```
+3         print(count)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\whileloop(1-5).py
+*Saved at: 7/18/2026, 4:12:49 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+while count <= 5
+```
+**[ADDED]**
+```
+2     while count <= 5:
+3         print("")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\whileloop(1-5).py
+*Saved at: 7/18/2026, 4:12:43 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+while 
+```
+**[ADDED]**
+```
+2     while count <= 5
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\whileloop(1-5).py
+*Saved at: 7/18/2026, 4:12:38 PM*
+
+**[ADDED]**
+```
+2     while 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\whileloop(1-5).py
+*Saved at: 7/18/2026, 4:12:33 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+count = 1
+```
+**[ADDED]**
+```
+1     count = 1
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\whileloop(1-5).py
+*Saved at: 7/18/2026, 4:12:18 PM*
+
+**[ADDED]**
+```
+1     count = 1
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\day 1\amstrong.py
 *Saved at: 7/16/2026, 11:12:59 PM*
 
