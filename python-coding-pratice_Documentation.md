@@ -1,3 +1,562 @@
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:38:08 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    num 
+
+```
+**[ADDED]**
+```
+5         num -= 1
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:38:05 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    
+
+```
+**[ADDED]**
+```
+5         num 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:38:03 PM*
+
+**[ADDED]**
+```
+5         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:37:54 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+print(f"result: {factorila}")
+
+```
+**[ADDED]**
+```
+5     print(f"result: {factorial}")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:37:51 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+print(f"result: {}")
+
+```
+**[ADDED]**
+```
+5     print(f"result: {factorila}")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:37:47 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+print(f"result: ")
+
+```
+**[ADDED]**
+```
+5     print(f"result: {}")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:37:46 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+print(f"result ")
+
+```
+**[ADDED]**
+```
+5     print(f"result: ")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:37:44 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+print(f"result")
+
+```
+**[ADDED]**
+```
+5     print(f"result ")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:37:43 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+print(f"")
+
+```
+**[ADDED]**
+```
+5     print(f"result")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:37:37 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+print(f)
+
+```
+**[ADDED]**
+```
+5     print(f"")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:37:34 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+print()
+
+```
+**[ADDED]**
+```
+5     print(f)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:37:32 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+p
+
+```
+**[ADDED]**
+```
+5     print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:37:29 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    
+
+```
+**[ADDED]**
+```
+5     p
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:37:21 PM*
+
+**[ADDED]**
+```
+5         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:37:18 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    factorial = num
+
+```
+**[ADDED]**
+```
+4         factorial *= num
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:37:14 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    factorial = 
+
+```
+**[ADDED]**
+```
+4         factorial = num
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:37:11 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    nu
+
+```
+**[ADDED]**
+```
+4         factorial = 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:37:04 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+
+
+```
+**[ADDED]**
+```
+4         nu
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:37:02 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+     
+
+```
+**[ADDED]**
+```
+4     
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:37:00 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    
+
+```
+**[ADDED]**
+```
+4          
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:36:59 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    print
+
+```
+**[ADDED]**
+```
+4         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:36:57 PM*
+
+**[ADDED]**
+```
+4         print
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:36:52 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+num = int(input("enter the number:"))
+
+```
+**[ADDED]**
+```
+1     num = int(input("enter the number: "))
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:36:50 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+num = int(input("enter the number"))
+
+```
+**[ADDED]**
+```
+1     num = int(input("enter the number:"))
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:36:49 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+num = int(input("enter the "))
+
+```
+**[ADDED]**
+```
+1     num = int(input("enter the number"))
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:36:46 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+num = int(input())
+
+```
+**[ADDED]**
+```
+1     num = int(input("enter the "))
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:36:39 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+num = int(input)
+
+```
+**[ADDED]**
+```
+1     num = int(input())
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:36:38 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+num = 7
+
+```
+**[ADDED]**
+```
+1     num = int(input)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:36:30 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+num = 
+
+```
+**[ADDED]**
+```
+1     num = 7
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:36:29 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+num = 5
+
+```
+**[ADDED]**
+```
+1     num = 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:36:23 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+while num > 1
+```
+**[ADDED]**
+```
+3     while num > 1:
+4         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:36:21 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+while 
+```
+**[ADDED]**
+```
+3     while num > 1
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:36:16 PM*
+
+**[ADDED]**
+```
+3     while 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:36:14 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+factorial = 1
+```
+**[ADDED]**
+```
+2     factorial = 1
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:36:13 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+factorial 
+```
+**[ADDED]**
+```
+2     factorial = 1
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:36:11 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+num = 5
+```
+**[ADDED]**
+```
+1     num = 5
+2     factorial 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
+*Saved at: 7/18/2026, 4:36:05 PM*
+
+**[ADDED]**
+```
+1     num = 5
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\day 2\countdown_timer.py
 *Saved at: 7/18/2026, 4:31:38 PM*
 
