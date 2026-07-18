@@ -1,3 +1,1142 @@
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:48:54 PM*
+
+**[REMOVED]**
+```
+(from line ~10)
+    print("Account locked. ")jag
+
+```
+**[ADDED]**
+```
+10        print("Account locked. ")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:48:52 PM*
+
+**[REMOVED]**
+```
+(from line ~10)
+    print("Account locked. ")
+
+```
+**[ADDED]**
+```
+10        print("Account locked. ")jag
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:48:47 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    if password == ":
+
+```
+**[ADDED]**
+```
+4         if password == "jagan@123":
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:48:42 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    if password == "your_password_here":
+
+```
+**[ADDED]**
+```
+4         if password == ":
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:48:24 PM*
+
+**[REMOVED]**
+```
+(from line ~10)
+    print("account locked. ")
+
+```
+**[ADDED]**
+```
+10        print("Account locked. ")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:48:14 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+    print("attempts remaining: {attempts}")
+
+```
+**[ADDED]**
+```
+8         print(f"attempts remaining: {attempts}")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:48:09 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+    print("attempts remaining: {}")
+
+```
+**[ADDED]**
+```
+8         print("attempts remaining: {attempts}")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:48:06 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+    print("attempts remaining")
+
+```
+**[ADDED]**
+```
+8         print("attempts remaining: {}")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:48:01 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+    print("attempts remi")
+
+```
+**[ADDED]**
+```
+8         print("attempts remaining")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:47:58 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+    print("attempts finished try after sometime:")
+
+```
+**[ADDED]**
+```
+8         print("attempts remi")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:47:46 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+    print("attempts finished try after sometime")
+
+```
+**[ADDED]**
+```
+8         print("attempts finished try after sometime:")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:47:44 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+    print("attempts finished ")
+
+```
+**[ADDED]**
+```
+8         print("attempts finished try after sometime")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:47:38 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+    print("attempts ")
+
+```
+**[ADDED]**
+```
+8         print("attempts finished ")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:47:33 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+    print("")
+
+```
+**[ADDED]**
+```
+8         print("attempts ")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:47:28 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+    print()
+
+```
+**[ADDED]**
+```
+8         print("")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:47:26 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+    
+
+```
+**[ADDED]**
+```
+8         print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:47:23 PM*
+
+**[ADDED]**
+```
+8         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:47:19 PM*
+
+**[REMOVED]**
+```
+(from line ~9)
+    print("account locked.")
+
+```
+**[ADDED]**
+```
+9         print("account locked. ")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:47:17 PM*
+
+**[REMOVED]**
+```
+(from line ~9)
+    print("account locked")
+
+```
+**[ADDED]**
+```
+9         print("account locked.")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:47:15 PM*
+
+**[REMOVED]**
+```
+(from line ~9)
+    print("acc")
+
+```
+**[ADDED]**
+```
+9         print("account locked")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:47:10 PM*
+
+**[REMOVED]**
+```
+(from line ~9)
+    print()
+
+```
+**[ADDED]**
+```
+9         print("acc")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:47:04 PM*
+
+**[REMOVED]**
+```
+(from line ~9)
+    
+
+```
+**[ADDED]**
+```
+9         print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:47:01 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+else
+
+```
+**[ADDED]**
+```
+8     else:
+9         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:47:00 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+    
+
+```
+**[ADDED]**
+```
+8     else
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:46:57 PM*
+
+**[ADDED]**
+```
+8         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:46:56 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+    attempts -= 
+
+```
+**[ADDED]**
+```
+7         attempts -= 1
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:46:54 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+    attempts 
+
+```
+**[ADDED]**
+```
+7         attempts -= 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:46:52 PM*
+
+**[ADDED]**
+```
+7         attempts 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:46:44 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        
+
+```
+**[ADDED]**
+```
+6             break
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:46:41 PM*
+
+**[ADDED]**
+```
+6             
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:46:32 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    password = input("enter the password.")
+
+```
+**[ADDED]**
+```
+3         password = input("enter the password: ")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:46:30 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    password = input("enter the password")
+
+```
+**[ADDED]**
+```
+3         password = input("enter the password.")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:46:28 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    pass
+
+```
+**[ADDED]**
+```
+3         password = input("enter the password")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:46:16 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    
+
+```
+**[ADDED]**
+```
+3         pass
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:46:14 PM*
+
+**[ADDED]**
+```
+3         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:46:09 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    else:
+        print()
+```
+**[ADDED]**
+```
+5         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:45:57 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    else:
+```
+**[ADDED]**
+```
+5         else:
+6             print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:45:53 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    else
+```
+**[ADDED]**
+```
+5         else:
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:45:52 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+        
+```
+**[ADDED]**
+```
+5         else
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:45:49 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+        print("Acess granted!")
+```
+**[ADDED]**
+```
+4             print("Acess granted!")
+5             
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:45:46 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+        print("Acess granted")
+```
+**[ADDED]**
+```
+4             print("Acess granted!")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:45:45 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+        print("Acess ")
+```
+**[ADDED]**
+```
+4             print("Acess granted")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:45:41 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+        print("")
+```
+**[ADDED]**
+```
+4             print("Acess ")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:45:32 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+        print()
+```
+**[ADDED]**
+```
+4             print("")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:45:29 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+        
+```
+**[ADDED]**
+```
+4             print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:45:21 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    if password = "your_password_here":
+
+```
+**[ADDED]**
+```
+3         if password == "your_password_here":
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:45:18 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    if password = "your_password_here"
+```
+**[ADDED]**
+```
+3         if password = "your_password_here":
+4             
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:45:12 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    if password = "your password_here"
+```
+**[ADDED]**
+```
+3         if password = "your_password_here"
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:45:09 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    if password = "your password here"
+```
+**[ADDED]**
+```
+3         if password = "your password_here"
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:45:06 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    if password = "your "
+```
+**[ADDED]**
+```
+3         if password = "your password here"
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:45:02 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    if password = "yp"
+```
+**[ADDED]**
+```
+3         if password = "your "
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:44:59 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    if password = ""
+```
+**[ADDED]**
+```
+3         if password = "yp"
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:44:57 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    if password
+```
+**[ADDED]**
+```
+3         if password = ""
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:44:55 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    if atte
+```
+**[ADDED]**
+```
+3         if password
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:44:50 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    if a
+```
+**[ADDED]**
+```
+3         if atte
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:44:49 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    
+```
+**[ADDED]**
+```
+3         if a
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:44:43 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+while attempts > 0
+```
+**[ADDED]**
+```
+2     while attempts > 0:
+3         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:44:41 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+while attempts 
+```
+**[ADDED]**
+```
+2     while attempts > 0
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:44:38 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+while attempts
+```
+**[ADDED]**
+```
+2     while attempts 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:44:34 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+while attempts 
+```
+**[ADDED]**
+```
+2     while attempts
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:44:29 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+while attemps
+```
+**[ADDED]**
+```
+2     while attempts 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:44:27 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+attempts = 3
+```
+**[ADDED]**
+```
+1     attempts = 3
+2     while attemps
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:44:21 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+attempts = 
+```
+**[ADDED]**
+```
+1     attempts = 3
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:44:19 PM*
+
+**[ADDED]**
+```
+1     attempts = 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:44:14 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+attempts = 3
+while attempts > 0:
+    password = input("enter the password: ")
+    if passw
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:43:58 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    
+```
+**[ADDED]**
+```
+4         if passw
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:43:14 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    password = input("enter the password: ")
+```
+**[ADDED]**
+```
+3         password = input("enter the password: ")
+4         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:43:05 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    password = input("enter the password")
+```
+**[ADDED]**
+```
+3         password = input("enter the password: ")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:43:01 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    password = i
+```
+**[ADDED]**
+```
+3         password = input("enter the password")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:42:51 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    
+```
+**[ADDED]**
+```
+3         password = i
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:42:46 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+while attempts > 0
+```
+**[ADDED]**
+```
+2     while attempts > 0:
+3         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:42:43 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+while attempts > 
+```
+**[ADDED]**
+```
+2     while attempts > 0
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:42:42 PM*
+
+**[ADDED]**
+```
+2     while attempts > 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:42:35 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+attempts = 3
+```
+**[ADDED]**
+```
+1     attempts = 3
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:42:34 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+attem
+```
+**[ADDED]**
+```
+1     attempts = 3
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
+*Saved at: 7/18/2026, 4:42:30 PM*
+
+**[ADDED]**
+```
+1     attem
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\day 2\factorial.py
 *Saved at: 7/18/2026, 4:38:08 PM*
 
