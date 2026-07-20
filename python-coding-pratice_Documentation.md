@@ -1,3 +1,1064 @@
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:38:57 PM*
+
+**[REMOVED]**
+```
+(from line ~16)
+print(f"the score of the string is:{sum}")
+
+```
+**[ADDED]**
+```
+16    print(f"the score of the string is: {sum}")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:38:49 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+
+
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:38:42 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+
+
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:38:38 PM*
+
+**[REMOVED]**
+```
+(from line ~13)
+
+
+
+
+
+
+
+
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:38:32 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+Input: s = "hello"
+
+```
+**[ADDED]**
+```
+2     # Input: s = "hello"
+```
+**[REMOVED]**
+```
+(from line ~4)
+Output: 13
+
+```
+**[ADDED]**
+```
+4     # Output: 13
+```
+**[REMOVED]**
+```
+(from line ~6)
+Explanation:
+
+```
+**[ADDED]**
+```
+6     # Explanation:
+```
+**[REMOVED]**
+```
+(from line ~8)
+The ASCII values of the characters in s are: 
+    'h' = 104, 'e' = 101, 'l' = 108, 'o' = 111.
+    So, the score of s would be |104 - 101| + |101 - 108| + |108 - 108| + |108 - 111| 
+    = 3 + 7 + 0 + 3 = 13.
+
+```
+**[ADDED]**
+```
+8     # The ASCII values of the characters in s are: 
+9     #     'h' = 104, 'e' = 101, 'l' = 108, 'o' = 111.
+10    #     So, the score of s would be |104 - 101| + |101 - 108| + |108 - 108| + |108 - 111| 
+11    #     = 3 + 7 + 0 + 3 = 13.
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:38:27 PM*
+
+**[REMOVED]**
+```
+(from line ~10)
+    So, the score of s would be |104 - 101| + |101 - 108| + |108 - 108| + |108 - 111| = 3 + 7 + 0 + 3 = 13.
+
+```
+**[ADDED]**
+```
+10        So, the score of s would be |104 - 101| + |101 - 108| + |108 - 108| + |108 - 111| 
+11        = 3 + 7 + 0 + 3 = 13.
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:38:23 PM*
+
+**[REMOVED]**
+```
+(from line ~9)
+    'h' = 104, 'e' = 101, 'l' = 108, 'o' = 111. So, the score of s would be |104 - 101| + |101 - 108| + |108 - 108| + |108 - 111| = 3 + 7 + 0 + 3 = 13.
+
+```
+**[ADDED]**
+```
+9         'h' = 104, 'e' = 101, 'l' = 108, 'o' = 111.
+10        So, the score of s would be |104 - 101| + |101 - 108| + |108 - 108| + |108 - 111| = 3 + 7 + 0 + 3 = 13.
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:38:20 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+The ASCII values of the characters in s are: 'h' = 104, 'e' = 101, 'l' = 108, 'o' = 111. So, the score of s would be |104 - 101| + |101 - 108| + |108 - 108| + |108 - 111| = 3 + 7 + 0 + 3 = 13.
+
+```
+**[ADDED]**
+```
+8     The ASCII values of the characters in s are: 
+9         'h' = 104, 'e' = 101, 'l' = 108, 'o' = 111. So, the score of s would be |104 - 101| + |101 - 108| + |108 - 108| + |108 - 111| = 3 + 7 + 0 + 3 = 13.
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:38:15 PM*
+
+**[ADDED]**
+```
+2     Input: s = "hello"
+```
+**[ADDED]**
+```
+4     Output: 13
+```
+**[ADDED]**
+```
+6     Explanation:
+```
+**[ADDED]**
+```
+8     The ASCII values of the characters in s are: 'h' = 104, 'e' = 101, 'l' = 108, 'o' = 111. So, the score of s would be |104 - 101| + |101 - 108| + |108 - 108| + |108 - 111| = 3 + 7 + 0 + 3 = 13.
+```
+**[ADDED]**
+```
+15    
+16    
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:38:12 PM*
+
+**[ADDED]**
+```
+1     
+2     
+3     
+4     
+5     
+6     
+7     
+8     
+9     
+10    
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:38:06 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+Input: s = "hello"
+
+Output: 13
+
+Explanation:
+
+The ASCII values of the characters in s are: 'h' = 104, 'e' = 101, 'l' = 108, 'o' = 111. So, the score of s would be |104 - 101| + |101 - 108| + |108 - 108| + |108 - 111| = 3 + 7 + 0 + 3 = 13.s = "answer"
+
+```
+**[ADDED]**
+```
+1     s = "answer"
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:38:02 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+s = "answer"
+
+```
+**[ADDED]**
+```
+1     Input: s = "hello"
+2     
+3     Output: 13
+4     
+5     Explanation:
+6     
+7     The ASCII values of the characters in s are: 'h' = 104, 'e' = 101, 'l' = 108, 'o' = 111. So, the score of s would be |104 - 101| + |101 - 108| + |108 - 108| + |108 - 111| = 3 + 7 + 0 + 3 = 13.s = "answer"
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:37:40 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+print(f"the score of the string is :{sum}")
+
+```
+**[ADDED]**
+```
+6     print(f"the score of the string is:{sum}")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:37:36 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+print(f"the score of the string is :{sum)
+
+```
+**[ADDED]**
+```
+6     print(f"the score of the string is :{sum}")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:37:34 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+print(f"the score of the string is :sum)
+
+```
+**[ADDED]**
+```
+6     print(f"the score of the string is :{sum)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:37:33 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+print(f"the score of the string issum)
+
+```
+**[ADDED]**
+```
+6     print(f"the score of the string is :sum)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:37:30 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+print(f"the score of the stringsum)
+
+```
+**[ADDED]**
+```
+6     print(f"the score of the string issum)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:37:28 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+print(f"sum)
+
+```
+**[ADDED]**
+```
+6     print(f"the score of the stringsum)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:37:17 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+print(fsum)
+
+```
+**[ADDED]**
+```
+6     print(f"sum)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:37:15 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+print(sum)
+
+```
+**[ADDED]**
+```
+6     print(fsum)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:37:02 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    diff = abs(ord(s[i]) - ord(s[i+1])))
+
+```
+**[ADDED]**
+```
+4         diff = abs(ord(s[i]) - ord(s[i+1]))
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:36:58 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    diff = abs(ord(s[i] - ord(s[i+1])))
+
+```
+**[ADDED]**
+```
+4         diff = abs(ord(s[i]) - ord(s[i+1])))
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:34:30 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    diff = abs(ord(s[i]- ord(s[i+1])))
+
+```
+**[ADDED]**
+```
+4         diff = abs(ord(s[i] - ord(s[i+1])))
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:34:29 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    diff = abs(ord(s[i]-ord(s[i+1])))
+
+```
+**[ADDED]**
+```
+4         diff = abs(ord(s[i]- ord(s[i+1])))
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:32:06 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+print()
+
+```
+**[ADDED]**
+```
+6     print(sum)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:32:02 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    
+
+```
+**[ADDED]**
+```
+5         sum += diff
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:31:53 PM*
+
+**[ADDED]**
+```
+5         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:31:51 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+
+
+```
+**[ADDED]**
+```
+5     print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:31:48 PM*
+
+**[ADDED]**
+```
+5     
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:31:43 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    diff = abs(ord(s[i]-ord(s[i])))
+
+```
+**[ADDED]**
+```
+4         diff = abs(ord(s[i]-ord(s[i+1])))
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:31:42 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    diff = abs(ord(s[i]-ord))
+
+```
+**[ADDED]**
+```
+4         diff = abs(ord(s[i]-ord(s[i])))
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:31:38 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    diff = abs(ord(s[i]))
+
+```
+**[ADDED]**
+```
+4         diff = abs(ord(s[i]-ord))
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:31:34 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    diff = abs(ord(s))
+
+```
+**[ADDED]**
+```
+4         diff = abs(ord(s[i]))
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:31:32 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    diff = abs()
+
+```
+**[ADDED]**
+```
+4         diff = abs(ord(s))
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:31:29 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    diff = 
+
+```
+**[ADDED]**
+```
+4         diff = abs()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:31:24 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    temp = 
+
+```
+**[ADDED]**
+```
+4         diff = 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:31:19 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    
+
+```
+**[ADDED]**
+```
+4         temp = 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:31:13 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    print()
+
+```
+**[ADDED]**
+```
+4         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:31:04 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    print("")
+
+```
+**[ADDED]**
+```
+4         print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:31:03 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+for i in range(len(s)-1);
+
+```
+**[ADDED]**
+```
+3     for i in range(len(s)-1):
+4         print("")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:30:57 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+for i in range(len(s)-1)
+
+```
+**[ADDED]**
+```
+3     for i in range(len(s)-1);
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:30:56 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+for i in range(len(s))
+
+```
+**[ADDED]**
+```
+3     for i in range(len(s)-1)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:30:52 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+for i in range(len)
+
+```
+**[ADDED]**
+```
+3     for i in range(len(s))
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:30:51 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+
+
+```
+**[ADDED]**
+```
+3     for i in range(len)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:30:44 PM*
+
+**[ADDED]**
+```
+3     
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:30:43 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+ = 0
+
+```
+**[ADDED]**
+```
+2     sum = 0
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:30:40 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+n = 0
+
+```
+**[ADDED]**
+```
+2      = 0
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:30:36 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+n = 0
+```
+**[ADDED]**
+```
+2     n = 0
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:30:35 PM*
+
+**[ADDED]**
+```
+2     n = 0
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:30:31 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+s = "answer"
+```
+**[ADDED]**
+```
+1     s = "answer"
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
+*Saved at: 7/20/2026, 10:30:25 PM*
+
+**[ADDED]**
+```
+1     s = "answer"
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\list\Main.java
+*Saved at: 7/20/2026, 3:58:40 PM*
+
+**[REMOVED]**
+```
+(from line ~10)
+        File imageFile = new File("image_.jpg");
+
+```
+**[ADDED]**
+```
+10            File imageFile = new File("image_.jpeg");
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\list\Main.java
+*Saved at: 7/20/2026, 3:56:48 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+package list;
+
+```
+**[ADDED]**
+```
+1     import java.awt.Color;
+2     import java.awt.image.BufferedImage;
+3     import java.io.File;
+4     import java.io.IOException;
+5     import javax.imageio.ImageIO;
+```
+**[REMOVED]**
+```
+(from line ~8)
+    
+}
+
+```
+**[ADDED]**
+```
+8         public static void main(String[] args) {
+9             // Referencing the provided file name
+10            File imageFile = new File("image_.jpg");
+11    
+12            try {
+13                BufferedImage image = ImageIO.read(imageFile);
+14                
+15                if (image == null) {
+16                    System.out.println("Error: Could not load the image. Ensure the file name is correct.");
+17                    return;
+18                }
+19    
+20                // Set the desired width for the console output
+21                int consoleWidth = 120; 
+22                
+23                // Calculate aspect ratio. 
+24                // We multiply by 0.5 because console characters are roughly twice as tall as they are wide.
+25                double aspectRatio = (double) image.getHeight() / image.getWidth();
+26                int consoleHeight = (int) (consoleWidth * aspectRatio * 0.5);
+27    
+28                // Loop through the new scaled dimensions
+29                for (int y = 0; y < consoleHeight; y++) {
+30                    for (int x = 0; x < consoleWidth; x++) {
+31                        
+32                        // Map the console coordinates back to the original image's pixels
+33                        int origX = (int) (x * ((double) image.getWidth() / consoleWidth));
+34                        int origY = (int) (y * ((double) image.getHeight() / consoleHeight));
+35    
+36                        // Get the color of the pixel
+37                        Color pixelColor = new Color(image.getRGB(origX, origY));
+38    
+39                        // Calculate the brightness (average of Red, Green, and Blue)
+40                        int brightness = (pixelColor.getRed() + pixelColor.getGreen() + pixelColor.getBlue()) / 3;
+41    
+42                        // If the pixel is dark, print a star; otherwise, print a space
+43                        // You can adjust the '128' threshold to make the image darker or lighter
+44                        if (brightness < 120) {
+45                            System.out.print("*");
+46                        } else {
+47                            System.out.print(" ");
+48                        }
+49                    }
+50                    // Move to the next line after finishing a row
+51                    System.out.println();
+52                }
+53    
+54            } catch (IOException e) {
+55                System.out.println("An error occurred while trying to read the file: " + e.getMessage());
+56            }
+57        }
+58    }
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\list\Main.java
+*Saved at: 7/20/2026, 3:56:34 PM*
+
+**[ADDED]**
+```
+1     package list;
+2     
+3     public class Main {
+4         
+5     }
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\numberseries1.java
+*Saved at: 7/20/2026, 2:59:38 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+public class numberseries {
+
+```
+**[ADDED]**
+```
+3     public class numberseries1 {
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\numberseries1.java
+*Saved at: 7/20/2026, 2:58:58 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+public class  {
+
+```
+**[ADDED]**
+```
+3     public class numberseries {
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\numberseries1.java
+*Saved at: 7/20/2026, 2:58:53 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+public class Geeks {
+
+```
+**[ADDED]**
+```
+3     public class  {
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\numberseries1.java
+*Saved at: 7/20/2026, 2:58:37 PM*
+
+**[REMOVED]**
+```
+(from line ~14)
+                System.out.print(" ");
+
+```
+**[ADDED]**
+```
+14                    System.out.print("-");
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\numberseries1.py
+*Saved at: 7/20/2026, 2:57:56 PM*
+
+**[ADDED]**
+```
+1     import java.util.*;
+2     
+3     public class Geeks {
+4         
+5         public static void printPattern(int n)
+6         {
+7             int i, j;
+8     
+9             // outer loop to handle rows
+10            for (i = n; i >= 1; i--) {
+11    
+12                // inner loop to print spaces.
+13                for (j = 1; j < i; j++) {
+14                    System.out.print(" ");
+15                }
+16    
+17                // inner loop to print stars.
+18                for (j = 0; j <= n - i; j++) {
+19                    System.out.print("*");
+20                }
+21    
+22                // printing new line for each row
+23                System.out.println();
+24            }
+25        }
+26    
+27        // Driver Function
+28        public static void main(String args[])
+29        {
+30            int n = 6;
+31            printPattern(n);
+32        }
+33    }
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\day 2\login_attempt_tracker.py
 *Saved at: 7/18/2026, 4:48:54 PM*
 
