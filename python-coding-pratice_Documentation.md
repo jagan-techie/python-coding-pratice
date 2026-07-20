@@ -1,3 +1,250 @@
+### 📄 d:\Vs Code\python-coding-pratice\day 3\jewels_Stones.py
+*Saved at: 7/21/2026, 12:55:11 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+stones = "abs"
+
+```
+**[ADDED]**
+```
+7     stones = "abbbs"
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\jewels_Stones.py
+*Saved at: 7/21/2026, 12:55:08 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+stones = "abcs"
+
+```
+**[ADDED]**
+```
+7     stones = "abs"
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\jewels_Stones.py
+*Saved at: 7/21/2026, 12:55:00 AM*
+
+**[REMOVED]**
+```
+(from line ~8)
+jewels = ""
+
+```
+**[ADDED]**
+```
+8     jewels = "ab"
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\jewels_Stones.py
+*Saved at: 7/21/2026, 12:54:58 AM*
+
+**[REMOVED]**
+```
+(from line ~8)
+
+
+```
+**[ADDED]**
+```
+8     jewels = ""
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\jewels_Stones.py
+*Saved at: 7/21/2026, 12:54:54 AM*
+
+**[ADDED]**
+```
+8     
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\jewels_Stones.py
+*Saved at: 7/21/2026, 12:54:50 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+stones = ""
+
+```
+**[ADDED]**
+```
+7     stones = "abcs"
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\jewels_Stones.py
+*Saved at: 7/21/2026, 12:54:47 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+
+
+```
+**[ADDED]**
+```
+7     stones = ""
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\jewels_Stones.py
+*Saved at: 7/21/2026, 12:54:40 AM*
+
+**[ADDED]**
+```
+6     
+7     
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\jewels_Stones.py
+*Saved at: 7/21/2026, 12:54:36 AM*
+
+**[REMOVED]**
+```
+(from line ~9)
+        ans += 
+```
+**[ADDED]**
+```
+9             ans += 1
+10    print(ans)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\jewels_Stones.py
+*Saved at: 7/21/2026, 12:54:29 AM*
+
+**[REMOVED]**
+```
+(from line ~9)
+        ans 
+```
+**[ADDED]**
+```
+9             ans += 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\jewels_Stones.py
+*Saved at: 7/21/2026, 12:54:26 AM*
+
+**[REMOVED]**
+```
+(from line ~9)
+        
+```
+**[ADDED]**
+```
+9             ans 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\jewels_Stones.py
+*Saved at: 7/21/2026, 12:54:24 AM*
+
+**[REMOVED]**
+```
+(from line ~8)
+    
+```
+**[ADDED]**
+```
+8         if i in jewels:
+9             
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\jewels_Stones.py
+*Saved at: 7/21/2026, 12:54:15 AM*
+
+**[ADDED]**
+```
+6     ans = 0
+7     for i in stones:
+8         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\jewels_Stones.py
+*Saved at: 7/21/2026, 12:53:59 AM*
+
+**[REMOVED]**
+```
+(from line ~4)
+# Output: 3
+```
+**[ADDED]**
+```
+4     # Output: 3
+5     
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\jewels_Stones.py
+*Saved at: 7/21/2026, 12:53:57 AM*
+
+**[REMOVED]**
+```
+(from line ~1)
+Example 1:
+
+```
+**[ADDED]**
+```
+1     # Example 1:
+```
+**[REMOVED]**
+```
+(from line ~3)
+Input: jewels = "aA", stones = "aAAbbbb"
+Output: 3
+```
+**[ADDED]**
+```
+3     # Input: jewels = "aA", stones = "aAAbbbb"
+4     # Output: 3
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\jewels_Stones.py
+*Saved at: 7/21/2026, 12:53:55 AM*
+
+**[ADDED]**
+```
+1     Example 1:
+2     
+3     Input: jewels = "aA", stones = "aAAbbbb"
+4     Output: 3
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
 *Saved at: 7/20/2026, 11:48:24 PM*
 
