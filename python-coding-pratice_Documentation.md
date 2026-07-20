@@ -1,3 +1,482 @@
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:48:24 PM*
+
+**[REMOVED]**
+```
+(from line ~13)
+print()
+
+```
+**[ADDED]**
+```
+13    print(ans)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:48:21 PM*
+
+**[REMOVED]**
+```
+(from line ~13)
+pr
+
+```
+**[ADDED]**
+```
+13    print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:48:19 PM*
+
+**[REMOVED]**
+```
+(from line ~13)
+prmm
+
+
+```
+**[ADDED]**
+```
+13    pr
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:48:17 PM*
+
+**[ADDED]**
+```
+14    
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:48:16 PM*
+
+**[ADDED]**
+```
+13    prmm
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:48:11 PM*
+
+**[REMOVED]**
+```
+(from line ~12)
+        ans += 
+
+```
+**[ADDED]**
+```
+12            ans += i
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:48:08 PM*
+
+**[REMOVED]**
+```
+(from line ~12)
+        ans += "[.]"
+
+```
+**[ADDED]**
+```
+12            ans += 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:48:04 PM*
+
+**[ADDED]**
+```
+12            ans += "[.]"
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:48:01 PM*
+
+**[ADDED]**
+```
+11        else:
+12            
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:47:54 PM*
+
+**[REMOVED]**
+```
+(from line ~10)
+        ans = "[.]"
+
+```
+**[ADDED]**
+```
+10            ans += "[.]"
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:47:51 PM*
+
+**[REMOVED]**
+```
+(from line ~10)
+        ans = ""
+
+```
+**[ADDED]**
+```
+10            ans = "[.]"
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:47:49 PM*
+
+**[REMOVED]**
+```
+(from line ~10)
+        ans = 
+
+```
+**[ADDED]**
+```
+10            ans = ""
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:47:41 PM*
+
+**[ADDED]**
+```
+10            ans = 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:47:35 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+
+
+```
+**[ADDED]**
+```
+7     ans = ""
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:47:32 PM*
+
+**[ADDED]**
+```
+7     
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:47:29 PM*
+
+**[REMOVED]**
+```
+(from line ~9)
+        print
+```
+**[ADDED]**
+```
+9             
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:47:27 PM*
+
+**[REMOVED]**
+```
+(from line ~9)
+        
+```
+**[ADDED]**
+```
+9             print
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:47:24 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+    if i == "."
+```
+**[ADDED]**
+```
+8         if i == ".":
+9             
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:47:23 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+    if i == 
+```
+**[ADDED]**
+```
+8         if i == "."
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:47:20 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+    if
+```
+**[ADDED]**
+```
+8         if i == 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:47:17 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+    
+```
+**[ADDED]**
+```
+8         if
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:47:15 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+    i
+```
+**[ADDED]**
+```
+8         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:47:14 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+for i in x
+```
+**[ADDED]**
+```
+7     for i in x:
+8         i
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:47:09 PM*
+
+**[ADDED]**
+```
+7     for i in x
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:47:03 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+x = "52.625.78467.242.2"
+```
+**[ADDED]**
+```
+6     x = "52.625.78467.242.2"
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:47:01 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+x = "52.625.78467.242."
+```
+**[ADDED]**
+```
+6     x = "52.625.78467.242.2"
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:47:00 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+x = "5"
+```
+**[ADDED]**
+```
+6     x = "52.625.78467.242."
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:46:55 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+x = 
+```
+**[ADDED]**
+```
+6     x = "5"
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:46:51 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+x 
+```
+**[ADDED]**
+```
+6     x = 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:46:49 PM*
+
+**[ADDED]**
+```
+6     x 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:46:47 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+# Output: "1[.]1[.]1[.]1"
+```
+**[ADDED]**
+```
+4     # Output: "1[.]1[.]1[.]1"
+5     
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:46:45 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+Example 1:
+
+```
+**[ADDED]**
+```
+1     # Example 1:
+```
+**[REMOVED]**
+```
+(from line ~3)
+Input: address = "1.1.1.1"
+Output: "1[.]1[.]1[.]1"
+```
+**[ADDED]**
+```
+3     # Input: address = "1.1.1.1"
+4     # Output: "1[.]1[.]1[.]1"
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\DefangingIPAddress.py
+*Saved at: 7/20/2026, 11:46:43 PM*
+
+**[ADDED]**
+```
+1     Example 1:
+2     
+3     Input: address = "1.1.1.1"
+4     Output: "1[.]1[.]1[.]1"
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
 *Saved at: 7/20/2026, 11:23:48 PM*
 
