@@ -1,3 +1,1241 @@
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:23:48 PM*
+
+**[REMOVED]**
+```
+(from line ~16)
+print()
+
+```
+**[ADDED]**
+```
+16    print(x)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:23:47 PM*
+
+**[ADDED]**
+```
+16    print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:23:41 PM*
+
+**[REMOVED]**
+```
+(from line ~13)
+        x += 1
+
+```
+**[ADDED]**
+```
+13            x -= 1
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:23:36 PM*
+
+**[REMOVED]**
+```
+(from line ~14)
+        x += 1
+
+```
+**[ADDED]**
+```
+15            x += 1
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:23:31 PM*
+
+**[ADDED]**
+```
+14            x += 1
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:23:28 PM*
+
+**[ADDED]**
+```
+14        else:
+```
+**[ADDED]**
+```
+16            
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:23:23 PM*
+
+**[REMOVED]**
+```
+(from line ~13)
+        x +
+
+```
+**[ADDED]**
+```
+13            x += 1
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:23:19 PM*
+
+**[ADDED]**
+```
+13            x +
+```
+**[REMOVED]**
+```
+(from line ~15)
+        
+
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:23:15 PM*
+
+**[REMOVED]**
+```
+(from line ~12)
+    if i == "--X" or i == "X--"
+
+```
+**[ADDED]**
+```
+12        if i == "--X" or i == "X--":
+```
+**[ADDED]**
+```
+14            
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:23:12 PM*
+
+**[REMOVED]**
+```
+(from line ~12)
+    if i == "--X" or i == ""
+
+```
+**[ADDED]**
+```
+12        if i == "--X" or i == "X--"
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:23:08 PM*
+
+**[REMOVED]**
+```
+(from line ~12)
+    if i == "--X"
+
+```
+**[ADDED]**
+```
+12        if i == "--X" or i == ""
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:23:02 PM*
+
+**[REMOVED]**
+```
+(from line ~12)
+    if i == "--"
+
+```
+**[ADDED]**
+```
+12        if i == "--X"
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:22:59 PM*
+
+**[REMOVED]**
+```
+(from line ~12)
+    if i == ""
+
+```
+**[ADDED]**
+```
+12        if i == "--"
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:22:57 PM*
+
+**[REMOVED]**
+```
+(from line ~12)
+    if i == 
+
+```
+**[ADDED]**
+```
+12        if i == ""
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:22:56 PM*
+
+**[REMOVED]**
+```
+(from line ~11)
+for i in oprea
+
+```
+**[ADDED]**
+```
+11    for i in operations:
+12        if i == 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:22:49 PM*
+
+**[REMOVED]**
+```
+(from line ~11)
+for i in range
+
+```
+**[ADDED]**
+```
+11    for i in oprea
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:22:44 PM*
+
+**[REMOVED]**
+```
+(from line ~10)
+x = 
+
+```
+**[ADDED]**
+```
+10    x = 0
+11    for i in range
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:22:37 PM*
+
+**[REMOVED]**
+```
+(from line ~10)
+
+
+```
+**[ADDED]**
+```
+10    x = 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:22:34 PM*
+
+**[ADDED]**
+```
+10    
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:22:33 PM*
+
+**[REMOVED]**
+```
+(from line ~9)
+operations = 
+
+```
+**[ADDED]**
+```
+9     operations = ["--X","X++","X++"]
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:22:22 PM*
+
+**[REMOVED]**
+```
+(from line ~9)
+operations
+
+```
+**[ADDED]**
+```
+9     operations = 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:22:20 PM*
+
+**[REMOVED]**
+```
+(from line ~9)
+op
+
+```
+**[ADDED]**
+```
+9     operations
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:22:18 PM*
+
+**[REMOVED]**
+```
+(from line ~9)
+operations = ["--X","X++","X++"]
+x = 0
+for i in operations:
+    if i == "--X" or i == "X--":
+        x -= 1
+    else:
+        x += 1
+print(x)
+
+```
+**[ADDED]**
+```
+9     op
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:21:52 PM*
+
+**[REMOVED]**
+```
+(from line ~12)
+    if i == "--X" or i ==  "X--":
+
+```
+**[ADDED]**
+```
+12        if i == "--X" or i == "X--":
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:21:50 PM*
+
+**[REMOVED]**
+```
+(from line ~12)
+    if i == "--X" or  "X--":
+
+```
+**[ADDED]**
+```
+12        if i == "--X" or i ==  "X--":
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:21:48 PM*
+
+**[REMOVED]**
+```
+(from line ~12)
+    if i == "--X" or "X--":
+
+```
+**[ADDED]**
+```
+12        if i == "--X" or  "X--":
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:20:43 PM*
+
+**[REMOVED]**
+```
+(from line ~16)
+    print(x)
+
+```
+**[ADDED]**
+```
+16    print(x)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:19:41 PM*
+
+**[REMOVED]**
+```
+(from line ~10)
+int x = 0
+
+```
+**[ADDED]**
+```
+10    x = 0
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:19:36 PM*
+
+**[REMOVED]**
+```
+(from line ~16)
+    print(i)
+
+```
+**[ADDED]**
+```
+16        print(x)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:19:21 PM*
+
+**[REMOVED]**
+```
+(from line ~16)
+    print()
+
+```
+**[ADDED]**
+```
+16        print(i)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:19:17 PM*
+
+**[REMOVED]**
+```
+(from line ~16)
+    print
+
+```
+**[ADDED]**
+```
+16        print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:19:16 PM*
+
+**[REMOVED]**
+```
+(from line ~16)
+    
+
+```
+**[ADDED]**
+```
+16        print
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:19:08 PM*
+
+**[ADDED]**
+```
+16        
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:19:03 PM*
+
+**[REMOVED]**
+```
+(from line ~12)
+    if i == --X" or "X--":
+
+```
+**[ADDED]**
+```
+12        if i == "--X" or "X--":
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:19:01 PM*
+
+**[REMOVED]**
+```
+(from line ~12)
+    if i == --X or "X--":
+
+```
+**[ADDED]**
+```
+12        if i == --X" or "X--":
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:19:00 PM*
+
+**[REMOVED]**
+```
+(from line ~12)
+    if i == --X or X--":
+
+```
+**[ADDED]**
+```
+12        if i == --X or "X--":
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:18:58 PM*
+
+**[REMOVED]**
+```
+(from line ~12)
+    if i == --X or X--"":
+
+```
+**[ADDED]**
+```
+12        if i == --X or X--":
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:18:56 PM*
+
+**[REMOVED]**
+```
+(from line ~12)
+    if i == --X or X--:
+
+```
+**[ADDED]**
+```
+12        if i == --X or X--"":
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:18:44 PM*
+
+**[REMOVED]**
+```
+(from line ~13)
+         -= 1
+
+```
+**[ADDED]**
+```
+13            x -= 1
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:18:43 PM*
+
+**[REMOVED]**
+```
+(from line ~13)
+        x -= 1
+
+```
+**[ADDED]**
+```
+13             -= 1
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:18:30 PM*
+
+**[REMOVED]**
+```
+(from line ~15)
+        x -= 1
+
+```
+**[ADDED]**
+```
+15            x += 1
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:18:28 PM*
+
+**[ADDED]**
+```
+15            x -= 1
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:18:18 PM*
+
+**[ADDED]**
+```
+14        else:
+15            
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:18:13 PM*
+
+**[REMOVED]**
+```
+(from line ~13)
+        x -= 
+
+```
+**[ADDED]**
+```
+13            x -= 1
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:18:11 PM*
+
+**[REMOVED]**
+```
+(from line ~13)
+        x 
+
+```
+**[ADDED]**
+```
+13            x -= 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:18:07 PM*
+
+**[REMOVED]**
+```
+(from line ~13)
+        x _
+
+```
+**[ADDED]**
+```
+13            x 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:18:06 PM*
+
+**[REMOVED]**
+```
+(from line ~13)
+        x 
+
+```
+**[ADDED]**
+```
+13            x _
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:18:03 PM*
+
+**[REMOVED]**
+```
+(from line ~13)
+        
+
+```
+**[ADDED]**
+```
+13            x 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:18:01 PM*
+
+**[ADDED]**
+```
+13            
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:17:53 PM*
+
+**[REMOVED]**
+```
+(from line ~10)
+int x = 
+
+```
+**[ADDED]**
+```
+10    int x = 0
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:17:51 PM*
+
+**[REMOVED]**
+```
+(from line ~10)
+int 
+
+```
+**[ADDED]**
+```
+10    int x = 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:17:47 PM*
+
+**[ADDED]**
+```
+10    int 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:17:35 PM*
+
+**[REMOVED]**
+```
+(from line ~11)
+    if i = --X or X--:
+
+```
+**[ADDED]**
+```
+11        if i == --X or X--:
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:17:26 PM*
+
+**[REMOVED]**
+```
+(from line ~11)
+    if i = --X or X--
+```
+**[ADDED]**
+```
+11        if i = --X or X--:
+12            
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:17:22 PM*
+
+**[REMOVED]**
+```
+(from line ~11)
+    if i = --X or X
+```
+**[ADDED]**
+```
+11        if i = --X or X--
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:17:21 PM*
+
+**[REMOVED]**
+```
+(from line ~11)
+    if i = --X or 
+```
+**[ADDED]**
+```
+11        if i = --X or X
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:17:18 PM*
+
+**[REMOVED]**
+```
+(from line ~10)
+for i in operations:
+```
+**[ADDED]**
+```
+10    for i in operations:
+11        if i = --X or 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:17:16 PM*
+
+**[REMOVED]**
+```
+(from line ~10)
+for i in operations:--
+```
+**[ADDED]**
+```
+10    for i in operations:
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:17:14 PM*
+
+**[REMOVED]**
+```
+(from line ~10)
+for i in operations:
+    if i = --X or 
+```
+**[ADDED]**
+```
+10    for i in operations:--
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:17:12 PM*
+
+**[REMOVED]**
+```
+(from line ~11)
+    if i = --X
+```
+**[ADDED]**
+```
+11        if i = --X or 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:17:09 PM*
+
+**[REMOVED]**
+```
+(from line ~11)
+    if i = -- 
+```
+**[ADDED]**
+```
+11        if i = --X
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:16:58 PM*
+
+**[REMOVED]**
+```
+(from line ~11)
+    if i =  
+```
+**[ADDED]**
+```
+11        if i = -- 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:16:56 PM*
+
+**[REMOVED]**
+```
+(from line ~11)
+    if i = 
+```
+**[ADDED]**
+```
+11        if i =  
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:16:55 PM*
+
+**[REMOVED]**
+```
+(from line ~11)
+    if x = 
+```
+**[ADDED]**
+```
+11        if i = 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:16:44 PM*
+
+**[REMOVED]**
+```
+(from line ~11)
+    if 
+```
+**[ADDED]**
+```
+11        if x = 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:16:41 PM*
+
+**[REMOVED]**
+```
+(from line ~11)
+    
+```
+**[ADDED]**
+```
+11        if 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:16:38 PM*
+
+**[REMOVED]**
+```
+(from line ~10)
+for i in operations:
+```
+**[ADDED]**
+```
+10    for i in operations:
+11        
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:16:36 PM*
+
+**[REMOVED]**
+```
+(from line ~10)
+for i in operations
+```
+**[ADDED]**
+```
+10    for i in operations:
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:16:34 PM*
+
+**[REMOVED]**
+```
+(from line ~10)
+for i in opra
+```
+**[ADDED]**
+```
+10    for i in operations
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:16:33 PM*
+
+**[REMOVED]**
+```
+(from line ~10)
+for i in 
+```
+**[ADDED]**
+```
+10    for i in opra
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:16:31 PM*
+
+**[ADDED]**
+```
+10    for i in 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:16:24 PM*
+
+**[REMOVED]**
+```
+(from line ~9)
+operations = ["--X","X++","X++"]
+```
+**[ADDED]**
+```
+9     operations = ["--X","X++","X++"]
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:16:22 PM*
+
+**[REMOVED]**
+```
+(from line ~9)
+operations = []
+```
+**[ADDED]**
+```
+9     operations = ["--X","X++","X++"]
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:16:06 PM*
+
+**[REMOVED]**
+```
+(from line ~9)
+operations = 
+```
+**[ADDED]**
+```
+9     operations = []
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:16:03 PM*
+
+**[ADDED]**
+```
+9     operations = 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:15:56 PM*
+
+**[REMOVED]**
+```
+(from line ~9)
+
+
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:15:55 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+# X++: X is incremented by 1, X =  0 + 1 =  1.
+```
+**[ADDED]**
+```
+7     # X++: X is incremented by 1, X =  0 + 1 =  1.
+8     
+9     
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:15:52 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+Input: operations = ["--X","X++","X++"]
+Output: 1
+Explanation: The operations are performed as follows:
+Initially, X = 0.
+--X: X is decremented by 1, X =  0 - 1 = -1.
+X++: X is incremented by 1, X = -1 + 1 =  0.
+X++: X is incremented by 1, X =  0 + 1 =  1.
+```
+**[ADDED]**
+```
+1     # Input: operations = ["--X","X++","X++"]
+2     # Output: 1
+3     # Explanation: The operations are performed as follows:
+4     # Initially, X = 0.
+5     # --X: X is decremented by 1, X =  0 - 1 = -1.
+6     # X++: X is incremented by 1, X = -1 + 1 =  0.
+7     # X++: X is incremented by 1, X =  0 + 1 =  1.
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:15:50 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+# X++: X is incremented by 1, X =  0 + 1 =  1.
+```
+**[ADDED]**
+```
+7     X++: X is incremented by 1, X =  0 + 1 =  1.
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:15:48 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+X++: X is incremented by 1, X =  0 + 1 =  1.
+```
+**[ADDED]**
+```
+7     # X++: X is incremented by 1, X =  0 + 1 =  1.
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 3\valueofvariable.py
+*Saved at: 7/20/2026, 11:15:46 PM*
+
+**[ADDED]**
+```
+1     Input: operations = ["--X","X++","X++"]
+2     Output: 1
+3     Explanation: The operations are performed as follows:
+4     Initially, X = 0.
+5     --X: X is decremented by 1, X =  0 - 1 = -1.
+6     X++: X is incremented by 1, X = -1 + 1 =  0.
+7     X++: X is incremented by 1, X =  0 + 1 =  1.
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\day 3\Scoreofstring.py
 *Saved at: 7/20/2026, 10:38:57 PM*
 
