@@ -1,3 +1,652 @@
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:31:24 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+target = 1
+
+```
+**[ADDED]**
+```
+7     target = 18
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:31:21 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+target = 10
+
+```
+**[ADDED]**
+```
+7     target = 1
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:31:19 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+target = 9
+
+```
+**[ADDED]**
+```
+7     target = 10
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:31:00 AM*
+
+**[REMOVED]**
+```
+(from line ~8)
+for i in range(len()):
+
+```
+**[ADDED]**
+```
+8     for i in range(len(nums)):
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:30:55 AM*
+
+**[REMOVED]**
+```
+(from line ~8)
+for i in range():
+
+```
+**[ADDED]**
+```
+8     for i in range(len()):
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:30:53 AM*
+
+**[REMOVED]**
+```
+(from line ~8)
+for i in nums:
+
+```
+**[ADDED]**
+```
+8     for i in range():
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:29:47 AM*
+
+**[REMOVED]**
+```
+(from line ~13)
+print(i,i+)
+
+```
+**[ADDED]**
+```
+13    print(i,i+1)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:29:45 AM*
+
+**[REMOVED]**
+```
+(from line ~13)
+print(i)
+
+```
+**[ADDED]**
+```
+13    print(i,i+)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:29:43 AM*
+
+**[REMOVED]**
+```
+(from line ~13)
+print()
+
+```
+**[ADDED]**
+```
+13    print(i)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:29:31 AM*
+
+**[REMOVED]**
+```
+(from line ~13)
+    
+
+```
+**[ADDED]**
+```
+13    print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:29:27 AM*
+
+**[ADDED]**
+```
+13        
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:29:26 AM*
+
+**[REMOVED]**
+```
+(from line ~11)
+    if target == a + b
+
+```
+**[ADDED]**
+```
+11        if target == a + b:
+12            break
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:29:21 AM*
+
+**[REMOVED]**
+```
+(from line ~11)
+    if target = a + b
+
+```
+**[ADDED]**
+```
+11        if target == a + b
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:29:16 AM*
+
+**[REMOVED]**
+```
+(from line ~11)
+    target = a + b
+
+```
+**[ADDED]**
+```
+11        if target = a + b
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:29:11 AM*
+
+**[REMOVED]**
+```
+(from line ~11)
+    target = a 
+```
+**[ADDED]**
+```
+11        target = a + b
+12        
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:29:06 AM*
+
+**[REMOVED]**
+```
+(from line ~11)
+    ta
+```
+**[ADDED]**
+```
+11        target = a 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:29:00 AM*
+
+**[REMOVED]**
+```
+(from line ~11)
+    
+```
+**[ADDED]**
+```
+11        ta
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:28:59 AM*
+
+**[REMOVED]**
+```
+(from line ~11)
+    c
+```
+**[ADDED]**
+```
+11        
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:28:56 AM*
+
+**[REMOVED]**
+```
+(from line ~11)
+    
+```
+**[ADDED]**
+```
+11        c
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:28:53 AM*
+
+**[REMOVED]**
+```
+(from line ~10)
+    b = nums[i+1]
+```
+**[ADDED]**
+```
+10        b = nums[i+1]
+11        
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:28:52 AM*
+
+**[REMOVED]**
+```
+(from line ~10)
+    b = nums[]
+```
+**[ADDED]**
+```
+10        b = nums[i+1]
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:28:49 AM*
+
+**[REMOVED]**
+```
+(from line ~10)
+    b = nums
+```
+**[ADDED]**
+```
+10        b = nums[]
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:28:47 AM*
+
+**[REMOVED]**
+```
+(from line ~10)
+    
+```
+**[ADDED]**
+```
+10        b = nums
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:28:44 AM*
+
+**[REMOVED]**
+```
+(from line ~9)
+    a = nums[i]
+```
+**[ADDED]**
+```
+9         a = nums[i]
+10        
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:28:42 AM*
+
+**[REMOVED]**
+```
+(from line ~9)
+    a = nums
+```
+**[ADDED]**
+```
+9         a = nums[i]
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:28:39 AM*
+
+**[REMOVED]**
+```
+(from line ~9)
+    a = 
+```
+**[ADDED]**
+```
+9         a = nums
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:28:35 AM*
+
+**[REMOVED]**
+```
+(from line ~9)
+    
+```
+**[ADDED]**
+```
+9         a = 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:28:29 AM*
+
+**[REMOVED]**
+```
+(from line ~9)
+    if i
+```
+**[ADDED]**
+```
+9         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:28:25 AM*
+
+**[REMOVED]**
+```
+(from line ~9)
+    if i 
+```
+**[ADDED]**
+```
+9         if i
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:28:23 AM*
+
+**[REMOVED]**
+```
+(from line ~9)
+    if i
+```
+**[ADDED]**
+```
+9         if i 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:28:22 AM*
+
+**[REMOVED]**
+```
+(from line ~9)
+    
+```
+**[ADDED]**
+```
+9         if i
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:28:18 AM*
+
+**[ADDED]**
+```
+8     for i in nums:
+9         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:28:07 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+target = 9
+```
+**[ADDED]**
+```
+7     target = 9
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:28:06 AM*
+
+**[ADDED]**
+```
+7     target = 9
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:28:01 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+nums = [2,7,11,15]
+```
+**[ADDED]**
+```
+6     nums = [2,7,11,15]
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:27:59 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+nums = 
+```
+**[ADDED]**
+```
+6     nums = [2,7,11,15]
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:27:51 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+list = 
+```
+**[ADDED]**
+```
+6     nums = 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:27:39 AM*
+
+**[ADDED]**
+```
+4     
+5     
+6     list = 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:27:35 AM*
+
+**[REMOVED]**
+```
+(from line ~3)
+# Explanation: Because nums[0] + nums[1] == 9, we return [0, 1]
+```
+**[ADDED]**
+```
+3     # Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:27:33 AM*
+
+**[REMOVED]**
+```
+(from line ~3)
+# Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+
+
+```
+**[ADDED]**
+```
+3     # Explanation: Because nums[0] + nums[1] == 9, we return [0, 1]
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:27:08 AM*
+
+**[REMOVED]**
+```
+(from line ~3)
+# Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+```
+**[ADDED]**
+```
+3     # Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+4     
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:27:05 AM*
+
+**[REMOVED]**
+```
+(from line ~1)
+Input: nums = [2,7,11,15], target = 9
+Output: [0,1]
+Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+```
+**[ADDED]**
+```
+1     # Input: nums = [2,7,11,15], target = 9
+2     # Output: [0,1]
+3     # Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:27:01 AM*
+
+**[ADDED]**
+```
+1     Input: nums = [2,7,11,15], target = 9
+2     Output: [0,1]
+3     Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\day 3\jewels_Stones.py
 *Saved at: 7/21/2026, 12:55:11 AM*
 
