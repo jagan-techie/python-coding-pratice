@@ -1,3 +1,66 @@
+### 📄 d:\Vs Code\python-coding-pratice\day 5\squareoutline.py
+*Saved at: 7/23/2026, 11:37:51 PM*
+
+**[ADDED]**
+```
+1     r = 15
+2     c = 15
+3     for i in range(r):
+4         for j in range(c):
+5             if i==0 or i==r-1 or j==0 or j==c-1:
+6                 print("*",end="")
+7             else:
+8                 print(" ",end="")
+9             if j!= c-1:
+10                print(" ",end="")
+11        print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:33:14 AM*
+
+**[REMOVED]**
+```
+(from line ~2)
+problem no 
+
+```
+**[ADDED]**
+```
+2     # problem no 1
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:33:13 AM*
+
+**[REMOVED]**
+```
+(from line ~2)
+
+
+```
+**[ADDED]**
+```
+2     problem no 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
+*Saved at: 7/21/2026, 11:33:06 AM*
+
+**[ADDED]**
+```
+1     
+2     
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\day 4\twosum.py
 *Saved at: 7/21/2026, 11:31:24 AM*
 

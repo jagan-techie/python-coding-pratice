@@ -1,3 +1,17 @@
+### 📄 c:\Users\bjaga\OneDrive\Desktop\문서\AutoHotkey\YouTubeControls.ahk
+*Saved at: 7/21/2026, 11:50:33 PM*
+
+**[ADDED]**
+```
+1     #Requires AutoHotkey v2.0
+2     
+3     F6::Send("{Media_Prev}")
+4     F7::Send("{Media_Play_Pause}")
+5     F8::Send("{Media_Next}")
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\day 4\minOfWordsInSentence.py
 *Saved at: 7/21/2026, 11:33:08 PM*
 
