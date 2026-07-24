@@ -1,3 +1,99 @@
+### 📄 d:\Vs Code\python-coding-pratice\day6\SecondLargestElement.py
+*Saved at: 7/24/2026, 11:28:05 PM*
+
+**[REMOVED]**
+```
+(from line ~12)
+print(reverse_array([1, 2, 3, 4, 5]))  # Output: [5, 4, 3, 2
+
+```
+**[ADDED]**
+```
+12    print(reverse_array([1, 2, 3, 4, 5]))  # Output: [5, 4, 3, 2, 1]
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day6\SecondLargestElement.py
+*Saved at: 7/24/2026, 11:28:04 PM*
+
+**[REMOVED]**
+```
+(from line ~12)
+print(reverse_array([1, 2, 3, 4, 5]))  # Output: [5, 4, 3, 2, 1]
+
+```
+**[ADDED]**
+```
+12    print(reverse_array([1, 2, 3, 4, 5]))  # Output: [5, 4, 3, 2
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day6\SecondLargestElement.py
+*Saved at: 7/24/2026, 11:28:00 PM*
+
+**[ADDED]**
+```
+6     def reverse_array(arr):
+7         # In-place reversal
+8         arr.reverse()
+9         return arr
+10    
+11    # Example
+12    print(reverse_array([1, 2, 3, 4, 5]))  # Output: [5, 4, 3, 2, 1]
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day6\SecondLargestElement.py
+*Saved at: 7/24/2026, 11:27:42 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+# Python Trick: You can achieve this instantly using slicing ([::-1]) or modify it in place with .reverse()
+```
+**[ADDED]**
+```
+3     # Python Trick: You can achieve this instantly using slicing ([::-1]) or modify it in place with .reverse()
+4     
+5     
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day6\SecondLargestElement.py
+*Saved at: 7/24/2026, 11:27:37 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+1. Reverse an Array
+Problem: Reverse the order of elements in an array.
+Python Trick: You can achieve this instantly using slicing ([::-1]) or modify it in place with .reverse()
+```
+**[ADDED]**
+```
+1     # 1. Reverse an Array
+2     # Problem: Reverse the order of elements in an array.
+3     # Python Trick: You can achieve this instantly using slicing ([::-1]) or modify it in place with .reverse()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day6\SecondLargestElement.py
+*Saved at: 7/24/2026, 11:27:35 PM*
+
+**[ADDED]**
+```
+1     1. Reverse an Array
+2     Problem: Reverse the order of elements in an array.
+3     Python Trick: You can achieve this instantly using slicing ([::-1]) or modify it in place with .reverse()
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\day 5\rectangle.py
 *Saved at: 7/23/2026, 11:39:14 PM*
 
