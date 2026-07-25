@@ -1,3 +1,400 @@
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/25/2026, 11:16:56 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+print()
+```
+**[ADDED]**
+```
+8         print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/25/2026, 11:16:41 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+n = 
+
+```
+**[ADDED]**
+```
+4     n = 6
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/25/2026, 11:16:40 PM*
+
+**[ADDED]**
+```
+3     
+4     n = 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/25/2026, 11:16:32 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+        print("*"end="")
+
+```
+**[ADDED]**
+```
+5             print("*",end="")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/25/2026, 11:16:23 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        
+```
+**[ADDED]**
+```
+6     print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/25/2026, 11:16:19 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+        print("*"end="")
+```
+**[ADDED]**
+```
+5             print("*"end="")
+6             
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/25/2026, 11:16:16 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+        print("*"end=)
+```
+**[ADDED]**
+```
+5             print("*"end="")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/25/2026, 11:16:14 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+        print("*"e)
+```
+**[ADDED]**
+```
+5             print("*"end=)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/25/2026, 11:16:12 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+        print()
+```
+**[ADDED]**
+```
+5             print("*"e)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/25/2026, 11:16:06 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+        
+```
+**[ADDED]**
+```
+5             print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/25/2026, 11:16:02 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    for j in range(i)
+```
+**[ADDED]**
+```
+4         for j in range(i):
+5             
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/25/2026, 11:15:58 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    for j in range9
+```
+**[ADDED]**
+```
+4         for j in range(i)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/25/2026, 11:15:54 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    
+```
+**[ADDED]**
+```
+4         for j in range9
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/25/2026, 11:15:47 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+for i in range(1,n+1)
+```
+**[ADDED]**
+```
+3     for i in range(1,n+1):
+4         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/25/2026, 11:15:45 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+for i in range()
+```
+**[ADDED]**
+```
+3     for i in range(1,n+1)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/25/2026, 11:15:41 PM*
+
+**[ADDED]**
+```
+3     for i in range()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/25/2026, 11:15:16 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+# right angled triangle pattern
+```
+**[ADDED]**
+```
+1     # right angled triangle pattern
+2     
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/25/2026, 11:15:15 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+right angled triangle pattern
+```
+**[ADDED]**
+```
+1     # right angled triangle pattern
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/25/2026, 11:15:11 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+right angled triangle 
+```
+**[ADDED]**
+```
+1     right angled triangle pattern
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/25/2026, 11:15:09 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+right angled tri
+```
+**[ADDED]**
+```
+1     right angled triangle 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/25/2026, 11:15:07 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+right angled t
+```
+**[ADDED]**
+```
+1     right angled tri
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/25/2026, 11:14:59 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+right angled ti
+```
+**[ADDED]**
+```
+1     right angled t
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/25/2026, 11:14:58 PM*
+
+**[ADDED]**
+```
+1     right angled ti
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day6\SecondLargestElement.py
+*Saved at: 7/24/2026, 11:30:16 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+# Problem: Track the highest and second-highest values without sorting the entire array. 
+```
+**[ADDED]**
+```
+2     # Problem: Track the highest and second-highest values without sorting the entire array. 
+3     
+4     
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day6\SecondLargestElement.py
+*Saved at: 7/24/2026, 11:30:13 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+3. Find the Second Largest Element
+Problem: Track the highest and second-highest values without sorting the entire array. 
+```
+**[ADDED]**
+```
+1     # 3. Find the Second Largest Element
+2     # Problem: Track the highest and second-highest values without sorting the entire array. 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day6\SecondLargestElement.py
+*Saved at: 7/24/2026, 11:30:11 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+Problem: Track the highest and second-highest values without sorting the entire array. a
+```
+**[ADDED]**
+```
+2     Problem: Track the highest and second-highest values without sorting the entire array. 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day6\SecondLargestElement.py
+*Saved at: 7/24/2026, 11:30:03 PM*
+
+**[ADDED]**
+```
+1     3. Find the Second Largest Element
+2     Problem: Track the highest and second-highest values without sorting the entire array. a
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\day6\SecondLargestElement.py
 *Saved at: 7/24/2026, 11:28:05 PM*
 
