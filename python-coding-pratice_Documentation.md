@@ -1,3 +1,203 @@
+### 📄 d:\Vs Code\python-coding-pratice\day 7\fullpyramid.py
+*Saved at: 7/25/2026, 11:20:52 PM*
+
+**[ADDED]**
+```
+6         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\fullpyramid.py
+*Saved at: 7/25/2026, 11:20:51 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+
+
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\fullpyramid.py
+*Saved at: 7/25/2026, 11:20:49 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    # Print stars
+
+```
+**[ADDED]**
+```
+6     
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\fullpyramid.py
+*Saved at: 7/25/2026, 11:20:44 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    # Print leading spaces
+
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\fullpyramid.py
+*Saved at: 7/25/2026, 11:20:39 PM*
+
+**[ADDED]**
+```
+3     n = 5
+4     for i in range(n):
+5         # Print leading spaces
+6         print(" " * (n - i - 1), end="")
+7         # Print stars
+8         print("*" * (2 * i + 1))
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\fullpyramid.py
+*Saved at: 7/25/2026, 11:20:37 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+n = 5
+for i in range(n):
+    # Print leading spaces
+    print(" " * (n - i - 1), end="")
+    # Print stars
+    print("*" * (2 * i + 1))
+
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\fullpyramid.py
+*Saved at: 7/25/2026, 11:20:34 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+
+
+```
+**[ADDED]**
+```
+5         # Print leading spaces
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\fullpyramid.py
+*Saved at: 7/25/2026, 11:20:01 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    # Print leading spaces
+
+```
+**[ADDED]**
+```
+5     
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\fullpyramid.py
+*Saved at: 7/25/2026, 11:19:53 PM*
+
+**[ADDED]**
+```
+3     n = 5
+4     for i in range(n):
+5         # Print leading spaces
+6         print(" " * (n - i - 1), end="")
+7         # Print stars
+8         print("*" * (2 * i + 1))
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\fullpyramid.py
+*Saved at: 7/25/2026, 11:19:46 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+# Full Pyramid Pattern
+```
+**[ADDED]**
+```
+1     # Full Pyramid Pattern
+2     
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\fullpyramid.py
+*Saved at: 7/25/2026, 11:19:43 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+Full Pyramid Pattern
+```
+**[ADDED]**
+```
+1     # Full Pyramid Pattern
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\fullpyramid.py
+*Saved at: 7/25/2026, 11:19:36 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+Full pyramid Pattern
+```
+**[ADDED]**
+```
+1     Full Pyramid Pattern
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\fullpyramid.py
+*Saved at: 7/25/2026, 11:19:32 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+Full pyramid
+```
+**[ADDED]**
+```
+1     Full pyramid Pattern
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\fullpyramid.py
+*Saved at: 7/25/2026, 11:19:27 PM*
+
+**[ADDED]**
+```
+1     Full pyramid
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
 *Saved at: 7/25/2026, 11:16:56 PM*
 
