@@ -1,3 +1,772 @@
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:32:08 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        print(sum,end="")
+
+```
+**[ADDED]**
+```
+7             print(sum,end=" ")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:32:00 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        print(sum,end=)
+
+```
+**[ADDED]**
+```
+7             print(sum,end="")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:31:57 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        print()
+
+```
+**[ADDED]**
+```
+7             print(sum,end=)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:31:31 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        print(j)
+
+```
+**[ADDED]**
+```
+7             print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:31:28 PM*
+
+**[REMOVED]**
+```
+(from line ~9)
+    print(sum)
+
+```
+**[ADDED]**
+```
+9         print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:31:02 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        print()
+
+```
+**[ADDED]**
+```
+7             print(j)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:30:56 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        
+
+```
+**[ADDED]**
+```
+7             print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:30:53 PM*
+
+**[ADDED]**
+```
+7             
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:30:42 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+    print(s)
+
+```
+**[ADDED]**
+```
+8         print(sum)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:30:40 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+    print()
+
+```
+**[ADDED]**
+```
+8         print(s)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:30:38 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+    
+
+```
+**[ADDED]**
+```
+8         print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:30:34 PM*
+
+**[ADDED]**
+```
+8         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:30:29 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        sum += 
+
+```
+**[ADDED]**
+```
+7             sum += 1
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:30:28 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        sum
+
+```
+**[ADDED]**
+```
+7             sum += 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:30:25 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        
+
+```
+**[ADDED]**
+```
+7             sum
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:30:22 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+    
+
+```
+**[ADDED]**
+```
+7             
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:30:20 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        print(i,end="")
+        
+
+```
+**[ADDED]**
+```
+7         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:30:15 PM*
+
+**[ADDED]**
+```
+8             
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:30:12 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        print(i,end=)
+
+```
+**[ADDED]**
+```
+7             print(i,end="")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:30:10 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        print(i)
+
+```
+**[ADDED]**
+```
+7             print(i,end=)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:30:08 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        print()
+
+```
+**[ADDED]**
+```
+7             print(i)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:30:06 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        print("")
+
+```
+**[ADDED]**
+```
+7             print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:30:05 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        print()
+
+```
+**[ADDED]**
+```
+7             print("")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:29:55 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        print("")
+
+```
+**[ADDED]**
+```
+7             print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:29:54 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        print()
+
+```
+**[ADDED]**
+```
+7             print("")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:29:53 PM*
+
+**[ADDED]**
+```
+7             print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:29:50 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    for j in range(i)
+
+```
+**[ADDED]**
+```
+6         for j in range(i):
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:29:49 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    for j in range()
+
+```
+**[ADDED]**
+```
+6         for j in range(i)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:29:47 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    for j in range
+
+```
+**[ADDED]**
+```
+6         for j in range()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:29:46 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    for j in 
+
+```
+**[ADDED]**
+```
+6         for j in range
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:29:44 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    
+
+```
+**[ADDED]**
+```
+6         for j in 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:29:39 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+for i in range(n)
+
+```
+**[ADDED]**
+```
+5     for i in range(n):
+6         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:29:37 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+for i in range(len)
+
+```
+**[ADDED]**
+```
+5     for i in range(n)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:29:35 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+for i in range()
+
+```
+**[ADDED]**
+```
+5     for i in range(len)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:29:32 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+for i in range(i)
+
+```
+**[ADDED]**
+```
+5     for i in range()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:29:30 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+for i in range()
+
+```
+**[ADDED]**
+```
+5     for i in range(i)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:29:26 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+for i in range
+
+```
+**[ADDED]**
+```
+5     for i in range()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:29:25 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+sum = 
+
+```
+**[ADDED]**
+```
+4     sum = 1
+5     for i in range
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:29:18 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+
+
+```
+**[ADDED]**
+```
+4     sum = 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:29:14 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+n = 4
+num = 1
+for i in range(1, n + 1):
+    for j in range(i):
+        print(num, end=" ")
+        num += 1
+    print()
+
+```
+**[ADDED]**
+```
+3     n = 5
+4     
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:29:05 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+
+
+```
+**[ADDED]**
+```
+8             num += 1
+9         print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:29:00 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+# Floyd's Tri
+
+```
+**[ADDED]**
+```
+1     # Floyd's Triangle
+2     
+3     n = 4
+4     num = 1
+5     for i in range(1, n + 1):
+6         for j in range(i):
+7             print(num, end=" ")
+8     
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:28:57 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+# Floyd's Triangle
+
+n = 4
+num = 1
+for i in range(1, n + 1):
+    for j in range(i):
+        print(num, end=" ")
+        num += 1
+    print()
+
+```
+**[ADDED]**
+```
+1     # Floyd's Tri
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:28:27 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+ n = 4
+
+```
+**[ADDED]**
+```
+3     n = 4
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:28:24 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+ 
+```
+**[ADDED]**
+```
+3      n = 4
+4     num = 1
+5     for i in range(1, n + 1):
+6         for j in range(i):
+7             print(num, end=" ")
+8             num += 1
+9         print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:28:17 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+# Floyd's Triangle 
+```
+**[ADDED]**
+```
+1     # Floyd's Triangle
+2     
+3      
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:28:13 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+Floyd's Triangle 
+```
+**[ADDED]**
+```
+1     # Floyd's Triangle 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
+*Saved at: 7/25/2026, 11:28:08 PM*
+
+**[ADDED]**
+```
+1     Floyd's Triangle 
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\day 7\Diamond.py
 *Saved at: 7/25/2026, 11:24:45 PM*
 
