@@ -1,3 +1,100 @@
+### 📄 d:\Vs Code\python-coding-pratice\day 7\Diamond.py
+*Saved at: 7/25/2026, 11:24:45 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+# Upper half
+
+```
+**[ADDED]**
+```
+4     
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\Diamond.py
+*Saved at: 7/25/2026, 11:24:39 PM*
+
+**[ADDED]**
+```
+7         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\Diamond.py
+*Saved at: 7/25/2026, 11:24:37 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+# Lower 
+
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\Diamond.py
+*Saved at: 7/25/2026, 11:24:31 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+# Lower half
+
+```
+**[ADDED]**
+```
+7     # Lower 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\Diamond.py
+*Saved at: 7/25/2026, 11:24:28 PM*
+
+**[ADDED]**
+```
+3     n = 5
+4     # Upper half
+5     for i in range(n):
+6         print(" " * (n - i - 1) + "*" * (2 * i + 1))
+7     # Lower half
+8     for i in range(n - 2, -1, -1):
+9         print(" " * (n - i - 1) + "*" * (2 * i + 1))
+10    
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\Diamond.py
+*Saved at: 7/25/2026, 11:24:17 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+Diamond pattern
+```
+**[ADDED]**
+```
+1     # Diamond pattern
+2     
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\Diamond.py
+*Saved at: 7/25/2026, 11:24:13 PM*
+
+**[ADDED]**
+```
+1     Diamond pattern
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\day 7\fullpyramid.py
 *Saved at: 7/25/2026, 11:20:52 PM*
 
