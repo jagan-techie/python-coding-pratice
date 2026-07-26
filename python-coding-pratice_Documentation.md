@@ -1,3 +1,600 @@
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:36:37 AM*
+
+**[REMOVED]**
+```
+(from line ~3)
+r = 
+
+```
+**[ADDED]**
+```
+3     r = 10
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:36:33 AM*
+
+**[REMOVED]**
+```
+(from line ~3)
+r = 4
+
+```
+**[ADDED]**
+```
+3     r = 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:36:15 AM*
+
+**[ADDED]**
+```
+10        print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:36:09 AM*
+
+**[REMOVED]**
+```
+(from line ~9)
+        print("",end="")
+
+```
+**[ADDED]**
+```
+9             print("*",end="")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:36:08 AM*
+
+**[REMOVED]**
+```
+(from line ~9)
+        print(" ",end="")
+
+```
+**[ADDED]**
+```
+9             print("",end="")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:36:05 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        print("*",end="")
+
+```
+**[ADDED]**
+```
+7             print(" ",end="")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:35:53 AM*
+
+**[REMOVED]**
+```
+(from line ~9)
+        print(" ",end="")
+```
+**[ADDED]**
+```
+9             print(" ",end="")
+10        
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:35:49 AM*
+
+**[REMOVED]**
+```
+(from line ~9)
+        print(" ",)
+```
+**[ADDED]**
+```
+9             print(" ",end="")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:35:45 AM*
+
+**[REMOVED]**
+```
+(from line ~9)
+        print(" ")
+```
+**[ADDED]**
+```
+9             print(" ",)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:35:42 AM*
+
+**[REMOVED]**
+```
+(from line ~9)
+        print()
+```
+**[ADDED]**
+```
+9             print(" ")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:35:35 AM*
+
+**[REMOVED]**
+```
+(from line ~8)
+    for k in range(c)
+```
+**[ADDED]**
+```
+8         for k in range(c):
+9             print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:35:32 AM*
+
+**[REMOVED]**
+```
+(from line ~8)
+    for k in range()
+```
+**[ADDED]**
+```
+8         for k in range(c)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:35:26 AM*
+
+**[REMOVED]**
+```
+(from line ~8)
+        
+```
+**[ADDED]**
+```
+8         for k in range()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:35:13 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        print("*",end="")
+```
+**[ADDED]**
+```
+7             print("*",end="")
+8             
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:35:12 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        print("*",end=""
+              )
+```
+**[ADDED]**
+```
+7             print("*",end="")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:35:09 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        print("*",end="")
+```
+**[ADDED]**
+```
+7             print("*",end=""
+8                   )
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:35:05 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        print("*",)
+```
+**[ADDED]**
+```
+7             print("*",end="")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:35:01 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        print("*")
+```
+**[ADDED]**
+```
+7             print("*",)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:34:59 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        
+```
+**[ADDED]**
+```
+7             print("*")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:34:54 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        if 
+```
+**[ADDED]**
+```
+7             
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:34:49 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    for j in range(c):
+
+```
+**[ADDED]**
+```
+6         for j in range(i):
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:34:41 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        if ()
+```
+**[ADDED]**
+```
+7             if 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:34:40 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        if 
+```
+**[ADDED]**
+```
+7             if ()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:34:37 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        
+```
+**[ADDED]**
+```
+7             if 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:34:34 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    for j in range(c)
+```
+**[ADDED]**
+```
+6         for j in range(c):
+7             
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:34:32 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    for j in range()
+```
+**[ADDED]**
+```
+6         for j in range(c)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:34:29 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    for j in rag
+```
+**[ADDED]**
+```
+6         for j in range()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:34:26 AM*
+
+**[REMOVED]**
+```
+(from line ~5)
+for i in range(r)
+```
+**[ADDED]**
+```
+5     for i in range(r):
+6         for j in rag
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:34:22 AM*
+
+**[REMOVED]**
+```
+(from line ~5)
+for i in range()
+```
+**[ADDED]**
+```
+5     for i in range(r)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:34:16 AM*
+
+**[REMOVED]**
+```
+(from line ~1)
+#slant star pattern from left to left
+
+```
+**[ADDED]**
+```
+1     #slant star pattern from left to right
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:34:12 AM*
+
+**[REMOVED]**
+```
+(from line ~1)
+#slant star pattern from right to left
+
+```
+**[ADDED]**
+```
+1     #slant star pattern from left to left
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:33:54 AM*
+
+**[REMOVED]**
+```
+(from line ~5)
+for i in range
+```
+**[ADDED]**
+```
+5     for i in range()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:33:53 AM*
+
+**[REMOVED]**
+```
+(from line ~4)
+c = 
+```
+**[ADDED]**
+```
+4     c = 5
+5     for i in range
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:33:47 AM*
+
+**[ADDED]**
+```
+4     c = 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:33:43 AM*
+
+**[REMOVED]**
+```
+(from line ~3)
+r = 
+```
+**[ADDED]**
+```
+3     r = 4
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:33:40 AM*
+
+**[ADDED]**
+```
+3     r = 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:33:25 AM*
+
+**[REMOVED]**
+```
+(from line ~1)
+#slant star pattern from right to left
+```
+**[ADDED]**
+```
+1     #slant star pattern from right to left
+2     
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:33:23 AM*
+
+**[REMOVED]**
+```
+(from line ~1)
+#slant star pattern from 
+```
+**[ADDED]**
+```
+1     #slant star pattern from right to left
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:33:18 AM*
+
+**[REMOVED]**
+```
+(from line ~1)
+#slant star pattern 
+```
+**[ADDED]**
+```
+1     #slant star pattern from 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\slant pattern.py
+*Saved at: 7/26/2026, 11:33:14 AM*
+
+**[ADDED]**
+```
+1     #slant star pattern 
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\day 7\numberRightAngledTriangle.py
 *Saved at: 7/25/2026, 11:32:08 PM*
 
