@@ -1,4 +1,650 @@
 ### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 10:03:52 PM*
+
+**[REMOVED]**
+```
+(from line ~35)
+    for j in range(i+1):
+
+```
+**[ADDED]**
+```
+35        for j in range(i):
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 10:01:19 PM*
+
+**[REMOVED]**
+```
+(from line ~35)
+    for j in range(i):
+
+```
+**[ADDED]**
+```
+35        for j in range(i+1):
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 10:00:27 PM*
+
+**[REMOVED]**
+```
+(from line ~12)
+n = 5
+for i in range(n):
+    for j in range(i,n):
+        print("*",end="")
+        if j!= n-1:
+            print(" ",end="")
+    print()
+
+```
+**[ADDED]**
+```
+12    # n = 5
+13    # for i in range(n):
+14    #     for j in range(i,n):
+15    #         print("*",end="")
+16    #         if j!= n-1:
+17    #             print(" ",end="")
+18    #     print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 10:00:12 PM*
+
+**[REMOVED]**
+```
+(from line ~33)
+n = 4
+
+```
+**[ADDED]**
+```
+33    n = 6
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:59:44 PM*
+
+**[REMOVED]**
+```
+(from line ~38)
+        print("* ",end="")
+
+```
+**[ADDED]**
+```
+38            print("*",end="")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:59:36 PM*
+
+**[REMOVED]**
+```
+(from line ~38)
+        print("*",end="")
+
+```
+**[ADDED]**
+```
+38            print("* ",end="")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:59:08 PM*
+
+**[REMOVED]**
+```
+(from line ~38)
+        print("*",end="")
+```
+**[ADDED]**
+```
+38            print("*",end="")
+39        print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:59:05 PM*
+
+**[REMOVED]**
+```
+(from line ~38)
+        print("*")
+```
+**[ADDED]**
+```
+38            print("*",end="")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:58:57 PM*
+
+**[REMOVED]**
+```
+(from line ~38)
+        print(" ")
+```
+**[ADDED]**
+```
+38            print("*")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:58:55 PM*
+
+**[REMOVED]**
+```
+(from line ~38)
+        print()
+```
+**[ADDED]**
+```
+38            print(" ")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:58:53 PM*
+
+**[REMOVED]**
+```
+(from line ~38)
+        
+```
+**[ADDED]**
+```
+38            print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:58:49 PM*
+
+**[REMOVED]**
+```
+(from line ~37)
+    for k in range(i,n)
+```
+**[ADDED]**
+```
+37        for k in range(i,n):
+38            
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:58:47 PM*
+
+**[REMOVED]**
+```
+(from line ~37)
+    for k in range(i,r)
+```
+**[ADDED]**
+```
+37        for k in range(i,n)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:58:38 PM*
+
+**[REMOVED]**
+```
+(from line ~37)
+    for k in range(i)
+```
+**[ADDED]**
+```
+37        for k in range(i,r)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:58:35 PM*
+
+**[REMOVED]**
+```
+(from line ~37)
+    for k in range()
+```
+**[ADDED]**
+```
+37        for k in range(i)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:58:26 PM*
+
+**[REMOVED]**
+```
+(from line ~37)
+    for k in 
+```
+**[ADDED]**
+```
+37        for k in range()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:58:21 PM*
+
+**[REMOVED]**
+```
+(from line ~37)
+    for 
+```
+**[ADDED]**
+```
+37        for k in 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:58:19 PM*
+
+**[REMOVED]**
+```
+(from line ~36)
+        print(" ",end="")
+```
+**[ADDED]**
+```
+36            print(" ",end="")
+37        for 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:55:06 PM*
+
+**[REMOVED]**
+```
+(from line ~35)
+    for j in range(n):
+
+```
+**[ADDED]**
+```
+35        for j in range(i):
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:55:00 PM*
+
+**[REMOVED]**
+```
+(from line ~36)
+        
+
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:54:49 PM*
+
+**[REMOVED]**
+```
+(from line ~37)
+    print(" ",end="")
+```
+**[ADDED]**
+```
+37            print(" ",end="")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:54:42 PM*
+
+**[REMOVED]**
+```
+(from line ~35)
+    for j in range(n)
+
+```
+**[ADDED]**
+```
+35        for j in range(n):
+36            
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:54:40 PM*
+
+**[REMOVED]**
+```
+(from line ~35)
+    for j in range()
+
+```
+**[ADDED]**
+```
+35        for j in range(n)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:54:37 PM*
+
+**[REMOVED]**
+```
+(from line ~35)
+    for j in 
+
+```
+**[ADDED]**
+```
+35        for j in range()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:54:33 PM*
+
+**[REMOVED]**
+```
+(from line ~35)
+    for j i
+
+```
+**[ADDED]**
+```
+35        for j in 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:54:29 PM*
+
+**[REMOVED]**
+```
+(from line ~35)
+    print(" ",end="")
+    for j i
+```
+**[ADDED]**
+```
+35        for j i
+36        print(" ",end="")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:54:24 PM*
+
+**[REMOVED]**
+```
+(from line ~36)
+    for j i 
+```
+**[ADDED]**
+```
+36        for j i
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:54:23 PM*
+
+**[REMOVED]**
+```
+(from line ~36)
+    for
+```
+**[ADDED]**
+```
+36        for j i 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:54:21 PM*
+
+**[REMOVED]**
+```
+(from line ~36)
+    
+```
+**[ADDED]**
+```
+36        for
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:54:16 PM*
+
+**[REMOVED]**
+```
+(from line ~35)
+    print(" ",end="")
+```
+**[ADDED]**
+```
+35        print(" ",end="")
+36        
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:54:14 PM*
+
+**[REMOVED]**
+```
+(from line ~35)
+    print(" ")
+```
+**[ADDED]**
+```
+35        print(" ",end="")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:54:01 PM*
+
+**[REMOVED]**
+```
+(from line ~35)
+    print()
+```
+**[ADDED]**
+```
+35        print(" ")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:53:14 PM*
+
+**[REMOVED]**
+```
+(from line ~35)
+    prit
+```
+**[ADDED]**
+```
+35        print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:53:11 PM*
+
+**[REMOVED]**
+```
+(from line ~35)
+    
+```
+**[ADDED]**
+```
+35        prit
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:53:05 PM*
+
+**[REMOVED]**
+```
+(from line ~34)
+for i in range(n)
+```
+**[ADDED]**
+```
+34    for i in range(n):
+35        
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:53:02 PM*
+
+**[REMOVED]**
+```
+(from line ~34)
+for i in range
+```
+**[ADDED]**
+```
+34    for i in range(n)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:52:59 PM*
+
+**[REMOVED]**
+```
+(from line ~33)
+n = 
+```
+**[ADDED]**
+```
+33    n = 4
+34    for i in range
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:52:53 PM*
+
+**[ADDED]**
+```
+33    n = 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:52:49 PM*
+
+**[REMOVED]**
+```
+(from line ~31)
+# [2] LEFT TRIANGLE:
+```
+**[ADDED]**
+```
+31    # [2] LEFT TRIANGLE:
+32    
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:52:47 PM*
+
+**[REMOVED]**
+```
+(from line ~31)
+[2] LEFT TRIANGLE:
+```
+**[ADDED]**
+```
+31    # [2] LEFT TRIANGLE:
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:52:46 PM*
+
+**[ADDED]**
+```
+31    [2] LEFT TRIANGLE:
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
+*Saved at: 7/27/2026, 9:52:39 PM*
+
+**[ADDED]**
+```
+29    
+30    
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
 *Saved at: 7/27/2026, 9:50:09 PM*
 
 **[REMOVED]**

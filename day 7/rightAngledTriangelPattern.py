@@ -9,13 +9,13 @@
 
 #DECREASING TRIANGLE PATTERN:
     
-n = 5
-for i in range(n):
-    for j in range(i,n):
-        print("*",end="")
-        if j!= n-1:
-            print(" ",end="")
-    print()
+# n = 5
+# for i in range(n):
+#     for j in range(i,n):
+#         print("*",end="")
+#         if j!= n-1:
+#             print(" ",end="")
+#     print()
 
 
 # #right triangle
@@ -26,3 +26,14 @@ for i in range(n):
 #     for k in range(i+1):
 #         print("*",end="")
 #     print()
+
+
+# [2] LEFT TRIANGLE:
+
+n = 6
+for i in range(n):
+    for j in range(i):
+        print(" ",end="")
+    for k in range(i,n):
+        print("*",end="")
+    print()
