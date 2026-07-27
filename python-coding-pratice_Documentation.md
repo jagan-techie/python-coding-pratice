@@ -1,3 +1,499 @@
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 11:02:46 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    for k in range(2*i+):
+
+```
+**[ADDED]**
+```
+6         for k in range(2*i+1):
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 11:02:45 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    for k in range(2*i):
+
+```
+**[ADDED]**
+```
+6         for k in range(2*i+):
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 11:02:41 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    for k in range(2*):
+
+```
+**[ADDED]**
+```
+6         for k in range(2*i):
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 11:02:39 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    for k in range():
+
+```
+**[ADDED]**
+```
+6         for k in range(2*):
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 11:02:33 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    for k in range(i):
+
+```
+**[ADDED]**
+```
+6         for k in range():
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 11:02:21 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        print("*",end="")
+```
+**[ADDED]**
+```
+7             print("*",end="")
+8         print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 11:02:15 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        print("*",end)
+```
+**[ADDED]**
+```
+7             print("*",end="")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 11:02:12 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        print("*")
+```
+**[ADDED]**
+```
+7             print("*",end)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 11:02:10 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        print()
+```
+**[ADDED]**
+```
+7             print("*")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 11:02:07 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    for k in range(i)
+```
+**[ADDED]**
+```
+6         for k in range(i):
+7             print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 11:02:03 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    for k in range()
+```
+**[ADDED]**
+```
+6         for k in range(i)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 11:01:58 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    for k in ra
+```
+**[ADDED]**
+```
+6         for k in range()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 11:01:56 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    for k
+```
+**[ADDED]**
+```
+6         for k in ra
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 10:59:18 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    for 
+```
+**[ADDED]**
+```
+6         for k
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 10:59:16 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    f
+```
+**[ADDED]**
+```
+6         for 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 10:59:15 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        
+```
+**[ADDED]**
+```
+6         f
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 10:59:13 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+        print(" ",end="")
+```
+**[ADDED]**
+```
+5             print(" ",end="")
+6             
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 10:59:11 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+        print(" ")
+```
+**[ADDED]**
+```
+5             print(" ",end="")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 10:59:08 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+        print()
+```
+**[ADDED]**
+```
+5             print(" ")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 10:59:06 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+        
+```
+**[ADDED]**
+```
+5             print()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 10:59:04 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    for j in range(r-1-i):
+```
+**[ADDED]**
+```
+4         for j in range(r-1-i):
+5             
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 10:58:51 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    for j in range(r-1-i)
+```
+**[ADDED]**
+```
+4         for j in range(r-1-i):
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 10:58:47 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    for j in range(r-1-)
+```
+**[ADDED]**
+```
+4         for j in range(r-1-i)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 10:58:45 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    for j in range(r-1)
+```
+**[ADDED]**
+```
+4         for j in range(r-1-)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 10:58:44 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    for j in range()
+```
+**[ADDED]**
+```
+4         for j in range(r-1)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 10:58:42 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    for j in range
+```
+**[ADDED]**
+```
+4         for j in range()
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 10:58:41 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    for 
+```
+**[ADDED]**
+```
+4         for j in range
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 10:58:37 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    
+```
+**[ADDED]**
+```
+4         for 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 10:58:27 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+for i in range(r)
+```
+**[ADDED]**
+```
+3     for i in range(r):
+4         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 10:58:25 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+r = 
+```
+**[ADDED]**
+```
+2     r = 7
+3     for i in range(r)
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 10:58:19 PM*
+
+**[ADDED]**
+```
+2     r = 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 10:58:16 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+#
+```
+**[ADDED]**
+```
+1     # Mountain pattern
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/27/2026, 10:58:08 PM*
+
+**[ADDED]**
+```
+1     #
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\day 7\rightAngledTriangelPattern.py
 *Saved at: 7/27/2026, 10:03:52 PM*
 
