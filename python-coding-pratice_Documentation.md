@@ -1,3 +1,157 @@
+### 📄 d:\Vs Code\python-coding-pratice\day 9\RollingDiceStimulation.py
+*Saved at: 7/28/2026, 11:50:09 PM*
+
+**[ADDED]**
+```
+5     import random
+6     
+7     while True:
+8         roll = random.randint(1, 6)
+9         print(f"You rolled a: {roll}")
+10        
+11        # Check if the termination condition is met
+12        if roll == 6:
+13            print("Found a 6! Stopping the game.")
+14            break
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 9\RollingDiceStimulation.py
+*Saved at: 7/28/2026, 11:50:02 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+Problem 4: Roll a Die Simulation (Advanced)
+Scenario: Simulate rolling a six-sided die. The game should automatically roll the die once and keep rolling until a 6 is rolled. 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 9\RollingDiceStimulation.py
+*Saved at: 7/28/2026, 11:50:00 PM*
+
+**[ADDED]**
+```
+5     Problem 4: Roll a Die Simulation (Advanced)
+6     Scenario: Simulate rolling a six-sided die. The game should automatically roll the die once and keep rolling until a 6 is rolled. 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 9\RollingDiceStimulation.py
+*Saved at: 7/28/2026, 11:49:58 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+# Scenario: Simulate rolling a six-sided die. The game should automatically roll the die once and keep rolling until a 6 is rolled. 
+```
+**[ADDED]**
+```
+2     # Scenario: Simulate rolling a six-sided die. The game should automatically roll the die once and keep rolling until a 6 is rolled. 
+3     
+4     
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 9\RollingDiceStimulation.py
+*Saved at: 7/28/2026, 11:49:54 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+# 
+
+
+
+```
+**[ADDED]**
+```
+1     # Problem 4: Roll a Die Simulation (Advanced)
+2     # Scenario: Simulate rolling a six-sided die. The game should automatically roll the die once and keep rolling until a 6 is rolled. 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 9\RollingDiceStimulation.py
+*Saved at: 7/28/2026, 11:49:50 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+# Problem 4: Roll a Die Simulation (Advanced)
+# Scenario: Simulate rolling a six-sided die. The game should automatically roll the die once and keep rolling until a 6 is rolled. 
+```
+**[ADDED]**
+```
+1     # 
+2     
+3     
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 9\RollingDiceStimulation.py
+*Saved at: 7/28/2026, 11:49:48 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+Problem 4: Roll a Die Simulation (Advanced)
+Scenario: Simulate rolling a six-sided die. The game should automatically roll the die once and keep rolling until a 6 is rolled. 
+```
+**[ADDED]**
+```
+1     # Problem 4: Roll a Die Simulation (Advanced)
+2     # Scenario: Simulate rolling a six-sided die. The game should automatically roll the die once and keep rolling until a 6 is rolled. 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 9\RollingDiceStimulation.py
+*Saved at: 7/28/2026, 11:49:46 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+# Scenario: Simulate rolling a six-sided die. The game should automatically roll the die once and keep rolling until a 6 is rolled. 
+```
+**[ADDED]**
+```
+2     Scenario: Simulate rolling a six-sided die. The game should automatically roll the die once and keep rolling until a 6 is rolled. 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 9\RollingDiceStimulation.py
+*Saved at: 7/28/2026, 11:49:43 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+Scenario: Simulate rolling a six-sided die. The game should automatically roll the die once and keep rolling until a 6 is rolled. 
+```
+**[ADDED]**
+```
+2     # Scenario: Simulate rolling a six-sided die. The game should automatically roll the die once and keep rolling until a 6 is rolled. 
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 9\RollingDiceStimulation.py
+*Saved at: 7/28/2026, 11:49:32 PM*
+
+**[ADDED]**
+```
+1     Problem 4: Roll a Die Simulation (Advanced)
+2     Scenario: Simulate rolling a six-sided die. The game should automatically roll the die once and keep rolling until a 6 is rolled. 
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\day 9\AccumulatingAtmBalance.py
 *Saved at: 7/28/2026, 11:47:09 PM*
 
