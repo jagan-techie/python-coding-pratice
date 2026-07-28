@@ -1,3 +1,23 @@
+### 📄 d:\Vs Code\python-coding-pratice\day 9\AccumulatingAtmBalance.py
+*Saved at: 7/28/2026, 11:47:09 PM*
+
+**[ADDED]**
+```
+1     balance = 0
+2     
+3     while True:
+4         deposit = float(input("Enter amount to deposit (or 0 to exit): "))
+5         balance += deposit
+6         
+7         # Check if user wants to exit
+8         if deposit == 0:
+9             break
+10    
+11    print(f"Transaction closed. Your total balance is: ${balance:.2f}")
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\day 9\GuessinngGame.py
 *Saved at: 7/28/2026, 11:44:09 PM*
 
