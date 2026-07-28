@@ -1,3 +1,118 @@
+### 📄 d:\Vs Code\python-coding-pratice\day 9\GuessinngGame.py
+*Saved at: 7/28/2026, 11:44:09 PM*
+
+**[ADDED]**
+```
+1     secret_number = 7
+2     
+3     while True:
+4         guess = int(input("Guess the secret number (1-10): "))
+5         
+6         if guess == secret_number:
+7             print("Correct! You win!")
+8             break
+9         else:
+10            print("Wrong guess, try again.")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 9\userInputvalidation.py
+*Saved at: 7/28/2026, 11:42:05 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+#u
+
+```
+**[ADDED]**
+```
+2     #user input validation
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 9\userInputvalidation.py
+*Saved at: 7/28/2026, 11:41:59 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+
+
+```
+**[ADDED]**
+```
+2     #u
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 9\userInputvalidation.py
+*Saved at: 7/28/2026, 11:41:56 PM*
+
+**[ADDED]**
+```
+1     
+2     
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 9\userInputvalidation.py
+*Saved at: 7/28/2026, 11:41:51 PM*
+
+**[ADDED]**
+```
+1     while True:
+2         number = int(input("Enter a positive number: "))
+3         
+4         # Condition to exit: stop looping if number is greater than 0
+5         if number > 0:
+6             break
+7     
+8     print(f"Thank you! You entered: {number}")
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/28/2026, 9:14:29 AM*
+
+**[ADDED]**
+```
+9         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/28/2026, 9:14:26 AM*
+
+**[REMOVED]**
+```
+(from line ~9)
+    
+r = 
+```
+**[ADDED]**
+```
+9         
+```
+
+---
+
+### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
+*Saved at: 7/28/2026, 9:14:22 AM*
+
+**[ADDED]**
+```
+10    r = 
+```
+
+---
+
 ### 📄 d:\Vs Code\python-coding-pratice\day 8\mountainPattern.py
 *Saved at: 7/27/2026, 11:02:46 PM*
 
