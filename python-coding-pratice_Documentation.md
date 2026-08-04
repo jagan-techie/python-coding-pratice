@@ -1,4 +1,83 @@
 ### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 3:34:45 PM*
+
+**[REMOVED]**
+```
+(from line ~80)
+# r = 6
+# for i in range(r-1,-1,-1):
+#     for j in range(r-1-i):
+#         print(" ",end="")   
+#     for k in range(i*2+1):
+#         print("*",end="")
+#     print()
+# for i in range(1,r):       
+#     for j in range(r-1-i):
+#         print(" ",end="")
+#     for k in range(i*2+1):
+#         print("*",end="")
+#     print()
+```
+**[ADDED]**
+```
+80    r = 6
+81    for i in range(r-1,-1,-1):
+82        for j in range(r-1-i):
+83            print(" ",end="")   
+84        for k in range(i*2+1):
+85            print("*",end="")
+86        print()
+87    for i in range(1,r):       
+88        for j in range(r-1-i):
+89            print(" ",end="")
+90        for k in range(i*2+1):
+91            print("*",end="")
+92        print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 3:34:37 PM*
+
+**[REMOVED]**
+```
+(from line ~65)
+r = 6
+for i in range(r):       
+    for j in range(r-1-i):
+        print(" ",end="")
+    for k in range(i*2+1):
+        print("*",end="")
+    print()
+for i in range(r-2,-1,-1):
+    for j in range(r-1-i):
+        print(" ",end="")   
+    for k in range(i*2+1):
+        print("*",end="")
+    print()
+
+```
+**[ADDED]**
+```
+65    # r = 6
+66    # for i in range(r):       
+67    #     for j in range(r-1-i):
+68    #         print(" ",end="")
+69    #     for k in range(i*2+1):
+70    #         print("*",end="")
+71    #     print()
+72    # for i in range(r-2,-1,-1):
+73    #     for j in range(r-1-i):
+74    #         print(" ",end="")   
+75    #     for k in range(i*2+1):
+76    #         print("*",end="")
+77    #     print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
 *Saved at: 8/4/2026, 3:32:39 PM*
 
 **[REMOVED]**
