@@ -1,4 +1,5458 @@
 ### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 3:32:39 PM*
+
+**[REMOVED]**
+```
+(from line ~57)
+r = 5
+for i in range(r):
+    for j in range(i):  #reverse mountain pattern
+        print(" ",end="")
+    for k in range(2*r-1-2*i):
+        print("*",end="")
+    print()
+
+```
+**[ADDED]**
+```
+57    # r = 5
+58    # for i in range(r):
+59    #     for j in range(i):  #reverse mountain pattern
+60    #         print(" ",end="")
+61    #     for k in range(2*r-1-2*i):
+62    #         print("*",end="")
+63    #     print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 3:32:34 PM*
+
+**[REMOVED]**
+```
+(from line ~65)
+# r = 6
+# for i in range(r):       
+#     for j in range(r-1-i):
+#         print(" ",end="")
+#     for k in range(i*2+1):
+#         print("*",end="")
+#     print()
+# for i in range(r-2,-1,-1):
+#     for j in range(r-1-i):
+#         print(" ",end="")   
+#     for k in range(i*2+1):
+#         print("*",end="")
+#     print()
+
+```
+**[ADDED]**
+```
+65    r = 6
+66    for i in range(r):       
+67        for j in range(r-1-i):
+68            print(" ",end="")
+69        for k in range(i*2+1):
+70            print("*",end="")
+71        print()
+72    for i in range(r-2,-1,-1):
+73        for j in range(r-1-i):
+74            print(" ",end="")   
+75        for k in range(i*2+1):
+76            print("*",end="")
+77        print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 3:30:43 PM*
+
+**[REMOVED]**
+```
+(from line ~61)
+    for k in range(2*r-2*i):
+
+```
+**[ADDED]**
+```
+61        for k in range(2*r-1-2*i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 3:30:24 PM*
+
+**[REMOVED]**
+```
+(from line ~59)
+    for j in range(i+1):  #reverse mountain pattern
+
+```
+**[ADDED]**
+```
+59        for j in range(i):  #reverse mountain pattern
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 3:30:05 PM*
+
+**[REMOVED]**
+```
+(from line ~59)
+    for j in range(i+1):  #reverse mountain patter
+
+```
+**[ADDED]**
+```
+59        for j in range(i+1):  #reverse mountain pattern
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 3:30:04 PM*
+
+**[REMOVED]**
+```
+(from line ~59)
+    for j in range(i+1):  #reverse 
+
+```
+**[ADDED]**
+```
+59        for j in range(i+1):  #reverse mountain patter
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 3:29:59 PM*
+
+**[REMOVED]**
+```
+(from line ~59)
+    for j in range(i+1):  #
+
+```
+**[ADDED]**
+```
+59        for j in range(i+1):  #reverse 
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 3:29:55 PM*
+
+**[REMOVED]**
+```
+(from line ~59)
+    for j in range(i+1):  Reverse Mountain pattern
+
+```
+**[ADDED]**
+```
+59        for j in range(i+1):  #
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 3:29:44 PM*
+
+**[REMOVED]**
+```
+(from line ~57)
+# r = 5
+# for i in range(r):
+#     for j in range(i+1):  Reverse Mountain pattern
+#         print(" ",end="")
+#     for k in range(2*r-2*i):
+#         print("*",end="")
+#     print()
+
+```
+**[ADDED]**
+```
+57    r = 5
+58    for i in range(r):
+59        for j in range(i+1):  Reverse Mountain pattern
+60            print(" ",end="")
+61        for k in range(2*r-2*i):
+62            print("*",end="")
+63        print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 3:29:34 PM*
+
+**[REMOVED]**
+```
+(from line ~80)
+r = 6
+for i in range(r-1,-1,-1):
+    for j in range(r-1-i):
+        print(" ",end="")   
+    for k in range(i*2+1):
+        print("*",end="")
+    print()
+for i in range(1,r):       
+    for j in range(r-1-i):
+        print(" ",end="")
+    for k in range(i*2+1):
+        print("*",end="")
+    print()
+```
+**[ADDED]**
+```
+80    # r = 6
+81    # for i in range(r-1,-1,-1):
+82    #     for j in range(r-1-i):
+83    #         print(" ",end="")   
+84    #     for k in range(i*2+1):
+85    #         print("*",end="")
+86    #     print()
+87    # for i in range(1,r):       
+88    #     for j in range(r-1-i):
+89    #         print(" ",end="")
+90    #     for k in range(i*2+1):
+91    #         print("*",end="")
+92    #     print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 3:29:17 PM*
+
+**[REMOVED]**
+```
+(from line ~59)
+#     for j in range(i1):  Reverse Mountain pattern
+
+```
+**[ADDED]**
+```
+59    #     for j in range(i+1):  Reverse Mountain pattern
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 3:29:14 PM*
+
+**[REMOVED]**
+```
+(from line ~59)
+#     for j in range(i=1):  Reverse Mountain pattern
+
+```
+**[ADDED]**
+```
+59    #     for j in range(i1):  Reverse Mountain pattern
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 3:29:12 PM*
+
+**[REMOVED]**
+```
+(from line ~59)
+#     for j in range(i):  Reverse Mountain pattern
+
+```
+**[ADDED]**
+```
+59    #     for j in range(i=1):  Reverse Mountain pattern
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 3:28:46 PM*
+
+**[REMOVED]**
+```
+(from line ~81)
+for i in range(r-1,0,-1):
+
+```
+**[ADDED]**
+```
+81    for i in range(r-1,-1,-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 3:28:33 PM*
+
+**[REMOVED]**
+```
+(from line ~81)
+for i in range(r-1,-,-1):
+
+```
+**[ADDED]**
+```
+81    for i in range(r-1,0,-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 3:28:30 PM*
+
+**[REMOVED]**
+```
+(from line ~81)
+for i in range(r-1,-1,-1):
+
+```
+**[ADDED]**
+```
+81    for i in range(r-1,-,-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 3:28:08 PM*
+
+**[REMOVED]**
+```
+(from line ~87)
+for i in range(1r):       
+
+```
+**[ADDED]**
+```
+87    for i in range(1,r):       
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 3:28:07 PM*
+
+**[REMOVED]**
+```
+(from line ~87)
+for i in range(r):       
+
+```
+**[ADDED]**
+```
+87    for i in range(1r):       
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 3:27:58 PM*
+
+**[REMOVED]**
+```
+(from line ~88)
+    for j in range(r-i):
+
+```
+**[ADDED]**
+```
+88        for j in range(r-1-i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 3:27:56 PM*
+
+**[REMOVED]**
+```
+(from line ~87)
+for i in range(r-1):       
+    for j in range(r-1-i):
+
+```
+**[ADDED]**
+```
+87    for i in range(r):       
+88        for j in range(r-i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 3:27:44 PM*
+
+**[REMOVED]**
+```
+(from line ~87)
+for i in range(r):       
+
+```
+**[ADDED]**
+```
+87    for i in range(r-1):       
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 3:27:38 PM*
+
+**[REMOVED]**
+```
+(from line ~88)
+    for j in range(r-i):
+
+```
+**[ADDED]**
+```
+88        for j in range(r-1-i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 3:27:31 PM*
+
+**[REMOVED]**
+```
+(from line ~88)
+    for j in range(r-1-i):
+
+```
+**[ADDED]**
+```
+88        for j in range(r-i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 3:25:15 PM*
+
+**[REMOVED]**
+```
+(from line ~81)
+for i in range(r-2,-1,-1):
+
+```
+**[ADDED]**
+```
+81    for i in range(r-1,-1,-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:57:10 PM*
+
+**[REMOVED]**
+```
+(from line ~81)
+for i in range(r):       
+
+```
+**[ADDED]**
+```
+81    for i in range(r-2,-1,-1):
+```
+**[REMOVED]**
+```
+(from line ~83)
+        print(" ",end="")
+
+```
+**[ADDED]**
+```
+83            print(" ",end="")   
+```
+**[REMOVED]**
+```
+(from line ~87)
+for i in range(r-2,-1,-1):
+
+```
+**[ADDED]**
+```
+87    for i in range(r):       
+```
+**[REMOVED]**
+```
+(from line ~89)
+        print(" ",end="")   
+
+```
+**[ADDED]**
+```
+89            print(" ",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:57:00 PM*
+
+**[REMOVED]**
+```
+(from line ~65)
+r = 6
+for i in range(r):       
+    for j in range(r-1-i):
+        print(" ",end="")
+    for k in range(i*2+1):
+        print("*",end="")
+    print()
+for i in range(r-2,-1,-1):
+    for j in range(r-1-i):
+        print(" ",end="")   
+    for k in range(i*2+1):
+        print("*",end="")
+    print()
+
+```
+**[ADDED]**
+```
+65    # r = 6
+66    # for i in range(r):       
+67    #     for j in range(r-1-i):
+68    #         print(" ",end="")
+69    #     for k in range(i*2+1):
+70    #         print("*",end="")
+71    #     print()
+72    # for i in range(r-2,-1,-1):
+73    #     for j in range(r-1-i):
+74    #         print(" ",end="")   
+75    #     for k in range(i*2+1):
+76    #         print("*",end="")
+77    #     print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:56:56 PM*
+
+**[ADDED]**
+```
+78        
+79        
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:56:50 PM*
+
+**[ADDED]**
+```
+77        print()
+78    r = 6
+79    for i in range(r):       
+80        for j in range(r-1-i):
+81            print(" ",end="")
+82        for k in range(i*2+1):
+83            print("*",end="")
+84        print()
+85    for i in range(r-2,-1,-1):
+86        for j in range(r-1-i):
+87            print(" ",end="")   
+88        for k in range(i*2+1):
+89            print("*",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:55:33 PM*
+
+**[REMOVED]**
+```
+(from line ~65)
+r = 
+
+```
+**[ADDED]**
+```
+65    r = 6
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:55:31 PM*
+
+**[REMOVED]**
+```
+(from line ~65)
+r = 4
+
+```
+**[ADDED]**
+```
+65    r = 
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:55:22 PM*
+
+**[REMOVED]**
+```
+(from line ~72)
+for i in range(r-1,-1,-1):
+
+```
+**[ADDED]**
+```
+72    for i in range(r-2,-1,-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:54:17 PM*
+
+**[ADDED]**
+```
+71        print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:54:10 PM*
+
+**[REMOVED]**
+```
+(from line ~71)
+    print()
+
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:54:05 PM*
+
+**[ADDED]**
+```
+71        print()
+72    for i in range(r-1,-1,-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:53:48 PM*
+
+**[REMOVED]**
+```
+(from line ~71)
+    print()
+
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:53:43 PM*
+
+**[REMOVED]**
+```
+(from line ~72)
+for i in range(r-1,-1,-1):
+
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:53:28 PM*
+
+**[REMOVED]**
+```
+(from line ~72)
+
+
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:53:25 PM*
+
+**[REMOVED]**
+```
+(from line ~73)
+
+r = 4          
+
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:53:19 PM*
+
+**[REMOVED]**
+```
+(from line ~77)
+        print(" ",end="")     reverse mountain pattern
+
+```
+**[ADDED]**
+```
+77            print(" ",end="")   
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:53:11 PM*
+
+**[REMOVED]**
+```
+(from line ~66)
+for i in range(r):       mountain pattern
+
+```
+**[ADDED]**
+```
+66    for i in range(r):       
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:53:05 PM*
+
+**[REMOVED]**
+```
+(from line ~65)
+# r = 4
+# for i in range(r):       mountain pattern
+#     for j in range(r-1-i):
+#         print(" ",end="")
+#     for k in range(i*2+1):
+#         print("*",end="")
+#     print()
+
+```
+**[ADDED]**
+```
+65    r = 4
+66    for i in range(r):       mountain pattern
+67        for j in range(r-1-i):
+68            print(" ",end="")
+69        for k in range(i*2+1):
+70            print("*",end="")
+71        print()
+```
+**[REMOVED]**
+```
+(from line ~74)
+# r = 4          
+# for i in range(r-1,-1,-1):
+#     for j in range(r-1-i):
+#         print(" ",end="")     reverse mountain pattern
+#     for k in range(i*2+1):
+#         print("*",end="")
+#     print()
+```
+**[ADDED]**
+```
+74    r = 4          
+75    for i in range(r-1,-1,-1):
+76        for j in range(r-1-i):
+77            print(" ",end="")     reverse mountain pattern
+78        for k in range(i*2+1):
+79            print("*",end="")
+80        print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:52:53 PM*
+
+**[ADDED]**
+```
+55    
+56    
+57    # r = 5
+58    # for i in range(r):
+59    #     for j in range(i):  Reverse Mountain pattern
+60    #         print(" ",end="")
+61    #     for k in range(2*r-2*i):
+62    #         print("*",end="")
+63    #     print()
+64    
+```
+**[REMOVED]**
+```
+(from line ~80)
+#     print()
+
+
+# r = 5
+# for i in range(r):
+#     for j in range(i):  Reverse Mountain pattern
+#         print(" ",end="")
+#     for k in range(2*r-2*i):
+#         print("*",end="")
+#     print()
+
+```
+**[ADDED]**
+```
+80    #     print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:52:49 PM*
+
+**[ADDED]**
+```
+55    # r = 4
+56    # for i in range(r):       mountain pattern
+57    #     for j in range(r-1-i):
+58    #         print(" ",end="")
+59    #     for k in range(i*2+1):
+60    #         print("*",end="")
+61    #     print()
+```
+**[ADDED]**
+```
+64    # r = 4          
+65    # for i in range(r-1,-1,-1):
+66    #     for j in range(r-1-i):
+67    #         print(" ",end="")     reverse mountain pattern
+68    #     for k in range(i*2+1):
+69    #         print("*",end="")
+70    #     print()
+71    
+72    
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:52:22 PM*
+
+**[REMOVED]**
+```
+(from line ~64)
+
+r = 4
+for i in range(r):
+    for j in range():
+        print(" ",end="")
+    for k in range():
+        print("*",end="")
+    print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:50:34 PM*
+
+**[REMOVED]**
+```
+(from line ~68)
+        print("*",end="")
+
+```
+**[ADDED]**
+```
+68            print(" ",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:50:21 PM*
+
+**[REMOVED]**
+```
+(from line ~67)
+    for j in range(i+1):
+
+```
+**[ADDED]**
+```
+67        for j in range():
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:50:13 PM*
+
+**[REMOVED]**
+```
+(from line ~69)
+    for k in range(i+):
+
+```
+**[ADDED]**
+```
+69        for k in range():
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:50:09 PM*
+
+**[REMOVED]**
+```
+(from line ~69)
+    for k in range(i+1):
+
+```
+**[ADDED]**
+```
+69        for k in range(i+):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:49:49 PM*
+
+**[REMOVED]**
+```
+(from line ~69)
+    for j in range(i+1):
+
+```
+**[ADDED]**
+```
+69        for k in range(i+1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:49:45 PM*
+
+**[ADDED]**
+```
+69        for j in range(i+1):
+70            print("*",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:49:36 PM*
+
+**[REMOVED]**
+```
+(from line ~65)
+r = 10
+
+```
+**[ADDED]**
+```
+65    r = 4
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:48:56 PM*
+
+**[REMOVED]**
+```
+(from line ~67)
+    for j in range(i):
+
+```
+**[ADDED]**
+```
+67        for j in range(i+1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:48:32 PM*
+
+**[REMOVED]**
+```
+(from line ~67)
+    for j in range():
+
+```
+**[ADDED]**
+```
+67        for j in range(i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:48:28 PM*
+
+**[REMOVED]**
+```
+(from line ~68)
+        
+
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:48:24 PM*
+
+**[REMOVED]**
+```
+(from line ~70)
+print()
+```
+**[ADDED]**
+```
+70        print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:48:22 PM*
+
+**[REMOVED]**
+```
+(from line ~69)
+    print("*",end="")
+
+```
+**[ADDED]**
+```
+69            print("*",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:48:17 PM*
+
+**[REMOVED]**
+```
+(from line ~67)
+    for j in range()
+
+```
+**[ADDED]**
+```
+67        for j in range():
+68            
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:48:09 PM*
+
+**[REMOVED]**
+```
+(from line ~67)
+    
+
+```
+**[ADDED]**
+```
+67        for j in range()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:48:03 PM*
+
+**[ADDED]**
+```
+67        
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:47:51 PM*
+
+**[ADDED]**
+```
+68    print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:47:49 PM*
+
+**[REMOVED]**
+```
+(from line ~67)
+    print("*",end="")
+```
+**[ADDED]**
+```
+67        print("*",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:47:45 PM*
+
+**[REMOVED]**
+```
+(from line ~67)
+    print("*")
+```
+**[ADDED]**
+```
+67        print("*",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:47:41 PM*
+
+**[REMOVED]**
+```
+(from line ~67)
+    print()
+```
+**[ADDED]**
+```
+67        print("*")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:47:37 PM*
+
+**[REMOVED]**
+```
+(from line ~67)
+    
+```
+**[ADDED]**
+```
+67        print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:47:28 PM*
+
+**[REMOVED]**
+```
+(from line ~66)
+for i in range(r)
+```
+**[ADDED]**
+```
+66    for i in range(r):
+67        
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:47:26 PM*
+
+**[REMOVED]**
+```
+(from line ~66)
+for i in range()
+```
+**[ADDED]**
+```
+66    for i in range(r)
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:47:23 PM*
+
+**[REMOVED]**
+```
+(from line ~66)
+for i in range
+```
+**[ADDED]**
+```
+66    for i in range()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:47:22 PM*
+
+**[ADDED]**
+```
+66    for i in range
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:47:14 PM*
+
+**[ADDED]**
+```
+65    r = 10
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:47:06 PM*
+
+**[REMOVED]**
+```
+(from line ~63)
+#     print()
+```
+**[ADDED]**
+```
+63    #     print()
+64    
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:47:03 PM*
+
+**[REMOVED]**
+```
+(from line ~59)
+#     for j in range(i):  Reverse triangle 
+
+```
+**[ADDED]**
+```
+59    #     for j in range(i):  Reverse Mountain pattern
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:46:56 PM*
+
+**[REMOVED]**
+```
+(from line ~59)
+#     for j in range(i):  
+
+```
+**[ADDED]**
+```
+59    #     for j in range(i):  Reverse triangle 
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:46:50 PM*
+
+**[REMOVED]**
+```
+(from line ~59)
+#     for j in range(i):
+
+```
+**[ADDED]**
+```
+59    #     for j in range(i):  
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:46:44 PM*
+
+**[REMOVED]**
+```
+(from line ~57)
+r = 5
+for i in range(r):
+    for j in range(i):
+        print(" ",end="")
+    for k in range(2*r-2*i):
+        print("*",end="")
+    print()
+```
+**[ADDED]**
+```
+57    # r = 5
+58    # for i in range(r):
+59    #     for j in range(i):
+60    #         print(" ",end="")
+61    #     for k in range(2*r-2*i):
+62    #         print("*",end="")
+63    #     print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:46:28 PM*
+
+**[REMOVED]**
+```
+(from line ~58)
+for i in range(r+1):
+
+```
+**[ADDED]**
+```
+58    for i in range(r):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:46:11 PM*
+
+**[REMOVED]**
+```
+(from line ~58)
+for i in range(r+``):
+
+```
+**[ADDED]**
+```
+58    for i in range(r+1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:46:09 PM*
+
+**[REMOVED]**
+```
+(from line ~58)
+for i in range(r):
+
+```
+**[ADDED]**
+```
+58    for i in range(r+``):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:45:18 PM*
+
+**[REMOVED]**
+```
+(from line ~57)
+r = 3
+
+```
+**[ADDED]**
+```
+57    r = 5
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:45:11 PM*
+
+**[REMOVED]**
+```
+(from line ~57)
+r = 4 
+
+```
+**[ADDED]**
+```
+57    r = 3
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:43:56 PM*
+
+**[REMOVED]**
+```
+(from line ~59)
+    for j in range(i+1):
+
+```
+**[ADDED]**
+```
+59        for j in range(i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:43:30 PM*
+
+**[REMOVED]**
+```
+(from line ~59)
+    for j in range(i-1):
+
+```
+**[ADDED]**
+```
+59        for j in range(i+1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:43:21 PM*
+
+**[REMOVED]**
+```
+(from line ~59)
+    for j in range(i):
+
+```
+**[ADDED]**
+```
+59        for j in range(i-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:42:50 PM*
+
+**[REMOVED]**
+```
+(from line ~61)
+    for k in range(2*r+2*i):
+
+```
+**[ADDED]**
+```
+61        for k in range(2*r-2*i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:42:24 PM*
+
+**[REMOVED]**
+```
+(from line ~62)
+        print("*",end=)
+
+```
+**[ADDED]**
+```
+62            print("*",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:42:21 PM*
+
+**[REMOVED]**
+```
+(from line ~62)
+        print("*")
+
+```
+**[ADDED]**
+```
+62            print("*",end=)
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:42:19 PM*
+
+**[REMOVED]**
+```
+(from line ~62)
+        print()
+
+```
+**[ADDED]**
+```
+62            print("*")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:42:14 PM*
+
+**[REMOVED]**
+```
+(from line ~61)
+    for k in range(2*r+2*):
+
+```
+**[ADDED]**
+```
+61        for k in range(2*r+2*i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:42:12 PM*
+
+**[REMOVED]**
+```
+(from line ~61)
+    for k in range(2*r+):
+
+```
+**[ADDED]**
+```
+61        for k in range(2*r+2*):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:42:11 PM*
+
+**[REMOVED]**
+```
+(from line ~61)
+    for k in range(2*r):
+
+```
+**[ADDED]**
+```
+61        for k in range(2*r+):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:42:09 PM*
+
+**[REMOVED]**
+```
+(from line ~61)
+    for k in range(2*):
+
+```
+**[ADDED]**
+```
+61        for k in range(2*r):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:42:07 PM*
+
+**[REMOVED]**
+```
+(from line ~61)
+    for k in range(2):
+
+```
+**[ADDED]**
+```
+61        for k in range(2*):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:42:05 PM*
+
+**[REMOVED]**
+```
+(from line ~61)
+    for k in range():
+
+```
+**[ADDED]**
+```
+61        for k in range(2):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:41:13 PM*
+
+**[REMOVED]**
+```
+(from line ~60)
+        print(" ")
+
+```
+**[ADDED]**
+```
+60            print(" ",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:41:10 PM*
+
+**[REMOVED]**
+```
+(from line ~60)
+        print()
+
+```
+**[ADDED]**
+```
+60            print(" ")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:41:05 PM*
+
+**[REMOVED]**
+```
+(from line ~59)
+    for j in range():
+
+```
+**[ADDED]**
+```
+59        for j in range(i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:40:47 PM*
+
+**[REMOVED]**
+```
+(from line ~58)
+for i in range():
+
+```
+**[ADDED]**
+```
+58    for i in range(r):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:40:22 PM*
+
+**[REMOVED]**
+```
+(from line ~62)
+        print()
+```
+**[ADDED]**
+```
+62            print()
+63        print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:40:17 PM*
+
+**[REMOVED]**
+```
+(from line ~62)
+        
+```
+**[ADDED]**
+```
+62            print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:40:15 PM*
+
+**[REMOVED]**
+```
+(from line ~61)
+    for k in range()
+```
+**[ADDED]**
+```
+61        for k in range():
+62            
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:40:13 PM*
+
+**[REMOVED]**
+```
+(from line ~61)
+        
+```
+**[ADDED]**
+```
+61        for k in range()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:40:07 PM*
+
+**[REMOVED]**
+```
+(from line ~60)
+        print()
+```
+**[ADDED]**
+```
+60            print()
+61            
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:40:06 PM*
+
+**[REMOVED]**
+```
+(from line ~60)
+        
+```
+**[ADDED]**
+```
+60            print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:40:04 PM*
+
+**[REMOVED]**
+```
+(from line ~59)
+    for j in range()
+```
+**[ADDED]**
+```
+59        for j in range():
+60            
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:40:03 PM*
+
+**[REMOVED]**
+```
+(from line ~59)
+    print()
+    
+```
+**[ADDED]**
+```
+59        for j in range()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:39:53 PM*
+
+**[REMOVED]**
+```
+(from line ~59)
+    print()
+```
+**[ADDED]**
+```
+59        print()
+60        
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:39:50 PM*
+
+**[REMOVED]**
+```
+(from line ~59)
+    
+```
+**[ADDED]**
+```
+59        print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:39:48 PM*
+
+**[REMOVED]**
+```
+(from line ~58)
+for i in range()
+```
+**[ADDED]**
+```
+58    for i in range():
+59        
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:39:46 PM*
+
+**[REMOVED]**
+```
+(from line ~57)
+r = 4 
+```
+**[ADDED]**
+```
+57    r = 4 
+58    for i in range()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:39:37 PM*
+
+**[REMOVED]**
+```
+(from line ~54)
+#     print()
+```
+**[ADDED]**
+```
+54    #     print()
+55    
+56    
+57    r = 4 
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:39:30 PM*
+
+**[REMOVED]**
+```
+(from line ~51)
+#         print(" ",end="")
+
+```
+**[ADDED]**
+```
+51    #         print(" ",end="")     reverse mountain pattern
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:39:20 PM*
+
+**[REMOVED]**
+```
+(from line ~48)
+r = 4          
+for i in range(r-1,-1,-1):
+    for j in range(r-1-i):
+        print(" ",end="")
+    for k in range(i*2+1):
+        print("*",end="")
+    print()
+```
+**[ADDED]**
+```
+48    # r = 4          
+49    # for i in range(r-1,-1,-1):
+50    #     for j in range(r-1-i):
+51    #         print(" ",end="")
+52    #     for k in range(i*2+1):
+53    #         print("*",end="")
+54    #     print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:39:08 PM*
+
+**[REMOVED]**
+```
+(from line ~48)
+r = 4
+
+```
+**[ADDED]**
+```
+48    r = 4          
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:38:58 PM*
+
+**[REMOVED]**
+```
+(from line ~40)
+# for i in range(r):       mountain 
+
+```
+**[ADDED]**
+```
+40    # for i in range(r):       mountain pattern
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:38:55 PM*
+
+**[REMOVED]**
+```
+(from line ~40)
+# for i in range(r):       
+
+```
+**[ADDED]**
+```
+40    # for i in range(r):       mountain 
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:38:51 PM*
+
+**[REMOVED]**
+```
+(from line ~40)
+# for i in range(r):
+
+```
+**[ADDED]**
+```
+40    # for i in range(r):       
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:38:09 PM*
+
+**[REMOVED]**
+```
+(from line ~49)
+for i in range(r):
+
+```
+**[ADDED]**
+```
+49    for i in range(r-1,-1,-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:37:52 PM*
+
+**[ADDED]**
+```
+46    
+47    
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:37:49 PM*
+
+**[ADDED]**
+```
+39    # r = 4
+40    # for i in range(r):
+41    #     for j in range(r-1-i):
+42    #         print(" ",end="")
+43    #     for k in range(i*2+1):
+44    #         print("*",end="")
+45    #     print()
+```
+**[REMOVED]**
+```
+(from line ~52)
+    print()
+r = 4
+for i in range(r):
+    for j in range(r-1-i):
+        print(" ",end="")
+    for k in range(i*2+1):
+        print("*",end="")
+
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:37:43 PM*
+
+**[ADDED]**
+```
+45        print()
+46    r = 4
+47    for i in range(r):
+48        for j in range(r-1-i):
+49            print(" ",end="")
+50        for k in range(i*2+1):
+51            print("*",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:37:41 PM*
+
+**[REMOVED]**
+```
+(from line ~39)
+# r = 4
+# for i in range(r):
+#     for j in range(r-1-i):
+#         print(" ",end="")
+#     for k in range(i*2+1):
+#         print("*",end="")
+#     print()
+```
+**[ADDED]**
+```
+39    r = 4
+40    for i in range(r):
+41        for j in range(r-1-i):
+42            print(" ",end="")
+43        for k in range(i*2+1):
+44            print("*",end="")
+45        print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:37:39 PM*
+
+**[REMOVED]**
+```
+(from line ~45)
+    print()
+```
+**[ADDED]**
+```
+45    #     print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:37:38 PM*
+
+**[REMOVED]**
+```
+(from line ~45)
+#     print()
+```
+**[ADDED]**
+```
+45        print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:37:33 PM*
+
+**[REMOVED]**
+```
+(from line ~39)
+r = 4
+for i in range(r):
+    for j in range(r-1-i):
+        print(" ",end="")
+    for k in range(i*2+1):
+        print("*",end="")
+    print()
+```
+**[ADDED]**
+```
+39    # r = 4
+40    # for i in range(r):
+41    #     for j in range(r-1-i):
+42    #         print(" ",end="")
+43    #     for k in range(i*2+1):
+44    #         print("*",end="")
+45    #     print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:37:25 PM*
+
+**[REMOVED]**
+```
+(from line ~39)
+r = 10
+
+```
+**[ADDED]**
+```
+39    r = 4
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:37:19 PM*
+
+**[REMOVED]**
+```
+(from line ~43)
+    for k in range(i*2):
+
+```
+**[ADDED]**
+```
+43        for k in range(i*2+1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:37:17 PM*
+
+**[REMOVED]**
+```
+(from line ~43)
+    for k in range():
+
+```
+**[ADDED]**
+```
+43        for k in range(i*2):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:37:00 PM*
+
+**[REMOVED]**
+```
+(from line ~41)
+    for j in range(r-):
+
+```
+**[ADDED]**
+```
+41        for j in range(r-1-i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:36:57 PM*
+
+**[REMOVED]**
+```
+(from line ~41)
+    for j in range():
+
+```
+**[ADDED]**
+```
+41        for j in range(r-):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:36:46 PM*
+
+**[REMOVED]**
+```
+(from line ~40)
+for i in range():
+
+```
+**[ADDED]**
+```
+40    for i in range(r):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:36:43 PM*
+
+**[REMOVED]**
+```
+(from line ~44)
+        print(" ",end="")
+
+```
+**[ADDED]**
+```
+44            print("*",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:36:39 PM*
+
+**[REMOVED]**
+```
+(from line ~44)
+        print(" ",end="")
+```
+**[ADDED]**
+```
+44            print(" ",end="")
+45        print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:36:33 PM*
+
+**[REMOVED]**
+```
+(from line ~43)
+    for j in range():
+
+```
+**[ADDED]**
+```
+43        for k in range():
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:36:29 PM*
+
+**[ADDED]**
+```
+42            print(" ",end="")
+43        for j in range():
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:36:23 PM*
+
+**[REMOVED]**
+```
+(from line ~42)
+        print(" ")
+```
+**[ADDED]**
+```
+42            print(" ",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:36:20 PM*
+
+**[REMOVED]**
+```
+(from line ~42)
+        print()
+```
+**[ADDED]**
+```
+42            print(" ")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:36:19 PM*
+
+**[REMOVED]**
+```
+(from line ~42)
+        
+```
+**[ADDED]**
+```
+42            print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:36:01 PM*
+
+**[REMOVED]**
+```
+(from line ~41)
+    for j in range()
+```
+**[ADDED]**
+```
+41        for j in range():
+42            
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:36:00 PM*
+
+**[REMOVED]**
+```
+(from line ~41)
+    for j in ragn
+```
+**[ADDED]**
+```
+41        for j in range()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:35:58 PM*
+
+**[REMOVED]**
+```
+(from line ~41)
+    p
+```
+**[ADDED]**
+```
+41        for j in ragn
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:35:54 PM*
+
+**[REMOVED]**
+```
+(from line ~40)
+for i in range()
+```
+**[ADDED]**
+```
+40    for i in range():
+41        p
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:35:51 PM*
+
+**[ADDED]**
+```
+40    for i in range()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:35:45 PM*
+
+**[ADDED]**
+```
+39    r = 10
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:35:42 PM*
+
+**[REMOVED]**
+```
+(from line ~37)
+#     print()
+```
+**[ADDED]**
+```
+37    #     print()
+38    
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:34:53 PM*
+
+**[REMOVED]**
+```
+(from line ~31)
+r = 4
+for i in range(r):
+    for k in range(i):
+        print(" ",end="")
+    for j in range(r-i):
+        print("*",end="")
+    print()
+```
+**[ADDED]**
+```
+31    # r = 4
+32    # for i in range(r):
+33    #     for k in range(i):
+34    #         print(" ",end="")
+35    #     for j in range(r-i):
+36    #         print("*",end="")
+37    #     print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:34:35 PM*
+
+**[REMOVED]**
+```
+(from line ~35)
+    for j in range(r-1-i):
+
+```
+**[ADDED]**
+```
+35        for j in range(r-i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:34:23 PM*
+
+**[REMOVED]**
+```
+(from line ~33)
+    for k in range(i+1):
+
+```
+**[ADDED]**
+```
+33        for k in range(i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:33:55 PM*
+
+**[REMOVED]**
+```
+(from line ~22)
+r = 4
+for i in range(r):
+    for j in range(r-1-i):
+        print(" ",end="")
+    for k in range(i+1):
+        print("* ",end="")
+    print()
+
+```
+**[ADDED]**
+```
+22    # r = 4
+23    # for i in range(r):
+24    #     for j in range(r-1-i):
+25    #         print(" ",end="")
+26    #     for k in range(i+1):
+27    #         print("* ",end="")
+28    #     print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:33:39 PM*
+
+**[REMOVED]**
+```
+(from line ~36)
+        print(" ",end="")
+
+```
+**[ADDED]**
+```
+36            print("*",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:33:36 PM*
+
+**[REMOVED]**
+```
+(from line ~34)
+        print("*",end="")
+
+```
+**[ADDED]**
+```
+34            print(" ",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:33:21 PM*
+
+**[REMOVED]**
+```
+(from line ~33)
+    for j in range(r-1-i):
+        print(" ",end="")
+
+```
+**[ADDED]**
+```
+35        for j in range(r-1-i):
+36            print(" ",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:33:16 PM*
+
+**[REMOVED]**
+```
+(from line ~36)
+        print("* ",end="")
+
+```
+**[ADDED]**
+```
+36            print("*",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:32:56 PM*
+
+**[ADDED]**
+```
+29        
+30        
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:32:49 PM*
+
+**[ADDED]**
+```
+28        print()
+29    r = 4
+30    for i in range(r):
+31        for j in range(r-1-i):
+32            print(" ",end="")
+33        for k in range(i+1):
+34            print("* ",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:32:36 PM*
+
+**[REMOVED]**
+```
+(from line ~27)
+        print("*",end="")
+
+```
+**[ADDED]**
+```
+27            print("* ",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:32:17 PM*
+
+**[REMOVED]**
+```
+(from line ~22)
+r = 10
+
+```
+**[ADDED]**
+```
+22    r = 4
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:31:50 PM*
+
+**[REMOVED]**
+```
+(from line ~27)
+        print(" ",end="")
+
+```
+**[ADDED]**
+```
+27            print("*",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:31:46 PM*
+
+**[REMOVED]**
+```
+(from line ~26)
+    for k in range(i):
+
+```
+**[ADDED]**
+```
+26        for k in range(i+1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:31:44 PM*
+
+**[REMOVED]**
+```
+(from line ~26)
+    for k in range():
+
+```
+**[ADDED]**
+```
+26        for k in range(i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:31:40 PM*
+
+**[REMOVED]**
+```
+(from line ~24)
+    for j in range(r-1):
+
+```
+**[ADDED]**
+```
+24        for j in range(r-1-i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:31:37 PM*
+
+**[REMOVED]**
+```
+(from line ~24)
+    for j in range(r):
+
+```
+**[ADDED]**
+```
+24        for j in range(r-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:31:35 PM*
+
+**[REMOVED]**
+```
+(from line ~24)
+    for j in range():
+
+```
+**[ADDED]**
+```
+24        for j in range(r):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:31:20 PM*
+
+**[REMOVED]**
+```
+(from line ~23)
+for i in range():
+
+```
+**[ADDED]**
+```
+23    for i in range(r):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:31:12 PM*
+
+**[REMOVED]**
+```
+(from line ~27)
+        print(" ",end="")
+```
+**[ADDED]**
+```
+27            print(" ",end="")
+28        print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:31:04 PM*
+
+**[REMOVED]**
+```
+(from line ~26)
+    for j in range():
+
+```
+**[ADDED]**
+```
+26        for k in range():
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:31:01 PM*
+
+**[ADDED]**
+```
+25            print(" ",end="")
+26        for j in range():
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:30:51 PM*
+
+**[REMOVED]**
+```
+(from line ~25)
+        print("",end="")
+```
+**[ADDED]**
+```
+25            print(" ",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:30:49 PM*
+
+**[REMOVED]**
+```
+(from line ~25)
+        print("",end)
+```
+**[ADDED]**
+```
+25            print("",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:30:47 PM*
+
+**[REMOVED]**
+```
+(from line ~25)
+        print("")
+```
+**[ADDED]**
+```
+25            print("",end)
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:30:43 PM*
+
+**[REMOVED]**
+```
+(from line ~25)
+        print()
+```
+**[ADDED]**
+```
+25            print("")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:30:40 PM*
+
+**[REMOVED]**
+```
+(from line ~24)
+    for j in range():
+```
+**[ADDED]**
+```
+24        for j in range():
+25            print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:30:32 PM*
+
+**[REMOVED]**
+```
+(from line ~24)
+    for j in range()
+```
+**[ADDED]**
+```
+24        for j in range():
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:30:30 PM*
+
+**[REMOVED]**
+```
+(from line ~24)
+    for j in rag
+```
+**[ADDED]**
+```
+24        for j in range()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:30:28 PM*
+
+**[REMOVED]**
+```
+(from line ~24)
+    for 
+```
+**[ADDED]**
+```
+24        for j in rag
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:30:25 PM*
+
+**[REMOVED]**
+```
+(from line ~24)
+    
+```
+**[ADDED]**
+```
+24        for 
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:30:21 PM*
+
+**[REMOVED]**
+```
+(from line ~23)
+for i in range()
+```
+**[ADDED]**
+```
+23    for i in range():
+24        
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:30:19 PM*
+
+**[ADDED]**
+```
+23    for i in range()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:30:15 PM*
+
+**[ADDED]**
+```
+22    r = 10
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:30:09 PM*
+
+**[REMOVED]**
+```
+(from line ~20)
+        
+```
+**[ADDED]**
+```
+20            
+21            
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:30:05 PM*
+
+**[REMOVED]**
+```
+(from line ~11)
+r=6 
+for i in range(r):
+    for j in range(i+1):
+        print("*",end="")
+    print()
+for i in range(r):
+    for j in range(i+1):
+        print("*",end="")
+    print()
+
+```
+**[ADDED]**
+```
+11    # r=6 
+12    # for i in range(r):
+13    #     for j in range(i+1):
+14    #         print("*",end="")
+15    #     print()
+16    # for i in range(r):
+17    #     for j in range(i+1):
+18    #         print("*",end="")
+19    #     print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:29:11 PM*
+
+**[REMOVED]**
+```
+(from line ~17)
+    for j in range(i):
+
+```
+**[ADDED]**
+```
+17        for j in range(i+1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:29:07 PM*
+
+**[REMOVED]**
+```
+(from line ~13)
+    for j in range(i):
+
+```
+**[ADDED]**
+```
+13        for j in range(i+1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:28:54 PM*
+
+**[REMOVED]**
+```
+(from line ~17)
+    for j in range():
+
+```
+**[ADDED]**
+```
+17        for j in range(i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:28:46 PM*
+
+**[REMOVED]**
+```
+(from line ~18)
+        print(" ",end="")
+
+```
+**[ADDED]**
+```
+18            print("*",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:28:41 PM*
+
+**[REMOVED]**
+```
+(from line ~14)
+        print(" ",end="")
+
+```
+**[ADDED]**
+```
+14            print("*",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:28:31 PM*
+
+**[REMOVED]**
+```
+(from line ~13)
+    for j in range():
+
+```
+**[ADDED]**
+```
+13        for j in range(i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:28:25 PM*
+
+**[REMOVED]**
+```
+(from line ~13)
+for i in range(r):
+
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:28:20 PM*
+
+**[REMOVED]**
+```
+(from line ~13)
+    for j in range():
+        print(" ",end="")
+
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:28:16 PM*
+
+**[ADDED]**
+```
+19    for i in range(r):
+20        for j in range():
+21            print(" ",end="")
+22        print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:28:13 PM*
+
+**[REMOVED]**
+```
+(from line ~16)
+for i in range(r):
+
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:28:12 PM*
+
+**[ADDED]**
+```
+16    for i in range(r):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:28:07 PM*
+
+**[REMOVED]**
+```
+(from line ~18)
+
+
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:27:44 PM*
+
+**[REMOVED]**
+```
+(from line ~18)
+    for j in range():
+        print(" ",end="")
+
+```
+**[ADDED]**
+```
+18    
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:27:40 PM*
+
+**[ADDED]**
+```
+15    for i in range(r):
+```
+**[ADDED]**
+```
+18        for j in range():
+19            print(" ",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:26:29 PM*
+
+**[ADDED]**
+```
+17        print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:26:23 PM*
+
+**[ADDED]**
+```
+15        for j in range():
+16            print(" ",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:26:19 PM*
+
+**[REMOVED]**
+```
+(from line ~14)
+        print(" ",end="")
+```
+**[ADDED]**
+```
+14            print(" ",end="")
+15            
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:26:17 PM*
+
+**[REMOVED]**
+```
+(from line ~14)
+        print(" ",end)
+```
+**[ADDED]**
+```
+14            print(" ",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:26:15 PM*
+
+**[REMOVED]**
+```
+(from line ~14)
+        print(" ")
+```
+**[ADDED]**
+```
+14            print(" ",end)
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:26:13 PM*
+
+**[REMOVED]**
+```
+(from line ~14)
+        print()
+```
+**[ADDED]**
+```
+14            print(" ")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:26:10 PM*
+
+**[REMOVED]**
+```
+(from line ~14)
+        
+```
+**[ADDED]**
+```
+14            print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:26:01 PM*
+
+**[REMOVED]**
+```
+(from line ~13)
+    for j in range()
+```
+**[ADDED]**
+```
+13        for j in range():
+14            
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:25:59 PM*
+
+**[REMOVED]**
+```
+(from line ~12)
+for i in range(r)
+```
+**[ADDED]**
+```
+12    for i in range(r):
+13        for j in range()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:25:51 PM*
+
+**[REMOVED]**
+```
+(from line ~12)
+for i in range()
+```
+**[ADDED]**
+```
+12    for i in range(r)
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:25:50 PM*
+
+**[REMOVED]**
+```
+(from line ~11)
+r=6 
+```
+**[ADDED]**
+```
+11    r=6 
+12    for i in range()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:25:44 PM*
+
+**[REMOVED]**
+```
+(from line ~11)
+r=
+```
+**[ADDED]**
+```
+11    r=6 
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:25:43 PM*
+
+**[ADDED]**
+```
+11    r=
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:25:40 PM*
+
+**[REMOVED]**
+```
+(from line ~9)
+#     print()
+```
+**[ADDED]**
+```
+9     #     print()
+10    
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:25:38 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+r = 6
+for i in range(r):
+    for j in range(r-i):
+        print("*",end="")
+    print()
+for i in range(r,0,-1):
+    for j in range(i):
+        print("*",end="")
+    print()
+```
+**[ADDED]**
+```
+1     # r = 6
+2     # for i in range(r):
+3     #     for j in range(r-i):
+4     #         print("*",end="")
+5     #     print()
+6     # for i in range(r,0,-1):
+7     #     for j in range(i):
+8     #         print("*",end="")
+9     #     print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:24:46 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+for i in range(r,-1,-1):
+
+```
+**[ADDED]**
+```
+6     for i in range(r,0,-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:24:41 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+for i in range(r-1,-1,-1):
+
+```
+**[ADDED]**
+```
+6     for i in range(r,-1,-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:23:33 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+    for j in range(r):
+
+```
+**[ADDED]**
+```
+7         for j in range(i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:23:30 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+    for j in range(r-i):
+
+```
+**[ADDED]**
+```
+7         for j in range(r):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:23:26 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+for i in range(r-1):
+
+```
+**[ADDED]**
+```
+6     for i in range(r-1,-1,-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:23:22 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+for i in range(r):
+
+```
+**[ADDED]**
+```
+6     for i in range(r-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:23:18 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+for i in range(r-):
+
+```
+**[ADDED]**
+```
+6     for i in range(r):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:23:14 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+for i in range(r):
+
+```
+**[ADDED]**
+```
+6     for i in range(r-):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:21:27 PM*
+
+**[ADDED]**
+```
+5         print()
+6     for i in range(r):
+7         for j in range(r-i):
+8             print("*",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:21:05 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+r = 4
+
+```
+**[ADDED]**
+```
+1     r = 6
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:20:57 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    for j in range(ri):
+
+```
+**[ADDED]**
+```
+3         for j in range(r-i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:20:56 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    for j in range(i):
+
+```
+**[ADDED]**
+```
+3         for j in range(ri):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:20:46 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    for j in range():
+
+```
+**[ADDED]**
+```
+3         for j in range(i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:19:04 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    for j in range(i+1):
+
+```
+**[ADDED]**
+```
+3         for j in range():
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:18:55 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+for i in range(r-1,-1,-1):
+
+```
+**[ADDED]**
+```
+2     for i in range(r):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:18:42 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+for i in range(r-1,-1):
+
+```
+**[ADDED]**
+```
+2     for i in range(r-1,-1,-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:18:40 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+for i in range(r-):
+
+```
+**[ADDED]**
+```
+2     for i in range(r-1,-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:18:37 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+for i in range(r):
+
+```
+**[ADDED]**
+```
+2     for i in range(r-):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:18:34 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    for j in range(i):
+
+```
+**[ADDED]**
+```
+3         for j in range(i+1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:18:30 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    for j in range(i+1):
+
+```
+**[ADDED]**
+```
+3         for j in range(i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:18:17 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+r = 
+
+```
+**[ADDED]**
+```
+1     r = 4
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:18:16 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+r = 1
+
+```
+**[ADDED]**
+```
+1     r = 
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:18:14 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+r = 10
+
+```
+**[ADDED]**
+```
+1     r = 1
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:18:03 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+        print("",end="")
+
+```
+**[ADDED]**
+```
+4             print("*",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:18:01 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+        print(" ",end="")
+
+```
+**[ADDED]**
+```
+4             print("",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:17:52 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    for j in range(i+):
+
+```
+**[ADDED]**
+```
+3         for j in range(i+1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:17:50 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    for j in range(i):
+
+```
+**[ADDED]**
+```
+3         for j in range(i+):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:17:47 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    for j in range():
+
+```
+**[ADDED]**
+```
+3         for j in range(i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:17:31 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    for k in range():
+        print(" ",end="")
+
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:17:12 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    for j in range():
+
+```
+**[ADDED]**
+```
+5         for k in range():
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:17:07 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        
+```
+**[ADDED]**
+```
+7         print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:17:04 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        print(" ",end="")
+```
+**[ADDED]**
+```
+6             print(" ",end="")
+7             
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:17:01 PM*
+
+**[ADDED]**
+```
+4             print(" ",end="")
+5         for j in range():
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:16:54 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+        print("",end="")
+```
+**[ADDED]**
+```
+4             print(" ",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:16:51 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+        print("",end)
+```
+**[ADDED]**
+```
+4             print("",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:16:49 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+        print("")
+```
+**[ADDED]**
+```
+4             print("",end)
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:16:46 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+        print()
+```
+**[ADDED]**
+```
+4             print("")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:16:43 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+        
+```
+**[ADDED]**
+```
+4             print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:16:41 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    for j in range()
+```
+**[ADDED]**
+```
+3         for j in range():
+4             
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:16:37 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+for i in range(r)
+```
+**[ADDED]**
+```
+2     for i in range(r):
+3         for j in range()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:16:29 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+for i in range()
+```
+**[ADDED]**
+```
+2     for i in range(r)
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:16:04 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+for i in range
+```
+**[ADDED]**
+```
+2     for i in range()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:16:03 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+r = 
+```
+**[ADDED]**
+```
+1     r = 10
+2     for i in range
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:15:53 PM*
+
+**[ADDED]**
+```
+1     r = 
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:15:48 PM*
+
+**[REMOVED]**
+```
+(from line ~1)
+#Reverse Mountain Pattern.
+
+r = 6
+for i in range(r-1,0,-1):
+    for j in range(r-1-i):
+        print(" ",end="")    
+    for k in range(i*2+1):
+        print("*",end="")
+    print()
+for i in range(r-1):
+    for j in range(r-1-i):
+        print(" ",end="")
+    for k in range(i*2+1):
+        print("*",end="")
+    print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:14:46 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+        print("* ",end="")
+
+```
+**[ADDED]**
+```
+8             print("*",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 2:14:36 PM*
+
+**[REMOVED]**
+```
+(from line ~14)
+        print("* ",end="")
+
+```
+**[ADDED]**
+```
+14            print("*",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:23:14 AM*
+
+**[REMOVED]**
+```
+(from line ~10)
+for i in range(r-):
+
+```
+**[ADDED]**
+```
+10    for i in range(r-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:23:12 AM*
+
+**[REMOVED]**
+```
+(from line ~10)
+for i in range(r):
+
+```
+**[ADDED]**
+```
+10    for i in range(r-):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:22:19 AM*
+
+**[REMOVED]**
+```
+(from line ~14)
+        print("*",end="")
+
+```
+**[ADDED]**
+```
+14            print("* ",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:22:13 AM*
+
+**[REMOVED]**
+```
+(from line ~8)
+        print("*",end="")
+
+```
+**[ADDED]**
+```
+8             print("* ",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:20:48 AM*
+
+**[REMOVED]**
+```
+(from line ~4)
+for i in range(r-1,,-1):
+
+```
+**[ADDED]**
+```
+4     for i in range(r-1,0,-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:20:47 AM*
+
+**[REMOVED]**
+```
+(from line ~4)
+for i in range(r-1,-1,-1):
+
+```
+**[ADDED]**
+```
+4     for i in range(r-1,,-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:20:25 AM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    for j in range(r--i):
+
+```
+**[ADDED]**
+```
+5         for j in range(r-1-i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:20:24 AM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    for j in range(r-i):
+
+```
+**[ADDED]**
+```
+5         for j in range(r--i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:18:53 AM*
+
+**[REMOVED]**
+```
+(from line ~4)
+for i in range(r,-1,-1):
+
+```
+**[ADDED]**
+```
+4     for i in range(r-1,-1,-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:18:05 AM*
+
+**[REMOVED]**
+```
+(from line ~13)
+    for k in range(i*2-1):
+
+```
+**[ADDED]**
+```
+13        for k in range(i*2+1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:17:56 AM*
+
+**[REMOVED]**
+```
+(from line ~13)
+    for k in range(i*2):
+
+```
+**[ADDED]**
+```
+13        for k in range(i*2-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:17:54 AM*
+
+**[REMOVED]**
+```
+(from line ~13)
+    for k in range(i*2+1):
+
+```
+**[ADDED]**
+```
+13        for k in range(i*2):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:17:41 AM*
+
+**[REMOVED]**
+```
+(from line ~11)
+    for j in range(r-i):
+
+```
+**[ADDED]**
+```
+11        for j in range(r-1-i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:17:38 AM*
+
+**[REMOVED]**
+```
+(from line ~10)
+for i in range(r-1):
+    for j in range(r-1-i):
+
+```
+**[ADDED]**
+```
+10    for i in range(r):
+11        for j in range(r-i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:17:32 AM*
+
+**[REMOVED]**
+```
+(from line ~10)
+for i in range(r):
+
+```
+**[ADDED]**
+```
+10    for i in range(r-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:17:24 AM*
+
+**[REMOVED]**
+```
+(from line ~11)
+    for j in range(r-i):
+
+```
+**[ADDED]**
+```
+11        for j in range(r-1-i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:16:49 AM*
+
+**[REMOVED]**
+```
+(from line ~11)
+    for j in range(r-1-i):
+
+```
+**[ADDED]**
+```
+11        for j in range(r-i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:16:42 AM*
+
+**[REMOVED]**
+```
+(from line ~10)
+for i in range(r-1):
+
+```
+**[ADDED]**
+```
+10    for i in range(r):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:16:33 AM*
+
+**[REMOVED]**
+```
+(from line ~10)
+for i in range(r):
+
+```
+**[ADDED]**
+```
+10    for i in range(r-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:16:10 AM*
+
+**[REMOVED]**
+```
+(from line ~4)
+for i in range(r-1,-1,-1):
+
+```
+**[ADDED]**
+```
+4     for i in range(r,-1,-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:16:01 AM*
+
+**[REMOVED]**
+```
+(from line ~4)
+for i in range(r,-1,-1):
+
+```
+**[ADDED]**
+```
+4     for i in range(r-1,-1,-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:14:50 AM*
+
+**[REMOVED]**
+```
+(from line ~10)
+
+
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:14:44 AM*
+
+**[REMOVED]**
+```
+(from line ~4)
+# for i in range(r,-1,-1):
+#     for j in range(r-i):
+#         print(" ",end="")    
+#     for k in range(i*2+1):
+#         print("*",end="")
+#     print()
+
+```
+**[ADDED]**
+```
+4     for i in range(r,-1,-1):
+5         for j in range(r-i):
+6             print(" ",end="")    
+7         for k in range(i*2+1):
+8             print("*",end="")
+9         print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:14:32 AM*
+
+**[REMOVED]**
+```
+(from line ~11)
+for i in range():
+
+```
+**[ADDED]**
+```
+11    for i in range(r):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:14:25 AM*
+
+**[REMOVED]**
+```
+(from line ~16)
+    print
+```
+**[ADDED]**
+```
+16        print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:14:23 AM*
+
+**[REMOVED]**
+```
+(from line ~15)
+        print("*",end="")
+```
+**[ADDED]**
+```
+15            print("*",end="")
+16        print
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:14:18 AM*
+
+**[REMOVED]**
+```
+(from line ~15)
+        print("*",end=)
+```
+**[ADDED]**
+```
+15            print("*",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:14:17 AM*
+
+**[REMOVED]**
+```
+(from line ~15)
+        print("*")
+```
+**[ADDED]**
+```
+15            print("*",end=)
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:14:14 AM*
+
+**[REMOVED]**
+```
+(from line ~15)
+        print()
+```
+**[ADDED]**
+```
+15            print("*")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:14:09 AM*
+
+**[REMOVED]**
+```
+(from line ~14)
+    for k in range(i*2):
+
+```
+**[ADDED]**
+```
+14        for k in range(i*2+1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:14:05 AM*
+
+**[REMOVED]**
+```
+(from line ~14)
+    for k in range():
+
+```
+**[ADDED]**
+```
+14        for k in range(i*2):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:13:57 AM*
+
+**[REMOVED]**
+```
+(from line ~12)
+    for j in range(r-1-):
+
+```
+**[ADDED]**
+```
+12        for j in range(r-1-i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:13:55 AM*
+
+**[REMOVED]**
+```
+(from line ~12)
+    for j in range():
+
+```
+**[ADDED]**
+```
+12        for j in range(r-1-):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:13:48 AM*
+
+**[REMOVED]**
+```
+(from line ~15)
+        print
+```
+**[ADDED]**
+```
+15            print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:13:45 AM*
+
+**[REMOVED]**
+```
+(from line ~15)
+        
+```
+**[ADDED]**
+```
+15            print
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:13:43 AM*
+
+**[REMOVED]**
+```
+(from line ~14)
+    for k in range()
+```
+**[ADDED]**
+```
+14        for k in range():
+15            
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:13:41 AM*
+
+**[REMOVED]**
+```
+(from line ~14)
+    
+```
+**[ADDED]**
+```
+14        for k in range()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:13:36 AM*
+
+**[REMOVED]**
+```
+(from line ~13)
+        print(" ",end="")
+```
+**[ADDED]**
+```
+13            print(" ",end="")
+14        
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:13:33 AM*
+
+**[REMOVED]**
+```
+(from line ~13)
+        print(" ",end=)
+```
+**[ADDED]**
+```
+13            print(" ",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:13:32 AM*
+
+**[REMOVED]**
+```
+(from line ~13)
+        print(" ",end=*)
+```
+**[ADDED]**
+```
+13            print(" ",end=)
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:13:31 AM*
+
+**[REMOVED]**
+```
+(from line ~13)
+        print(" ",end=)
+```
+**[ADDED]**
+```
+13            print(" ",end=*)
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:13:30 AM*
+
+**[REMOVED]**
+```
+(from line ~13)
+        print(" ",)
+```
+**[ADDED]**
+```
+13            print(" ",end=)
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:13:27 AM*
+
+**[REMOVED]**
+```
+(from line ~13)
+        print(" ")
+```
+**[ADDED]**
+```
+13            print(" ",)
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:13:26 AM*
+
+**[REMOVED]**
+```
+(from line ~13)
+        print()
+```
+**[ADDED]**
+```
+13            print(" ")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:13:16 AM*
+
+**[REMOVED]**
+```
+(from line ~13)
+        
+```
+**[ADDED]**
+```
+13            print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:13:13 AM*
+
+**[REMOVED]**
+```
+(from line ~12)
+    for j in range()
+```
+**[ADDED]**
+```
+12        for j in range():
+13            
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:13:11 AM*
+
+**[REMOVED]**
+```
+(from line ~11)
+for i in range()
+```
+**[ADDED]**
+```
+11    for i in range():
+12        for j in range()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:13:05 AM*
+
+**[REMOVED]**
+```
+(from line ~11)
+for i in range
+```
+**[ADDED]**
+```
+11    for i in range()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:13:03 AM*
+
+**[ADDED]**
+```
+11    for i in range
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:12:57 AM*
+
+**[REMOVED]**
+```
+(from line ~9)
+#     print()
+```
+**[ADDED]**
+```
+9     #     print()
+10    
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:12:55 AM*
+
+**[REMOVED]**
+```
+(from line ~4)
+for i in range(r,-1,-1):
+    for j in range(r-i):
+        print(" ",end="")    
+    for k in range(i*2+1):
+        print("*",end="")
+    print()
+```
+**[ADDED]**
+```
+4     # for i in range(r,-1,-1):
+5     #     for j in range(r-i):
+6     #         print(" ",end="")    
+7     #     for k in range(i*2+1):
+8     #         print("*",end="")
+9     #     print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:12:46 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        print("-",end="")  
+        if i == 0:
+            print("*",end="")  
+    # for k in range(i*2+1):
+    #     print("*",end="")
+
+```
+**[ADDED]**
+```
+6             print(" ",end="")    
+7         for k in range(i*2+1):
+8             print("*",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:12:31 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        if j == 0:
+
+```
+**[ADDED]**
+```
+7             if i == 0:
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:12:19 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        print(" ",end="")  
+
+```
+**[ADDED]**
+```
+6             print("-",end="")  
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:12:11 AM*
+
+**[REMOVED]**
+```
+(from line ~8)
+        print("*",end="")  
+
+```
+**[ADDED]**
+```
+8                 print("*",end="")  
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:12:09 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+    if j == 0:
+
+```
+**[ADDED]**
+```
+7             if j == 0:
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:11:54 AM*
+
+**[REMOVED]**
+```
+(from line ~9)
+    for k in range(i*2+1):
+        print("*",end="")
+
+```
+**[ADDED]**
+```
+9         # for k in range(i*2+1):
+10        #     print("*",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:11:37 AM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    # for j in range(r-i):
+    #     print(" ",end="")  
+
+```
+**[ADDED]**
+```
+5         for j in range(r-i):
+6             print(" ",end="")  
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:11:33 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+    if  == 0:
+
+```
+**[ADDED]**
+```
+7         if j == 0:
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:11:31 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+    if j == 0:
+
+```
+**[ADDED]**
+```
+7         if  == 0:
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:11:19 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+    if j = 0:
+
+```
+**[ADDED]**
+```
+7         if j == 0:
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:11:13 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        if j = 0:
+
+```
+**[ADDED]**
+```
+7         if j = 0:
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:11:10 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+    if j = 0:
+
+```
+**[ADDED]**
+```
+7             if j = 0:
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:11:04 AM*
+
+**[REMOVED]**
+```
+(from line ~8)
+        print("*",end=)  
+
+```
+**[ADDED]**
+```
+8             print("*",end="")  
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:11:03 AM*
+
+**[REMOVED]**
+```
+(from line ~8)
+        print("*",end)  
+
+```
+**[ADDED]**
+```
+8             print("*",end=)  
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:10:59 AM*
+
+**[REMOVED]**
+```
+(from line ~8)
+        print("*")  
+
+```
+**[ADDED]**
+```
+8             print("*",end)  
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:10:57 AM*
+
+**[REMOVED]**
+```
+(from line ~8)
+        print(*)  
+
+```
+**[ADDED]**
+```
+8             print("*")  
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:10:54 AM*
+
+**[REMOVED]**
+```
+(from line ~8)
+        print()  
+
+```
+**[ADDED]**
+```
+8             print(*)  
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:10:50 AM*
+
+**[REMOVED]**
+```
+(from line ~8)
+        print  
+
+```
+**[ADDED]**
+```
+8             print()  
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:10:48 AM*
+
+**[REMOVED]**
+```
+(from line ~8)
+          
+
+```
+**[ADDED]**
+```
+8             print  
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:10:46 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+    if j = 0:  
+
+```
+**[ADDED]**
+```
+7         if j = 0:
+8               
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:10:44 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+    if j = 0  
+
+```
+**[ADDED]**
+```
+7         if j = 0:  
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:10:42 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+    if   
+
+```
+**[ADDED]**
+```
+7         if j = 0  
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:10:38 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+    if i   
+
+```
+**[ADDED]**
+```
+7         if   
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:10:35 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+    if   
+
+```
+**[ADDED]**
+```
+7         if i   
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:10:15 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+      
+
+```
+**[ADDED]**
+```
+7         if   
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:10:14 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    #     print(" ",end="")    
+
+```
+**[ADDED]**
+```
+6         #     print(" ",end="")  
+7           
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
+*Saved at: 8/4/2026, 11:10:04 AM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    for j in range(r-i):
+        print(" ",end="")    
+
+```
+**[ADDED]**
+```
+5         # for j in range(r-i):
+6         #     print(" ",end="")    
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
 *Saved at: 8/3/2026, 9:11:08 AM*
 
 **[REMOVED]**
