@@ -1,3 +1,685 @@
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:23:00 AM*
+
+**[REMOVED]**
+```
+(from line ~2)
+for i in range(r):
+
+```
+**[ADDED]**
+```
+2     for i in range(r-1,-1,-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:22:52 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        if j ==0 or j == i*2 or i== :
+
+```
+**[ADDED]**
+```
+6             if j ==0 or j == i*2 or i== r-1:
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:22:50 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        if j ==0 or j == i*2 or i==0:
+
+```
+**[ADDED]**
+```
+6             if j ==0 or j == i*2 or i== :
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:22:24 AM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    for j in range():
+
+```
+**[ADDED]**
+```
+3         for j in range(r-1-i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:22:18 AM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    for j in range(i*2):
+
+```
+**[ADDED]**
+```
+5         for j in range(i*2+1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:22:17 AM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    for j in range(i):
+
+```
+**[ADDED]**
+```
+5         for j in range(i*2):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:22:15 AM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    for j in range():
+
+```
+**[ADDED]**
+```
+5         for j in range(i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:22:11 AM*
+
+**[REMOVED]**
+```
+(from line ~9)
+            
+
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:22:08 AM*
+
+**[REMOVED]**
+```
+(from line ~10)
+        print(" ",end="")
+
+```
+**[ADDED]**
+```
+10                print(" ",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:22:05 AM*
+
+**[ADDED]**
+```
+8             else:
+9                 
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:21:59 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+            print("*",end)
+
+```
+**[ADDED]**
+```
+7                 print("*",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:21:54 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+            print("*")
+
+```
+**[ADDED]**
+```
+7                 print("*",end)
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:21:51 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+            print("")
+
+```
+**[ADDED]**
+```
+7                 print("*")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:21:48 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+            print()
+
+```
+**[ADDED]**
+```
+7                 print("")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:21:46 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+            prin
+
+```
+**[ADDED]**
+```
+7                 print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:21:45 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+            
+
+```
+**[ADDED]**
+```
+7                 prin
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:21:40 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        if j ==0 or j == i*2 or i==0
+
+```
+**[ADDED]**
+```
+6             if j ==0 or j == i*2 or i==0:
+7                 
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:21:37 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        if j ==0 or j == i*2 or 
+
+```
+**[ADDED]**
+```
+6             if j ==0 or j == i*2 or i==0
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:21:34 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        if j ==0 or j == i*2
+
+```
+**[ADDED]**
+```
+6             if j ==0 or j == i*2 or 
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:21:30 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        if j ==0 or j == i
+
+```
+**[ADDED]**
+```
+6             if j ==0 or j == i*2
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:21:28 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        if j ==0 or j 
+
+```
+**[ADDED]**
+```
+6             if j ==0 or j == i
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:21:25 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        if j ==0
+
+```
+**[ADDED]**
+```
+6             if j ==0 or j 
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:21:21 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        if j ==
+
+```
+**[ADDED]**
+```
+6             if j ==0
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:21:20 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        if 
+
+```
+**[ADDED]**
+```
+6             if j ==
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:21:16 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        
+
+```
+**[ADDED]**
+```
+6             if 
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:21:12 AM*
+
+**[ADDED]**
+```
+6             
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:21:03 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        
+```
+**[ADDED]**
+```
+7         print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:21:00 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        print(" ",end="")
+```
+**[ADDED]**
+```
+6             print(" ",end="")
+7             
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:20:58 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        print(" ")
+```
+**[ADDED]**
+```
+6             print(" ",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:20:55 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        print()
+```
+**[ADDED]**
+```
+6             print(" ")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:20:52 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        
+```
+**[ADDED]**
+```
+6             print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:20:49 AM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    for j in range()
+```
+**[ADDED]**
+```
+5         for j in range():
+6             
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:20:47 AM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    for j in ran
+```
+**[ADDED]**
+```
+5         for j in range()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:20:45 AM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    for 
+```
+**[ADDED]**
+```
+5         for j in ran
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:20:41 AM*
+
+**[REMOVED]**
+```
+(from line ~4)
+        print(" ",end="")
+```
+**[ADDED]**
+```
+4             print(" ",end="")
+5         for 
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:20:37 AM*
+
+**[REMOVED]**
+```
+(from line ~4)
+        print(" ")
+```
+**[ADDED]**
+```
+4             print(" ",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:20:32 AM*
+
+**[REMOVED]**
+```
+(from line ~4)
+        print()
+```
+**[ADDED]**
+```
+4             print(" ")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:20:30 AM*
+
+**[REMOVED]**
+```
+(from line ~4)
+        
+```
+**[ADDED]**
+```
+4             print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:20:28 AM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    for j in range()
+```
+**[ADDED]**
+```
+3         for j in range():
+4             
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:20:23 AM*
+
+**[REMOVED]**
+```
+(from line ~2)
+for i in range(r)
+```
+**[ADDED]**
+```
+2     for i in range(r):
+3         for j in range()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:20:16 AM*
+
+**[REMOVED]**
+```
+(from line ~2)
+for i in range()
+```
+**[ADDED]**
+```
+2     for i in range(r)
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:20:14 AM*
+
+**[REMOVED]**
+```
+(from line ~2)
+for i in range
+```
+**[ADDED]**
+```
+2     for i in range()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:20:13 AM*
+
+**[REMOVED]**
+```
+(from line ~2)
+for i in ragne
+```
+**[ADDED]**
+```
+2     for i in range
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:20:11 AM*
+
+**[ADDED]**
+```
+2     for i in ragne
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
+*Saved at: 8/5/2026, 11:20:07 AM*
+
+**[ADDED]**
+```
+1     r = 10
+```
+
+---
+
 ### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
 *Saved at: 8/5/2026, 11:19:11 AM*
 
