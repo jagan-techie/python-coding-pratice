@@ -1,3 +1,762 @@
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:19:11 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        if j == i*2 or j == 0 or i == :
+
+```
+**[ADDED]**
+```
+7             if j == i*2 or j == 0 or i == r-1:
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:19:09 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        if j == i*2 or j == 0 or i = :
+
+```
+**[ADDED]**
+```
+7             if j == i*2 or j == 0 or i == :
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:19:05 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        if j == i*2 or j == 0 or :
+
+```
+**[ADDED]**
+```
+7             if j == i*2 or j == 0 or i = :
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:18:58 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        if j == i*2 or j == 0 :
+
+```
+**[ADDED]**
+```
+7             if j == i*2 or j == 0 or :
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:18:57 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        if j == i*2 or j == 0:
+
+```
+**[ADDED]**
+```
+7             if j == i*2 or j == 0 :
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:18:34 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    for k in range(i*2+1):
+
+```
+**[ADDED]**
+```
+6         for j in range(i*2+1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:17:30 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        if j ==  or j == 0:
+
+```
+**[ADDED]**
+```
+7             if j == i*2 or j == 0:
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:17:26 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        if j == 0 or j == 0:
+
+```
+**[ADDED]**
+```
+7             if j ==  or j == 0:
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:17:23 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        if i == 0 or j == 0:
+
+```
+**[ADDED]**
+```
+7             if j == 0 or j == 0:
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:17:10 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    for  in range(i*2+1):
+
+```
+**[ADDED]**
+```
+6         for k in range(i*2+1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:17:07 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    for k in range(i*2+1):
+
+```
+**[ADDED]**
+```
+6         for  in range(i*2+1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:16:56 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    for j in range(i*2+1):
+
+```
+**[ADDED]**
+```
+6         for k in range(i*2+1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:16:33 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    for j in range(i*2):
+
+```
+**[ADDED]**
+```
+6         for j in range(i*2+1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:16:09 AM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    for j in range(r-):
+
+```
+**[ADDED]**
+```
+4         for j in range(r-1-i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:16:03 AM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    for j in range(r-1-i):
+
+```
+**[ADDED]**
+```
+4         for j in range(r-):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:15:54 AM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    for j in range(r-):
+
+```
+**[ADDED]**
+```
+4         for j in range(r-1-i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:15:51 AM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    for j in range():
+
+```
+**[ADDED]**
+```
+4         for j in range(r-):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:15:39 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    for j in range(i):
+
+```
+**[ADDED]**
+```
+6         for j in range(i*2):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:15:37 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+    for j in range():
+
+```
+**[ADDED]**
+```
+6         for j in range(i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:15:26 AM*
+
+**[REMOVED]**
+```
+(from line ~8)
+        print("*",end="")
+
+```
+**[ADDED]**
+```
+8                 print("*",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:15:21 AM*
+
+**[ADDED]**
+```
+8             print("*",end="")
+```
+**[REMOVED]**
+```
+(from line ~11)
+        print("*",end="")
+
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:15:15 AM*
+
+**[REMOVED]**
+```
+(from line ~9)
+            print(" ")
+
+```
+**[ADDED]**
+```
+9                 print(" ",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:15:11 AM*
+
+**[REMOVED]**
+```
+(from line ~9)
+            print()
+
+```
+**[ADDED]**
+```
+9                 print(" ")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:15:09 AM*
+
+**[REMOVED]**
+```
+(from line ~9)
+            
+
+```
+**[ADDED]**
+```
+9                 print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:15:06 AM*
+
+**[ADDED]**
+```
+9                 
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:15:04 AM*
+
+**[REMOVED]**
+```
+(from line ~8)
+            else
+
+```
+**[ADDED]**
+```
+8             else:
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:15:02 AM*
+
+**[REMOVED]**
+```
+(from line ~8)
+            
+
+```
+**[ADDED]**
+```
+8                 else
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:14:58 AM*
+
+**[ADDED]**
+```
+8                 
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:14:53 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        if i == 0 or j == 0
+
+```
+**[ADDED]**
+```
+7             if i == 0 or j == 0:
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:14:51 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        if i == 0 or j 
+
+```
+**[ADDED]**
+```
+7             if i == 0 or j == 0
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:14:48 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        if i == 0
+
+```
+**[ADDED]**
+```
+7             if i == 0 or j 
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:14:44 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        if i 
+
+```
+**[ADDED]**
+```
+7             if i == 0
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:14:41 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        if 
+
+```
+**[ADDED]**
+```
+7             if i 
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:14:39 AM*
+
+**[ADDED]**
+```
+7             if 
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:14:25 AM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    for j in range(2):
+
+```
+**[ADDED]**
+```
+4         for j in range():
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:14:20 AM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    for j in range():
+
+```
+**[ADDED]**
+```
+4         for j in range(2):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:14:06 AM*
+
+**[REMOVED]**
+```
+(from line ~3)
+for i in range():
+
+```
+**[ADDED]**
+```
+3     for i in range(r):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:14:01 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        print("*",end="")
+```
+**[ADDED]**
+```
+7             print("*",end="")
+8         print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:13:56 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+        print(" ",end="")
+```
+**[ADDED]**
+```
+7             print("*",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:13:51 AM*
+
+**[ADDED]**
+```
+5             print(" ",end="")
+6         for j in range():
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:13:44 AM*
+
+**[REMOVED]**
+```
+(from line ~5)
+        print(" ")
+```
+**[ADDED]**
+```
+5             print(" ",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:13:39 AM*
+
+**[REMOVED]**
+```
+(from line ~5)
+        
+```
+**[ADDED]**
+```
+5             print(" ")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:13:36 AM*
+
+**[REMOVED]**
+```
+(from line ~4)
+    for j in range()
+```
+**[ADDED]**
+```
+4         for j in range():
+5             
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:13:28 AM*
+
+**[REMOVED]**
+```
+(from line ~3)
+for i in range()
+```
+**[ADDED]**
+```
+3     for i in range():
+4         for j in range()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 11:13:19 AM*
+
+**[ADDED]**
+```
+2     r = 10
+3     for i in range()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 10:56:36 AM*
+
+**[REMOVED]**
+```
+(from line ~1)
+# Hole Mountain
+```
+**[ADDED]**
+```
+1     # Hole Mountain
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 10:56:34 AM*
+
+**[REMOVED]**
+```
+(from line ~1)
+# Hole Mo
+```
+**[ADDED]**
+```
+1     # Hole Mountain
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 10:56:32 AM*
+
+**[REMOVED]**
+```
+(from line ~1)
+# Hole 
+```
+**[ADDED]**
+```
+1     # Hole Mo
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 10:56:31 AM*
+
+**[REMOVED]**
+```
+(from line ~1)
+#
+```
+**[ADDED]**
+```
+1     # Hole 
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\hole mountain.py
+*Saved at: 8/5/2026, 10:56:26 AM*
+
+**[ADDED]**
+```
+1     #
+```
+
+---
+
 ### 📄 d:\PRATICE FILE\python-coding-pratice\day 8\reverseMountainPattern.py
 *Saved at: 8/4/2026, 3:34:45 PM*
 
