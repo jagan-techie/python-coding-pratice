@@ -1,3 +1,885 @@
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:29:54 AM*
+
+**[REMOVED]**
+```
+(from line ~1)
+r = 
+
+```
+**[ADDED]**
+```
+1     r = 5
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:29:53 AM*
+
+**[REMOVED]**
+```
+(from line ~1)
+r = 10
+
+```
+**[ADDED]**
+```
+1     r = 
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:29:10 AM*
+
+**[REMOVED]**
+```
+(from line ~15)
+        if j ==0 or j == i*2:
+
+```
+**[ADDED]**
+```
+15            if j ==0 or j == i*2 :
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:29:07 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        if j ==0 or j == i*2:
+
+```
+**[ADDED]**
+```
+6             if j ==0 or j == i*2 :
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:29:06 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        if j ==0 or j == i*2 or i == r-1:
+
+```
+**[ADDED]**
+```
+6             if j ==0 or j == i*2:
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:29:02 AM*
+
+**[REMOVED]**
+```
+(from line ~15)
+        if j ==0 or j == i*2 or i == r-1:
+
+```
+**[ADDED]**
+```
+15            if j ==0 or j == i*2:
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:28:53 AM*
+
+**[REMOVED]**
+```
+(from line ~11)
+for i in range(r-1,-1,-1):
+
+```
+**[ADDED]**
+```
+11    for i in range(r-2,-1,-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:28:47 AM*
+
+**[REMOVED]**
+```
+(from line ~11)
+for i in range(r):
+
+```
+**[ADDED]**
+```
+11    for i in range(r-1,-1,-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:28:38 AM*
+
+**[REMOVED]**
+```
+(from line ~4)
+        print(" ")
+
+```
+**[ADDED]**
+```
+4             print(" ",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:28:35 AM*
+
+**[REMOVED]**
+```
+(from line ~4)
+        print()
+
+```
+**[ADDED]**
+```
+4             print(" ")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:28:28 AM*
+
+**[REMOVED]**
+```
+(from line ~12)
+    for j in range():
+
+```
+**[ADDED]**
+```
+12        for j in range(r-1-i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:28:20 AM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    for j in range(r-1):
+
+```
+**[ADDED]**
+```
+3         for j in range(r-1-i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:28:18 AM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    for j in range(r):
+
+```
+**[ADDED]**
+```
+3         for j in range(r-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:28:16 AM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    for j in range():
+
+```
+**[ADDED]**
+```
+3         for j in range(r):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:28:08 AM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    for j in range(i*2):
+
+```
+**[ADDED]**
+```
+5         for j in range(i*2+1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:28:06 AM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    for j in range(i):
+
+```
+**[ADDED]**
+```
+5         for j in range(i*2):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:28:04 AM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    for j in range():
+
+```
+**[ADDED]**
+```
+5         for j in range(i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:27:59 AM*
+
+**[REMOVED]**
+```
+(from line ~14)
+    for j in range(i*2):
+
+```
+**[ADDED]**
+```
+14        for j in range(i*2+1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:27:57 AM*
+
+**[REMOVED]**
+```
+(from line ~14)
+    for j in range():
+
+```
+**[ADDED]**
+```
+14        for j in range(i*2):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:27:51 AM*
+
+**[REMOVED]**
+```
+(from line ~13)
+        print(" ",end)
+
+```
+**[ADDED]**
+```
+13            print(" ",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:27:49 AM*
+
+**[REMOVED]**
+```
+(from line ~13)
+        print(" ")
+
+```
+**[ADDED]**
+```
+13            print(" ",end)
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:27:47 AM*
+
+**[REMOVED]**
+```
+(from line ~13)
+        print()
+
+```
+**[ADDED]**
+```
+13            print(" ")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:27:32 AM*
+
+**[REMOVED]**
+```
+(from line ~20)
+for i in range(r):
+    for j in range():
+        print()
+    for j in range():
+        print()
+    print()
+
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:27:26 AM*
+
+**[ADDED]**
+```
+15            if j ==0 or j == i*2 or i == r-1:
+16                print("*",end="")
+17            else:
+18                print(" ",end="")
+19        print()
+20    for i in range(r):
+21        for j in range():
+```
+**[ADDED]**
+```
+23        for j in range():
+24            print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:27:18 AM*
+
+**[REMOVED]**
+```
+(from line ~9)
+        print(" ",end="")
+
+```
+**[ADDED]**
+```
+9                 print(" ",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:27:08 AM*
+
+**[REMOVED]**
+```
+(from line ~9)
+            
+
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:27:05 AM*
+
+**[REMOVED]**
+```
+(from line ~10)
+        print(" ",end=A)
+
+```
+**[ADDED]**
+```
+10            print(" ",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:27:02 AM*
+
+**[REMOVED]**
+```
+(from line ~10)
+        print(" ")
+
+```
+**[ADDED]**
+```
+10            print(" ",end=A)
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:26:59 AM*
+
+**[REMOVED]**
+```
+(from line ~10)
+        print()
+
+```
+**[ADDED]**
+```
+10            print(" ")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:26:56 AM*
+
+**[REMOVED]**
+```
+(from line ~8)
+        else
+
+```
+**[ADDED]**
+```
+8             else:
+9                 
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:26:54 AM*
+
+**[ADDED]**
+```
+8             else
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:26:39 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+            print("*",end)
+
+```
+**[ADDED]**
+```
+7                 print("*",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:26:37 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+            print("*")
+
+```
+**[ADDED]**
+```
+7                 print("*",end)
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:26:35 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+            print("")
+
+```
+**[ADDED]**
+```
+7                 print("*")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:26:34 AM*
+
+**[REMOVED]**
+```
+(from line ~7)
+            
+
+```
+**[ADDED]**
+```
+7                 print("")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:26:26 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        if j ==0 or j == i*2 or i == r-1
+
+```
+**[ADDED]**
+```
+6             if j ==0 or j == i*2 or i == r-1:
+7                 
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:26:22 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        if j ==0 or j == i*2 or i ==r-1
+
+```
+**[ADDED]**
+```
+6             if j ==0 or j == i*2 or i == r-1
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:26:20 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        if j ==0 or j == i*2 or i = r-1
+
+```
+**[ADDED]**
+```
+6             if j ==0 or j == i*2 or i ==r-1
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:26:17 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        if j ==0 or j == i*2 or j == 
+
+```
+**[ADDED]**
+```
+6             if j ==0 or j == i*2 or i = r-1
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:26:11 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        if j ==0 or j == i*2 or j
+
+```
+**[ADDED]**
+```
+6             if j ==0 or j == i*2 or j == 
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:26:08 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        if j ==0 or j == i*2 
+
+```
+**[ADDED]**
+```
+6             if j ==0 or j == i*2 or j
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:26:06 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        if j ==0 or j == i
+
+```
+**[ADDED]**
+```
+6             if j ==0 or j == i*2 
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:26:04 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        if j ==0 or j
+
+```
+**[ADDED]**
+```
+6             if j ==0 or j == i
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:25:59 AM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        if 
+
+```
+**[ADDED]**
+```
+6             if j ==0 or j
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:25:51 AM*
+
+**[ADDED]**
+```
+6             if 
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:25:40 AM*
+
+**[ADDED]**
+```
+8     for i in range(r):
+9         for j in range():
+10            print()
+11        for j in range():
+12            print()
+13        print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:25:26 AM*
+
+**[ADDED]**
+```
+7         print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:25:21 AM*
+
+**[ADDED]**
+```
+5         for j in range():
+6             print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:25:12 AM*
+
+**[REMOVED]**
+```
+(from line ~4)
+        print()
+```
+**[ADDED]**
+```
+4             print()
+5             
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:25:05 AM*
+
+**[REMOVED]**
+```
+(from line ~4)
+        
+```
+**[ADDED]**
+```
+4             print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:25:02 AM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    for j in range()
+```
+**[ADDED]**
+```
+3         for j in range():
+4             
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:24:58 AM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    for j in ra
+```
+**[ADDED]**
+```
+3         for j in range()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:24:56 AM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    
+```
+**[ADDED]**
+```
+3         for j in ra
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:24:51 AM*
+
+**[REMOVED]**
+```
+(from line ~2)
+for i in range(r)
+```
+**[ADDED]**
+```
+2     for i in range(r):
+3         
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:24:50 AM*
+
+**[REMOVED]**
+```
+(from line ~2)
+for i in range()
+```
+**[ADDED]**
+```
+2     for i in range(r)
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:24:48 AM*
+
+**[REMOVED]**
+```
+(from line ~1)
+r = 
+```
+**[ADDED]**
+```
+1     r = 10
+2     for i in range()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
+*Saved at: 8/5/2026, 11:24:41 AM*
+
+**[ADDED]**
+```
+1     r = 
+```
+
+---
+
 ### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole reverse mountain.py
 *Saved at: 8/5/2026, 11:23:00 AM*
 
