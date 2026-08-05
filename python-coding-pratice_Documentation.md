@@ -1,3 +1,685 @@
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:08:23 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    for j in range(i,0,-1):
+
+```
+**[ADDED]**
+```
+5         for j in range(i+1,0,-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:08:01 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    for j in range(i+1,0,-1):
+
+```
+**[ADDED]**
+```
+5         for j in range(i,0,-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:07:35 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+    for j in range(2,i+):
+
+```
+**[ADDED]**
+```
+7         for j in range(2,i+2):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:07:09 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    for j in range(i+1,0,):
+
+```
+**[ADDED]**
+```
+5         for j in range(i+1,0,-1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:07:08 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    for j in range(i+1,0):
+
+```
+**[ADDED]**
+```
+5         for j in range(i+1,0,):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:07:06 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    for j in range(i+1):
+
+```
+**[ADDED]**
+```
+5         for j in range(i+1,0):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:06:48 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+        print(j)
+
+```
+**[ADDED]**
+```
+8             print(j,end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:06:45 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+        print()
+
+```
+**[ADDED]**
+```
+8             print(j)
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:06:23 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+    for j in range(2,i):
+
+```
+**[ADDED]**
+```
+7         for j in range(2,i+):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:06:21 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+    for j in range():
+
+```
+**[ADDED]**
+```
+7         for j in range(2,i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:05:50 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    for j in range(i):
+
+```
+**[ADDED]**
+```
+5         for j in range(i+1):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:05:48 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    for j in range():
+
+```
+**[ADDED]**
+```
+5         for j in range(i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:05:32 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+        print(" ")
+
+```
+**[ADDED]**
+```
+4             print(" ",end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:05:21 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+for i in range():
+
+```
+**[ADDED]**
+```
+2     for i in range(r):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:05:18 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    for j in range(r-1-):
+
+```
+**[ADDED]**
+```
+3         for j in range(r-1-i):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:05:16 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    for j in range(r):
+
+```
+**[ADDED]**
+```
+3         for j in range(r-1-):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:05:14 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    for j in range():
+
+```
+**[ADDED]**
+```
+3         for j in range(r):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:05:00 PM*
+
+**[REMOVED]**
+```
+(from line ~9)
+    
+```
+**[ADDED]**
+```
+9         print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:04:51 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+        print()
+```
+**[ADDED]**
+```
+8             print()
+9         
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:04:44 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+    for j in range(I):
+
+```
+**[ADDED]**
+```
+7         for j in range():
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:04:43 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+    for j in range():
+
+```
+**[ADDED]**
+```
+7         for j in range(I):
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:04:40 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+        print("")
+```
+**[ADDED]**
+```
+8             print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:04:36 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+        print()
+```
+**[ADDED]**
+```
+8             print("")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:04:34 PM*
+
+**[REMOVED]**
+```
+(from line ~8)
+        
+```
+**[ADDED]**
+```
+8             print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:04:31 PM*
+
+**[REMOVED]**
+```
+(from line ~7)
+    for j in range()
+```
+**[ADDED]**
+```
+7         for j in range():
+8             
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:04:29 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        print(j,end="")
+```
+**[ADDED]**
+```
+6             print(j,end="")
+7         for j in range()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:04:16 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        print(j)
+```
+**[ADDED]**
+```
+6             print(j,end="")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:04:12 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        print("")
+```
+**[ADDED]**
+```
+6             print(j)
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:04:08 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        print()
+```
+**[ADDED]**
+```
+6             print("")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:04:06 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        a
+```
+**[ADDED]**
+```
+6             print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:04:03 PM*
+
+**[REMOVED]**
+```
+(from line ~6)
+        
+```
+**[ADDED]**
+```
+6             a
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:04:02 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    for j in range()
+```
+**[ADDED]**
+```
+5         for j in range():
+6             
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:04:01 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    for j in range
+```
+**[ADDED]**
+```
+5         for j in range()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:03:59 PM*
+
+**[REMOVED]**
+```
+(from line ~5)
+    
+```
+**[ADDED]**
+```
+5         for j in range
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:03:50 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+        print(" ")
+```
+**[ADDED]**
+```
+4             print(" ")
+5         
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:02:41 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+        print()
+```
+**[ADDED]**
+```
+4             print(" ")
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:02:39 PM*
+
+**[REMOVED]**
+```
+(from line ~4)
+        
+```
+**[ADDED]**
+```
+4             print()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:02:35 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    for j in range()
+```
+**[ADDED]**
+```
+3         for j in range():
+4             
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:02:34 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    for j in range
+```
+**[ADDED]**
+```
+3         for j in range()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:02:33 PM*
+
+**[REMOVED]**
+```
+(from line ~3)
+    
+```
+**[ADDED]**
+```
+3         for j in range
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:02:27 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+for i in range()
+```
+**[ADDED]**
+```
+2     for i in range():
+3         
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:02:24 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+for i in range
+```
+**[ADDED]**
+```
+2     for i in range()
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:02:22 PM*
+
+**[REMOVED]**
+```
+(from line ~2)
+for i in ragne
+```
+**[ADDED]**
+```
+2     for i in range
+```
+
+---
+
+### 📄 d:\PRATICE FILE\python-coding-pratice\day 11\number mountain.py
+*Saved at: 8/5/2026, 12:02:21 PM*
+
+**[ADDED]**
+```
+1     r = 6
+2     for i in ragne
+```
+
+---
+
 ### 📄 d:\PRATICE FILE\python-coding-pratice\day6\hole diamond.py
 *Saved at: 8/5/2026, 11:29:54 AM*
 
